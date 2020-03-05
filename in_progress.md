@@ -5,6 +5,8 @@
 
 ## Waiting
 - Review of Statutes till Friday
+- Handelsregisteranmeldung
+- Protokoll der Gründerversammlung - waiting for Bürgerort of Dominik and Viktoria
 
 ### Wahlannahme 
 - Roger
