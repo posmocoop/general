@@ -1,6 +1,8 @@
 # To Do 
 
-## Allgemein
+## Allgemein
+
+### Gründung
 
 - Protokoll der Gründerversammlung
 - Domizilhaltererklärung
