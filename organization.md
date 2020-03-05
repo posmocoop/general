@@ -1,13 +1,13 @@
-Genossenschaft Posmo Schweiz
-Posmo Data Producer Cooperative
+Genossenschaft Posmo Schweiz                    
+Posmo Data Producer Cooperative            
 
 # Organe
 
-A. Generalversammlung
-B. Verwaltung
-C. Ethikrat
-D. Revision 
-E. Arbeitsgruppen
+A. Generalversammlung          
+B. Verwaltung               
+C. Ethikrat                
+D. Revision                  
+E. Arbeitsgruppen               
 
 
 ## A. Verwaltung
