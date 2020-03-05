@@ -1,5 +1,7 @@
-# general
-Übersicht
+# Übersicht
 
-- Statuten
 - Organisation
+- Statuten
+
+
+## Next Steps
