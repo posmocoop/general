@@ -10,7 +10,7 @@ D. Revision
 E. Arbeitsgruppen               
 
 
-## A. Verwaltung
+## Verwaltung
 
 ### Präsident
 Roger Fischer
