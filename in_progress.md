@@ -2,6 +2,12 @@
 
 ## Working
 
+### Allgemein
+...            
+             
+### Kommunikation
+One-Pager, next Design
+
 
 ## Waiting
 
@@ -18,5 +24,4 @@
 - Viktoria
 - Dominik
 
-### Kommunikation
-One-Pager, next Design
+
