@@ -5,7 +5,7 @@
 ### Gründung
 
 - <strike>[Handelregisteranmeldung](https://hra.zh.ch/dam/justiz_innern/hra/Praxis/Genossenschaft/geno_neueintragung/5250mb01.pdf.spooler.download.1392991641983.pdf/5250mb01.pdf)</strike>
-- Protokoll der Gründerversammlung
+- <strike>Protokoll der Gründerversammlung</strike>
 - Domizilhaltererklärung
 - Stampa-Erklärung
 - Lex-Friedrich-Erklärung
@@ -25,8 +25,10 @@
 - Publikation des Lageberichts bzw. Jahresrechnung
 
 ### Ethikrat
-...
+...         
+        
 ### Arbeitsgruppe Kommunikation
-...
+...      
+        
 ### Arbeitsgruppe Fundraising
-...
+...       
