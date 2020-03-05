@@ -1,2 +1,5 @@
 # general
 Übersicht
+
+- Statuten
+- Organisation
