@@ -4,6 +4,7 @@
 
 ### Gründung
 
+- [Handelregisteranmeldung](https://hra.zh.ch/dam/justiz_innern/hra/Praxis/Genossenschaft/geno_neueintragung/5250mb01.pdf.spooler.download.1392991641983.pdf/5250mb01.pdf)
 - Protokoll der Gründerversammlung
 - Domizilhaltererklärung
 - Stampa-Erklärung
