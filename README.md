@@ -5,3 +5,6 @@
 
 
 ## Next Steps
+- [To Do](https://github.com/posmocoop/general/blob/master/to_do.md)
+- [In Progress](https://github.com/posmocoop/general/blob/master/in_progress.md)
+- [Done](https://github.com/posmocoop/general/blob/master/done.md)
