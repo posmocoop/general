@@ -16,11 +16,11 @@ One-Pager, next Design
 - Handelsregisteranmeldung
 - Protokoll der Gründerversammlung - waiting for Bürgerort of Dominik and Viktoria
 
-#### Wahlannahme 
+#### Wahlannahme + Kopie ID/Pass
 - Roger
 - Lea - DONE (paper)
 - Marius
-- Alex - 1/2 DONE (only scan)
+- Alex - DONE (scan / paper)
 - Viktoria
 - Dominik
 
