@@ -1,6 +1,6 @@
 # Mitgliederverzeichnis
 
-## DB Structure
+## DB-Struktur
 
 - id
 - email
@@ -20,7 +20,7 @@
 - workplace ?
 - interests ?
 
-## Visibility
+## Visibilität
 
 ### Für Genossenschafterinnen (eingeloggt)
 People can reveal name, city municipality or stay anonymous?
