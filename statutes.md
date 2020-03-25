@@ -49,5 +49,11 @@ tl;dr
 5. Die Genossenschaft kann die Gründung von Genossenschaften mit dem gleichen Zweck in der Schweiz und im Ausland unterstützen und sich mit ihnen zu einem Bund von Genossenschaften zusammenschliessen.
 
 6. Die Genossenschaft kann Tochtergesellschaften im In- und Ausland errichten, sich an anderen Unternehmen im In- und Ausland beteiligen, sowie Grundstücke erwerben, halten und veräussern.
+      
+...
+
+
+Die vollständigen Statutuen findet man [hier](https://docs.google.com/document/d/1jeIdp8BWxQquvb8dj19EKWL28OpV6mrUHc38u6VKW_I/edit#). 
+Dies hier ist ein WORK IN PROGRESS.
 
 
