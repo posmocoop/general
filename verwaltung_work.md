@@ -1,5 +1,8 @@
 # Verwaltung 
 
+This file can only be updated by the defined person within the Verwaltung.
+
+
 | date | topic | participants | duration |
 | --- | --- | --- | --- |
 | 2020-03-23 | posmo B | lea, marius, roger | 2h |
