@@ -2,7 +2,7 @@
 
 - [Organisation](https://github.com/posmocoop/general/blob/master/organization.md)
 - [Statuten](https://github.com/posmocoop/general/blob/master/statutes.md)
-- (Sitzungen)(https://github.com/posmocoop/general/blob/master/meetings.md)
+- [Sitzungen](https://github.com/posmocoop/general/blob/master/meetings.md)
 
 
 ## Nächste Schritte – Next Steps
