@@ -23,6 +23,10 @@
 ## Allgemein
 
 ### Gründung
+- Durchsicht der Unterlagen
+- Einreichung beim HR
+- Eröffnung Bankkonto vor HR-Abklärung? Als Verein?
+
 - <strike>Unterschriftenregelung</strike>
 - <strike>Wahlannahmeerklärung</strike>
 - <strike>[Handelregisteranmeldung](https://hra.zh.ch/dam/justiz_innern/hra/Praxis/Genossenschaft/geno_neueintragung/5250mb01.pdf.spooler.download.1392991641983.pdf/5250mb01.pdf)</strike>
