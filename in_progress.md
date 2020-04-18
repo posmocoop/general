@@ -12,16 +12,16 @@ One-Pager, next Design
 ## Waiting
 
 ### Allgemein
-- Review of Statutes till Friday
-- Handelsregisteranmeldung
-- Protokoll der Gründerversammlung - waiting for Bürgerort of Dominik and Viktoria
+- <strike>Review of Statutes till Friday</strike>
+- <strike>Handelsregisteranmeldung</strike>
+- <strike>Protokoll der Gründerversammlung - waiting for Bürgerort of Dominik and Viktoria</strike>
 
 #### Wahlannahme + Kopie ID/Pass
-- Roger
-- Lea - DONE (paper)
-- Marius
-- Alex - DONE (scan / paper)
-- Viktoria
-- Dominik
+- <strike>Roger</strike>
+- <strike>Lea - DONE (paper)</strike>
+- <strike>Marius</strike>
+- <strike>Alex - DONE (scan / paper)</strike>
+- <strike>Viktoria</strike>
+- <strike>Dominik</strike>
 
 
