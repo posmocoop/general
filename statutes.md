@@ -21,21 +21,21 @@ tl;dr
          
 1. Die Genossenschaft bezweckt in gemeinnütziger Weise,
            
-* a)  eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;           
+a)  eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;           
                        			 	       				
-* b)  die POSMO-Plattform natürlichen Personen (Genossenschafter*innen und Dritten) zur Verfügung zu stellen, die an der Plattform als "Nutzerinnen" (User) partizipieren;
+b)  die POSMO-Plattform natürlichen Personen (Genossenschafter*innen und Dritten) zur Verfügung zu stellen, die an der Plattform als "Nutzerinnen" (User) partizipieren;
                        		 							 
-* c)  unter den Nutzerinnen breite Genossenschaftsmitgliedschaft zu fördern, und es ihnen als Genossenschaftsmitglieder zu ermöglichen, gemeinschaftliche Interessen wahrzunehmen; 				 		        
+c)  unter den Nutzerinnen breite Genossenschaftsmitgliedschaft zu fördern, und es ihnen als Genossenschaftsmitglieder zu ermöglichen, gemeinschaftliche Interessen wahrzunehmen; 				 		        
 	          					
-* d)  die kollektiven Interessen der Nutzerinnen wahrzunehmen, indem ihre personenbezogenen Daten mit ihrer Einwilligung als gemeinsame Ressource genutzt werden. Dies geschieht, indem eine IT-Infrastruktur aufgebaut wird, die es den Nutzerinnen ermöglicht, Anfragen Dritter zur Analyse ihrer personenbezogenen Daten zu akzeptieren und eine ausdrückliche und informierte Einwilligung zur Sekundärnutzung ihrer personenbezogenen Daten durch Dritte zu erteilen, resultierend in einer wirtschaftlichen Vergütung für die Genossenschaft;
+d)  die kollektiven Interessen der Nutzerinnen wahrzunehmen, indem ihre personenbezogenen Daten mit ihrer Einwilligung als gemeinsame Ressource genutzt werden. Dies geschieht, indem eine IT-Infrastruktur aufgebaut wird, die es den Nutzerinnen ermöglicht, Anfragen Dritter zur Analyse ihrer personenbezogenen Daten zu akzeptieren und eine ausdrückliche und informierte Einwilligung zur Sekundärnutzung ihrer personenbezogenen Daten durch Dritte zu erteilen, resultierend in einer wirtschaftlichen Vergütung für die Genossenschaft;
  	      										
-* e)  mit der POSMO-Plattform die Entstehung eines innovativen Ökosystems zu fördern, in dem Dritte Dienstleistungen anbieten können, die auf den auf der Plattform gehosteten Daten basieren;
+e)  mit der POSMO-Plattform die Entstehung eines innovativen Ökosystems zu fördern, in dem Dritte Dienstleistungen anbieten können, die auf den auf der Plattform gehosteten Daten basieren;
  	        										
-* f)  Forschungsprojekte und weitere Projekte zur Realisierung einer fairen, digitalen Gesellschaft und zur digitalen Selbstbestimmung der Bevölkerung zu fördern
+f)  Forschungsprojekte und weitere Projekte zur Realisierung einer fairen, digitalen Gesellschaft und zur digitalen Selbstbestimmung der Bevölkerung zu fördern
  											
-* g)  die aus der Sekundärnutzung der personenbezogenen Daten gewonnenen wissenschaftlichen Resultate und das aus der Sekundärnutzung der personenbezogenen Daten resultierende Einkommen im Rahmen der obengenannten Zwecke zu nutzen.
+g)  die aus der Sekundärnutzung der personenbezogenen Daten gewonnenen wissenschaftlichen Resultate und das aus der Sekundärnutzung der personenbezogenen Daten resultierende Einkommen im Rahmen der obengenannten Zwecke zu nutzen.
 
-* h) im Notfall als Daten-Refugium zu fungieren, wenn andere Genossenschaften oder Nutzerinnen attackiert oder kompromittiert werden.
+h) im Notfall als Daten-Refugium zu fungieren, wenn andere Genossenschaften oder Nutzerinnen attackiert oder kompromittiert werden.
                   
 2. Sie verteidigt die Datenrechte ihrer Mitgliederinnen gegenüber Dritten und macht die Daten nur anonymisiert zugänglich, damit Rechte, Sicherheit und Privatsphäre der Mitgliederinnen gewahrt bleiben.
            
