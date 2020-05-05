@@ -3,7 +3,7 @@
 | date  | what  | who  | chf  | 
 |---|---|---|---|
 | March 10, 2020  | beglaubigung marius/roger | Roger | 40.00  |
-|  April 9 |  posmo.coop (gandi) | Datamap  | 102.14  | 
+|  April 9, 2020 |  posmo.coop (gandi) | Datamap  | 102.14  | 
 |  April 16, 2020 | beglaubigung lea  |  Lea | 20.00  | 
 
 
