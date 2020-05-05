@@ -14,3 +14,10 @@
 |---|---|---|---|
 | May  | HR | Datamap | 692.00  |
 | May  | Protonmail Visionary, 1 Year | Datamap | 288.00  |
+
+
+## Upcoming 2
+
+| date  | what  | who  | cost  | 
+|---|---|---|---|
+| ? | Amazon, Frankfurt | Datamap | $1,005.40 (April 2020)  |
