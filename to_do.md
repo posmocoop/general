@@ -4,6 +4,7 @@
 ## Verwaltung
 - Eröffnung Bankkonto
 - Email x at posmo.coop (protonmail visionary?)
+- Stripe mit Bankkonto/Eintrag HR ergänzen
 
 ### Website
 - Führen des Mitgliederregisters' mit Unterschrift (evtl. genügt das Hochladen der Unterschrift via Handy-Photo). Sonst Scan.
