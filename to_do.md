@@ -8,7 +8,7 @@
 
 ### Website
 - Führen des Mitgliederregisters' mit Unterschrift (evtl. genügt das Hochladen der Unterschrift via Handy-Photo). Sonst Scan.
-- Veröffentlichung der Statuten (Approval)
+- Veröffentlichung der Statuten
 - Einzahlung des Anteilscheinbetrags
 - Einberufung der Generalversammlung
 - Abstimmung Elektronisch
