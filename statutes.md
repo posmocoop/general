@@ -96,21 +96,21 @@ Anzahl Shapley an der Summe aller vergebenen Shapley. Dieser Shapley-Anteil wird
       
 1. Jahr: Die Genossenschaft hat 100 Mitglieder und Ende des Jahres beträgt der Pool      
 50’000 Shapley. Hat nun jemand 565 Shapley, dann erhält sie 1.13% (565/50’000*100)      
-des ausgeschütteten Teils des Reservefonds.
-Würde der Reservefonds gleich ausgeschüttet, hiesse das:           
-10% von 100 x CHF 50 = CHF 500        
+des ausgeschütteten Teils des Reservefonds.      
+Würde der Reservefonds gleich ausgeschüttet, hiesse das:             
+10% von 100 x CHF 50 = CHF 500         
 1.13% von 500 = CHF 5.65             
               
 2. Jahr: Die Genossenschaft hat 1000 Mitglieder und Ende des Jahres beträgt der Pool      
 500’000 Shapley. Hat nun jemand 1130 Shapley, dann erhält sie 0.226%        
 (1’130/500’000*100).
-Würde der Reservefonds gleich ausgeschüttet, hiesse das:     
-- 1000 x CHF 50 = CHF 50’000       
-- 25% von 2 Projekten à CHF 100’000 = CHF 50’000          
-- Kosten Hosting, Security, Maintenance = CHF –35’000          
-= 65’000 => 10%          
-= CHF 6’500             
-0.226% von 6’500 = CHF 14.69
+Würde der Reservefonds gleich ausgeschüttet, hiesse das:        
+1000 x CHF 50 = CHF 50’000         
+25% von 2 Projekten à CHF 100’000 = CHF 50’000            
+Kosten Hosting, Security, Maintenance = CHF –35’000            
+= 65’000 => 10%           
+= CHF 6’500               
+0.226% von 6’500 = CHF 14.69  
 
 (*) Der Reservefonds wird erst ausgeschüttet, wenn er 50% des Genossenschaftskapitals
 übersteigt. Es wird nur der überschüssige Teil ausgeschüttet. Der Reservefonds ist als
