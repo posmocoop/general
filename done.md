@@ -1,6 +1,7 @@
 # Done
-
-- Registrierung Website posmo.coop (CHF 73.14)
+- HR 
+- Email x at posmo.coop (protonmail visionary)
+- Registrierung Website posmo.coop
 - Wahl Verwaltung, Wahl Ethikrat
 - Gründerversammlung
 
