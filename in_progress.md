@@ -2,6 +2,7 @@
 
 ## Working
 
+
 ### Allgemein
 ...            
              
@@ -10,6 +11,8 @@ One-Pager, next Design
 
 
 ## Waiting
+- Eröffnung Bankkonto Alternative Bank
+
 
 ### Allgemein
 - <strike>Review of Statutes till Friday</strike>
