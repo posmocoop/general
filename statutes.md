@@ -48,7 +48,77 @@ tl;dr
       
 ...
 
+## Art. 8 – Shapley/Ostrom
 
+1. 1 Ostrom (Ø) = 1000 Shapley; 1 Shapley = 0.001 Ostrom         
+Beispiel: Ø 0.001        
+Beide Bezeichnungen gelten sowohl für den Singular wie den Plural:          
+1 Shapley, 50 Shapley (nicht Shapleys); 1 Ostrom, 10 Ostrom (nicht Ostroms).        
+
+2. Shapley, Ostrom sind weder übertragbar, noch handelbar. 
+
+3. Um Shapley, Ostrom gutgeschrieben zu bekommen, muss man Genossenschafter*in
+sein.
+
+4. Für die Übernahme eine Anteilscheins, werden der/dem Nutzer*in jeweils 50 Shapley
+bzw. Ø 0.05 gutgeschrieben.
+
+5. Offiziell einberufene Genossenschaftssitzungen (Dauer: 2 Stunden) durch die
+Verwaltung bzw. den Ethikrat, werden den Teilnehmer*innen mit je 50 Shapley vergütet.
+Als Genossenschaftssitzungen gelten offizielle Termine mit Agenda und Protokoll.
+Agendas und Protokolle sind zugänglich, je nach Vertraulichkeit halb- oder öffentlich.
+Die Generalversammlung ist davon ausgenommen.
+
+6. Ämter, die von der Verwaltung bzw. Ethikrat vergeben werden, können ganz oder als
+Anteil in Shapley vergütet werden. Ämter müssen zielführend sein.
+
+7. Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
+vergütet. Pro Jahr können für die Datenlieferung maximal 365 Shapley vergeben
+werden.
+
+* a) Dies bedingt jedoch, dass die Daten dem Zweck der Genossenschaft dienen bzw.
+nützlich sind. Im Zweifelsfall entscheidet der Ethikrat über die Nützlichkeit der Daten.
+
+* b) Mit der Validierung gilt das explizite Einverständnis, dass die Daten für
+gesamtgesellschaftlich wertvolle und vom Ethikrat als unproblematisch eingestufte
+Projekte verwendet werden können.
+
+* c) Bei anderweitigen, kommerziellen Projekten, gilt die Regel, dass das Einverständnis
+der Nutzerinnen immer im voraus eingeholt wird.
+
+* d) Tage, die die Nutzer*in explizit immer ausschliessen will, sollten ohne Bezug von
+Shapley validiert werden.
+
+8. Ausschüttung von Dividenden: Die individuellen Dividende entspricht der relativen
+Anzahl Shapley an der Summe aller vergebenen Shapley. Dieser Shapley-Anteil wird jeweils auf Ende des Kalenderjahres bestimmt.
+
+### Hypothetisches Beispiel (*):   
+      
+1. Jahr: Die Genossenschaft hat 100 Mitglieder und Ende des Jahres beträgt der Pool      
+50’000 Shapley. Hat nun jemand 565 Shapley, dann erhält sie 1.13% (565/50’000*100)      
+des ausgeschütteten Teils des Reservefonds.          
+                
+Würde der Reservefonds gleich ausgeschüttet, hiesse das:           
+10% von 100 x CHF 50 = CHF 500        
+1.13% von 500 = CHF 5.65             
+              
+2. Jahr: Die Genossenschaft hat 1000 Mitglieder und Ende des Jahres beträgt der Pool      
+500’000 Shapley. Hat nun jemand 1130 Shapley, dann erhält sie 0.226%        
+(1’130/500’000*100).          
+             
+Würde der Reservefonds gleich ausgeschüttet, hiesse das:     
+- 1000 x CHF 50 = CHF 50’000       
+- 25% von 2 Projekten à CHF 100’000 = CHF 50’000          
+- Kosten Hosting, Security, Maintenance = CHF –35’000          
+= 65’000 => 10%          
+= CHF 6’500             
+0.226% von 6’500 = CHF 14.69
+
+(*) Der Reservefonds wird erst ausgeschüttet, wenn er 50% des Genossenschaftskapitals
+übersteigt. Es wird nur der überschüssige Teil ausgeschüttet. Der Reservefonds ist als
+Reserve für schwierige Zeiten gedacht.
+        
+                
 Die vollständigen Statutuen findet man [hier](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
 
 
