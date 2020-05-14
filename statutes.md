@@ -48,7 +48,18 @@ tl;dr
       
 ...
 
-## Art. 8 – Shapley/Ostrom
+## II. Anteilscheine, Shapley/Ostrom und Haftung
+
+### Art. 7 – Anteilscheine
+1. Die Genossenschaft gibt Anteilscheine im Nennwert von CHF 50.00 (Schweizer Franken
+fünfzig) heraus.
+
+2. Jedes Mitglied der Genossenschaft ist zur Übernahme von 2 Anteilscheinen im ersten
+Jahr und je eines weiteren Anteilscheins in den Folgejahren verpflichtet.         
+Ein Mitglied kann pro Jahr maximal 5 Anteilscheine erwerben.          
+Die Anteilscheine sind unverzinslich.       
+
+### Art. 8 – Shapley/Ostrom
 
 1. 1 Ostrom (Ø) = 1000 Shapley; 1 Shapley = 0.001 Ostrom         
 Beispiel: Ø 0.001        
@@ -115,6 +126,12 @@ Kosten Hosting, Security, Maintenance = CHF –35’000
 (*) Der Reservefonds wird erst ausgeschüttet, wenn er 50% des Genossenschaftskapitals
 übersteigt. Es wird nur der überschüssige Teil ausgeschüttet. Der Reservefonds ist als
 Reserve für schwierige Zeiten gedacht.
+
+### Art. 9 – Haftung
+
+Für die Verbindlichkeiten der Genossenschaft haftet ausschliesslich das
+Genossenschaftsvermögen. Jede Nachschusspflicht oder persönliche Haftung der
+Mitglieder ist ausgeschlossen.
         
                 
 Die vollständigen Statutuen findet man [hier](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
