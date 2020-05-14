@@ -2,8 +2,6 @@
 
 
 ## Verwaltung
-- Eröffnung Bankkonto
-- Email x at posmo.coop (protonmail visionary?)
 - Stripe mit Bankkonto/Eintrag HR ergänzen
 
 ### Konzeption Ostrom-System / Voting 
