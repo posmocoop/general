@@ -14,8 +14,9 @@
 - Voting via Posmo One App? Two Factor Authentication?
 
 ### Website
-- Führen des Mitgliederregisters' mit Unterschrift (evtl. genügt das Hochladen der Unterschrift via Handy-Photo). Sonst Scan.
+- Wer ist die Genossenschaft Posmo Schweiz?
 - Veröffentlichung der Statuten
+- Führen des Mitgliederregisters' mit Unterschrift (evtl. genügt das Hochladen der Unterschrift via Handy-Photo). Sonst Scan.
 - Einzahlung des Anteilscheinbetrags
 - Einberufung der Generalversammlung
 - Abstimmung Elektronisch
