@@ -6,6 +6,13 @@
 - Email x at posmo.coop (protonmail visionary?)
 - Stripe mit Bankkonto/Eintrag HR ergänzen
 
+### Konzeption Ostrom-System / Voting 
+- Grundkonzeption Ostrom-System und Voting (Aktualisierte Gesamtmenge/Wahlresultat vs. Wallet/Ballot)
+- Validierung Mobilitätsdaten (Datamap AG), Bezug Ostrom (Schnittstelle: Datamap AG <> Genossenschaft Posmo Schweiz )
+- Bezug Ostrom (Gutschreibung nach Einzahlung für Anteilscheine, nach Validierung, nach erfolgter Arbeit)
+- Ostrom-Konto (Ostrom Wallet)
+- Übersicht Anzahl existierender Ostroms (laufend aktualisiert), Suche nach anonymisierten Konten (Wallet-ID)
+
 ### Website
 - Führen des Mitgliederregisters' mit Unterschrift (evtl. genügt das Hochladen der Unterschrift via Handy-Photo). Sonst Scan.
 - Veröffentlichung der Statuten
