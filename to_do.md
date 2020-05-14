@@ -7,7 +7,7 @@
 ### Konzeption Ostrom-System / Voting 
 - Grundkonzeption Ostrom-System und Voting (Aktualisierte Gesamtmenge/Wahlresultat vs. Wallet/Ballot)
 - Validierung Mobilitätsdaten (Datamap AG)
-- Fakultativer Bezug Ostrom nach Validierung (Schnittstelle: Datamap AG <> Genossenschaft Posmo Schweiz)
+- Fakultativer Bezug Ostrom nach Validierung (API-Schnittstelle: Datamap AG <> Genossenschaft Posmo Schweiz)
 - Bezug Ostrom (Gutschreibung nach Einzahlung für Anteilscheine, nach Validierung, nach erfolgter Arbeit)
 - Ostrom-Konto (Ostrom Wallet) Web und Schnittstelle zur Posmo One App
 - Übersicht Anzahl existierender Ostroms (laufend aktualisiert), Suche nach anonymisierten Konten (Wallet-ID)
