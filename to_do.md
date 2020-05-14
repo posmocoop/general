@@ -9,8 +9,9 @@
 - Validierung Mobilitätsdaten (Datamap AG)
 - Fakultativer Bezug Ostrom nach Validierung (Schnittstelle: Datamap AG <> Genossenschaft Posmo Schweiz)
 - Bezug Ostrom (Gutschreibung nach Einzahlung für Anteilscheine, nach Validierung, nach erfolgter Arbeit)
-- Ostrom-Konto (Ostrom Wallet)
+- Ostrom-Konto (Ostrom Wallet) Web und Schnittstelle zur Posmo One App
 - Übersicht Anzahl existierender Ostroms (laufend aktualisiert), Suche nach anonymisierten Konten (Wallet-ID)
+- Voting via Posmo One App
 
 ### Website
 - Führen des Mitgliederregisters' mit Unterschrift (evtl. genügt das Hochladen der Unterschrift via Handy-Photo). Sonst Scan.
