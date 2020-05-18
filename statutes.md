@@ -20,9 +20,9 @@ tl;dr
      
          
 1. Die Genossenschaft bezweckt in gemeinnütziger Weise,
-           
-* a)  eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;           
-                       			 	       				
+<ol type="a">       
+<li>eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;</li>           
+</ol>                       			 	       				
 * b)  die POSMO-Plattform natürlichen Personen (Genossenschafter*innen und Dritten) zur Verfügung zu stellen, die an der Plattform als "Nutzerinnen" (User) partizipieren;
                        		 							 
 * c)  unter den Nutzerinnen breite Genossenschaftsmitgliedschaft zu fördern, und es ihnen als Genossenschaftsmitglieder zu ermöglichen, gemeinschaftliche Interessen wahrzunehmen; 				 		        
