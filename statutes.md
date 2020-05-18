@@ -23,7 +23,8 @@ tl;dr
 <li>Die Genossenschaft bezweckt in gemeinnütziger Weise,
     
 <ol type="a" start="a">       
-<li>eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;</li>           
+<li>eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;     
+	   </li>           
                      			 	       				
 <li>die POSMO-Plattform natürlichen Personen (Genossenschafter*innen und Dritten) zur Verfügung zu stellen, die an der Plattform als "Nutzerinnen" (User) partizipieren;</li> 
                        		 							 
@@ -87,10 +88,10 @@ Die Generalversammlung ist davon ausgenommen.
 6. Ämter, die von der Verwaltung bzw. Ethikrat vergeben werden, können ganz oder als
 Anteil in Shapley vergütet werden. Ämter müssen zielführend sein.
 
- <ol type="1" start="7">Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
+ <ol type="1" start="7"><li>Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
 vergütet. Pro Jahr können für die Datenlieferung maximal 365 Shapley vergeben
-werden.       
-        <li>
+werden.          
+          
   <ol type="a" start="a">
   <li>Dies bedingt jedoch, dass die Daten dem Zweck der Genossenschaft dienen bzw.
   nützlich sind. Im Zweifelsfall entscheidet der Ethikrat über die Nützlichkeit der Daten.</li> 
