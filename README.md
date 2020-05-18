@@ -1,3 +1,7 @@
+"A resource arrangement that works in practice can work in theory."   
+Ostrom's Law   
+https://www.thecommonsjournal.org/articles/10.18352/ijc.252/     
+
 # Übersicht – Overview
 
 - [Organisation](https://github.com/posmocoop/general/blob/master/organization.md)
