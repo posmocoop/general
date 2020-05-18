@@ -88,7 +88,7 @@ Die Generalversammlung ist davon ausgenommen.
 Anteil in Shapley vergütet werden. Ämter müssen zielführend sein.
 
 <ol>
-<li>7. Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
+<li start="7">Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
 vergütet. Pro Jahr können für die Datenlieferung maximal 365 Shapley vergeben
 werden.
 <ol type="a" start="a"> 
