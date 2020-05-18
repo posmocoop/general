@@ -6,7 +6,7 @@ mit Sitz in Zürich
 
 ## I. Grundlage			
 ### Art. 1 – Rechtsform und Sitz				
-Die Genossenschaft POSMO Schweiz ist eine Genossenschaft gemäss den vorliegenden Statuten und den Bestimmungen der Artikel 828ff. des Schweizerischen Obligationenrechts mit Sitz Am Wasser 59, 8049 Zürich.
+Die *Genossenschaft POSMO Schweiz* ist eine Genossenschaft gemäss den vorliegenden Statuten und den Bestimmungen der Artikel 828ff. des Schweizerischen Obligationenrechts mit Sitz Am Wasser 59, 8049 Zürich.
                
 
 ### Art. 2 – Zweck
@@ -87,19 +87,20 @@ Anteil in Shapley vergütet werden. Ämter müssen zielführend sein.
 7. Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
 vergütet. Pro Jahr können für die Datenlieferung maximal 365 Shapley vergeben
 werden.
+<ol type="a"> 
+<li>Dies bedingt jedoch, dass die Daten dem Zweck der Genossenschaft dienen bzw.
+nützlich sind. Im Zweifelsfall entscheidet der Ethikrat über die Nützlichkeit der Daten.</li> 
 
-* a) Dies bedingt jedoch, dass die Daten dem Zweck der Genossenschaft dienen bzw.
-nützlich sind. Im Zweifelsfall entscheidet der Ethikrat über die Nützlichkeit der Daten.
-
-* b) Mit der Validierung gilt das explizite Einverständnis, dass die Daten für
+<li>Mit der Validierung gilt das explizite Einverständnis, dass die Daten für
 gesamtgesellschaftlich wertvolle und vom Ethikrat als unproblematisch eingestufte
-Projekte verwendet werden können.
+Projekte verwendet werden können.</li> 
 
-* c) Bei anderweitigen, kommerziellen Projekten, gilt die Regel, dass das Einverständnis
-der Nutzerinnen immer im voraus eingeholt wird.
+<li>Bei anderweitigen, kommerziellen Projekten, gilt die Regel, dass das Einverständnis
+der Nutzerinnen immer im voraus eingeholt wird.</li> 
 
-* d) Tage, die die Nutzer*in explizit immer ausschliessen will, sollten ohne Bezug von
-Shapley validiert werden.
+<li>Tage, die die Nutzer*in explizit immer ausschliessen will, sollten ohne Bezug von
+Shapley validiert werden.</li>
+</ol> 
 
 8. Ausschüttung von Dividenden: Die individuellen Dividende entspricht der relativen
 Anzahl Shapley an der Summe aller vergebenen Shapley. Dieser Shapley-Anteil wird jeweils auf Ende des Kalenderjahres bestimmt.
