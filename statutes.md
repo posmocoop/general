@@ -87,10 +87,10 @@ Die Generalversammlung ist davon ausgenommen.
 6. Ämter, die von der Verwaltung bzw. Ethikrat vergeben werden, können ganz oder als
 Anteil in Shapley vergütet werden. Ämter müssen zielführend sein.
 
-7. Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
+ <ol type="1" start="7">Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
 vergütet. Pro Jahr können für die Datenlieferung maximal 365 Shapley vergeben
-werden.
-  <ol type="1" start="7"><li>
+werden.       
+        <li>
   <ol type="a" start="a">
   <li>Dies bedingt jedoch, dass die Daten dem Zweck der Genossenschaft dienen bzw.
   nützlich sind. Im Zweifelsfall entscheidet der Ethikrat über die Nützlichkeit der Daten.</li> 
