@@ -112,7 +112,7 @@ werden.
 8. Ausschüttung von Dividenden: Die individuellen Dividende entspricht der relativen
 Anzahl Shapley an der Summe aller vergebenen Shapley. Dieser Shapley-Anteil wird jeweils auf Ende des Kalenderjahres bestimmt.
 
-### Hypothetisches Beispiel (*):   
+#### Hypothetisches Beispiel (*):   
       
 1. Jahr: Die Genossenschaft hat 100 Mitglieder und Ende des Jahres beträgt der Pool      
 50’000 Shapley. Hat nun jemand 565 Shapley, dann erhält sie 1.13% (565/50’000*100)      
