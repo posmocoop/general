@@ -90,7 +90,7 @@ Anteil in Shapley vergütet werden. Ämter müssen zielführend sein.
 7. Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
 vergütet. Pro Jahr können für die Datenlieferung maximal 365 Shapley vergeben
 werden.
- 
+  <ol type="a" start="a"><li>
   <ol type="a" start="a">
   <li>Dies bedingt jedoch, dass die Daten dem Zweck der Genossenschaft dienen bzw.
   nützlich sind. Im Zweifelsfall entscheidet der Ethikrat über die Nützlichkeit der Daten.</li> 
@@ -105,6 +105,8 @@ werden.
   <li>Tage, die die Nutzer*in explizit immer ausschliessen will, sollten ohne Bezug von
   Shapley validiert werden.</li> 
   </ol> 
+  </li>
+  </ol>
 
 8. Ausschüttung von Dividenden: Die individuellen Dividende entspricht der relativen
 Anzahl Shapley an der Summe aller vergebenen Shapley. Dieser Shapley-Anteil wird jeweils auf Ende des Kalenderjahres bestimmt.
