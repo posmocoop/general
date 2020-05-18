@@ -6,7 +6,7 @@ mit Sitz in Zürich
 
 ## I. Grundlage			
 ### Art. 1 – Rechtsform und Sitz				
-Die *Genossenschaft POSMO Schweiz* ist eine Genossenschaft gemäss den vorliegenden Statuten und den Bestimmungen der Artikel 828ff. des Schweizerischen Obligationenrechts mit Sitz Am Wasser 59, 8049 Zürich.
+Die **Genossenschaft POSMO Schweiz** ist eine Genossenschaft gemäss den vorliegenden Statuten und den Bestimmungen der Artikel 828ff. des Schweizerischen Obligationenrechts mit Sitz Am Wasser 59, 8049 Zürich.
                
 
 ### Art. 2 – Zweck
@@ -19,7 +19,8 @@ Eine Plattform für Mobilitätsdaten aufzubauen und dabei die Genossenschafterin
 tl;dr    
      
          
-1. Die Genossenschaft bezweckt in gemeinnütziger Weise,
+<ol>
+<li>Die Genossenschaft bezweckt in gemeinnütziger Weise,
 <ol type="a">       
 <li>eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;</li>           
                      			 	       				
@@ -36,7 +37,8 @@ tl;dr
 <li>die aus der Sekundärnutzung der personenbezogenen Daten gewonnenen wissenschaftlichen Resultate und das aus der Sekundärnutzung der personenbezogenen Daten resultierende Einkommen im Rahmen der obengenannten Zwecke zu nutzen.</li> 
 
 <li>im Notfall als Daten-Refugium zu fungieren, wenn andere Genossenschaften oder Nutzerinnen attackiert oder kompromittiert werden.</li> 
-</ol>  
+</ol>
+</li></ol>  
                   
 2. Sie verteidigt die Datenrechte ihrer Mitgliederinnen gegenüber Dritten und macht die Daten nur anonymisiert zugänglich, damit Rechte, Sicherheit und Privatsphäre der Mitgliederinnen gewahrt bleiben.
            
