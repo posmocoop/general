@@ -15,6 +15,8 @@
 
 ### Website
 - Wer ist die Genossenschaft Posmo Schweiz?
+- Zusammenarbeit Datamap AG und Genossenschaft Posmo Schweiz? Alle Daten von Posmo One / Posmo B werden von der 
+  Genossenschaft verwaltet.
 - Veröffentlichung der Statuten
 - Führen des Mitgliederregisters' mit Unterschrift (evtl. genügt das Hochladen der Unterschrift via Handy-Photo). Sonst Scan.
 - Einzahlung des Anteilscheinbetrags
