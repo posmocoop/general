@@ -19,7 +19,7 @@ Eine Plattform für Mobilitätsdaten aufzubauen und dabei die Genossenschafterin
 tl;dr    
      
          
-Die Genossenschaft bezweckt in gemeinnütziger Weise,
+1. Die Genossenschaft bezweckt in gemeinnütziger Weise,
     
 <ol type="a" start="a">       
 <li>eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;     
@@ -122,7 +122,7 @@ Die Generalversammlung ist davon ausgenommen.
 6. Ämter, die von der Verwaltung bzw. Ethikrat vergeben werden, können ganz oder als
 Anteil in Shapley vergütet werden. Ämter müssen zielführend sein.
 
- <ol type="1" start="7"><li>Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
+7. Die Bereitstellung von einem Tag validierter Bewegungsdaten wird mit 1 Shapley
 vergütet. Pro Jahr können für die Datenlieferung maximal 365 Shapley vergeben
 werden.          
           
@@ -140,8 +140,6 @@ werden.
   <li>Tage, die die Nutzer*in explizit immer ausschliessen will, sollten ohne Bezug von
   Shapley validiert werden.</li> 
   </ol> 
-  </li>
-  </ol>
 
 8. Ausschüttung von Dividenden: Die individuellen Dividende entspricht der relativen
 Anzahl Shapley an der Summe aller vergebenen Shapley. Dieser Shapley-Anteil wird jeweils auf Ende des Kalenderjahres bestimmt.
