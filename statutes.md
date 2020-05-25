@@ -178,7 +178,7 @@ Mitglieder ist ausgeschlossen.
 ## III. Mitgliedschaft
                         
 ### Art. 10 – Eintrittsbedingungen und Erwerb
-Jede natürliche Person, die nachfolgende Eintrittsbedingungen erfüllt, kann Mitglied der Genossenschaft werden:
+1. Jede natürliche Person, die nachfolgende Eintrittsbedingungen erfüllt, kann Mitglied der Genossenschaft werden:
 <ol type="a" start="a">       
 <li>persönlich unterzeichnetes Eintrittsgesuch (auch als PDF), in welchem die Anerkennung der Statuten enthalten sein muss;</li>
           
@@ -187,6 +187,46 @@ Jede natürliche Person, die nachfolgende Eintrittsbedingungen erfüllt, kann 
 <li>mind. sieben validierte Tage Mobilitätsdaten im Kalenderjahr. Diese Tage müssen Bewegungsdaten ausserhalb des Wohn- oder Arbeitsortes beinhalten.</li> 
             
 <li>Wohnsitz in der Schweiz.</li></ol>
+
+2. Über die Aufnahme als Mitglied entscheidet die Verwaltung endgültig. Die Verwaltung kann ein Gesuch ohne Begründung ablehnen. Die Verwaltung kann in Ausnahmefällen die Aufnahme von Mitgliedern mit Wohnsitz ausserhalb der Schweiz gewähren.
+
+3. Die Genossenschaft Posmo Schweiz kann auch virtuelle Genossenschaften für andere Länder aufbauen. Diese können ab einer gewissen Grösse in Länder-Genossenschaften überführt werden.
+
+4. Die Mitgliedschaft bei der Genossenschaft ist nicht Voraussetzung für die Eröffnung eines Nutzerinnen-Kontos.
+
+                     
+### Art. 11 – Mitgliederregister
+1. Die Genossenschaft führt ein Mitgliederregister. Als Mitglied der Genossenschaft wird nur anerkannt, wer darin eingetragen ist.
+
+2. Das Register wird publiziert und ist für die Mitglieder zugänglich.
+
+### Art. 12 – Beendigung der Mitgliedschaft bei der Genossenschaft Posmo Schweiz
+1. Die Mitgliedschaft endet durch:
+<ol type="a" start="a">       
+<li>freiwilligen Austritt;</li>
+<li>Ausschluss;</li>
+<li>Wohnsitznahme im Ausland;</li>
+<li>Tod des Mitglieds.</li></ol>
+
+2. Freiwilliger Austritt
+Der Austritt kann per Ende eines Jahres erklärt werden, unter Einhaltung einer dreimonatigen Mitteilungsfrist.
+
+3. Ausschluss
+<ol type="a" start="a">       
+<li>Mitglieder, welche die Eintrittsbedingungen nicht mehr erfüllen, gegen die Statuten oder ein anderes Reglement der Genossenschaft verstossen oder in sonstiger Weise den Interessen der Genossenschaft zuwiderhandeln, können ausgeschlossen werden.</li>
+
+<li>Über den Ausschluss von Mitgliedern entscheidet die Verwaltung, gegen deren Entscheid ein ausgeschlossenes Mitglied innerhalb 30 Tagen ein Rekursrecht an die nächste Generalversammlung zusteht. Der Ausschluss erfolgt mit sofortiger Wirkung.</li>
+
+4. Ansprüche ausgetretener und ausgeschlossener Mitglieder
+Ausgetretene und ausgeschlossene Mitglieder haben keinen Anspruch auf Vergütung des Wertes ihrer einbezahlten Anteilscheine oder eine anderweitige Abfindung.
+
+## IV. Organe
+
+Die Organe der Genossenschaft sind:
+## A. Die Generalversammlung
+
+### Art. 13 – Die Generalversammlung
+
 
         
                 
