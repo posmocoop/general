@@ -215,7 +215,7 @@ Der Austritt kann per Ende eines Jahres erklärt werden, unter Einhaltung einer
 <ol type="a" start="a">       
 <li>Mitglieder, welche die Eintrittsbedingungen nicht mehr erfüllen, gegen die Statuten oder ein anderes Reglement der Genossenschaft verstossen oder in sonstiger Weise den Interessen der Genossenschaft zuwiderhandeln, können ausgeschlossen werden.</li>
 
-<li>Über den Ausschluss von Mitgliedern entscheidet die Verwaltung, gegen deren Entscheid ein ausgeschlossenes Mitglied innerhalb 30 Tagen ein Rekursrecht an die nächste Generalversammlung zusteht. Der Ausschluss erfolgt mit sofortiger Wirkung.</li>
+<li>Über den Ausschluss von Mitgliedern entscheidet die Verwaltung, gegen deren Entscheid ein ausgeschlossenes Mitglied innerhalb 30 Tagen ein Rekursrecht an die nächste Generalversammlung zusteht. Der Ausschluss erfolgt mit sofortiger Wirkung.</li></ol>
 
 4. Ansprüche ausgetretener und ausgeschlossener Mitglieder
 Ausgetretene und ausgeschlossene Mitglieder haben keinen Anspruch auf Vergütung des Wertes ihrer einbezahlten Anteilscheine oder eine anderweitige Abfindung.
