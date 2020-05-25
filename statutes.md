@@ -51,8 +51,43 @@ tl;dr
 
 6. Die Genossenschaft kann Tochtergesellschaften im In- und Ausland errichten, sich an anderen Unternehmen im In- und Ausland beteiligen, sowie Grundstücke erwerben, halten und veräussern.
       
-...
 
+### Art. 3 – Plattform-Zugang und Dienstleistungen
+Genossenschafts-Mitglieder und Nicht-Mitglieder können als Nutzerinnen an der POSMO-Plattform partizipieren und damit verbundene Dienstleistungen nutzen.     
+
+Die Benutzung der POSMO-Plattform und der damit verbundenen Dienstleistungen kann kostenpflichtig sein.    
+               
+                      
+### Art. 4 – Verfügungsgewalt der Nutzerinnen über ihre personenbezogenen Daten
+Jeder und jede Nutzerin verfügt individuell über seine/ihre auf der POSMO-Plattform gespeicherten, personenbezogenen Daten gegenüber der Genossenschaft.          
+             
+Die Nutzerinnen verfügen genossenschaftlich über das Teilen ihrer personenbezogenen Daten (oder spezifischer Subsets ihrer personenbezogenen Daten) über die POSMO-Plattform mit Dritten. Das Recht sich bei Projekten mit Dritten zu enthalten, ist aufrechterhalten.           
+                   
+Die Nutzerinnen haben das Recht, ihre personenbezogenen Daten in einem dokumentierten Datenformat von der POSMO-Plattform zu exportieren.           
+              
+Die Nutzerinnen haben das Recht, ihre personenbezogenen Daten von der Plattform zu löschen.
+             
+Die Nutzerinnen haben das Recht, ihr Konto zu schliessen.
+               
+Für Ausnahmesituation werden spezifische Daten-Richtlinien erarbeitet und erlassen (Hacking Angriffe, Liquidierung, Verkauf). 
+
+### Art. 5 – Natur des Datenaustauschs
+Der Zugriff Dritter auf die personenbezogenen Daten (oder auf spezifische Subsets der personenbezogenen Daten) eines/einer Nutzerin benötigt seine/ihre ausdrückliche und informierte Einwilligung.         
+              
+Dies gilt für den Zugriff auf die personenbezogenen Daten in originaler, verschlüsselter (mit einer bestimmten Person über einen Schlüssel verknüpfter) und anonymisierter (nur mit unverhältnismässigem Aufwand auf eine bestimmte Person zurückführbarer) Form.             
+Nutzung der Daten durch Dritte werden durch den Ethikrat der Genossenschaft geprüft.
+                      
+Die Genossenschaft ist bestrebt, dass die Daten der Nutzerinnen die POSMO Plattform nicht verlassen, bzw. dass die Daten durch Dritte dupliziert werden und damit von der Genossenschaft nicht mehr geschützt werden können.                   
+                            
+Die Genossenschaft erbringt keine Dienstleistungen, die es Nutzerinnen erlauben, Zugriff auf ihre personenbezogenen Daten gegen individuelle Entschädigung zu verkaufen. Nutzerinnen und Genossenschafterinnen haben kein Recht, die POSMO Plattform dahingehend zu missbrauchen.
+Damit werden  aus ethischer Sicht problematische individuelle finanzielle Anreize gemieden.	
+                        
+### Art. 6 – Nutzung des Bilanzgewinns				
+Der Bilanzgewinn soll hauptsächlich dazu genutzt werden, die mit der und durch die POSMO-Plattform angebotenen Dienstleistungen qualitativ und quantitativ zu verbessern, die finanzielle Nachhaltigkeit zu sichern und die gemeinnützigen Zwecke der Genossenschaft gemäss Art. 2 zu verfolgen.
+          
+Die Genossenschaft kann Dividenden ausschütten. Dazu wird ein Reservefonds von maximal 10% pro Jahr gebildet. Dieser muss mindestens 50% des Genossenschaftskapitals betragen, bis die erste Dividenden-Ausschüttung stattfindet. Die Genossenschaft schüttet Dividenden gemäss Anzahl “Shapley” bzw. “Ostrom” aus (siehe Art. 8, Punkt 8). 
+                 
+                  
 ## II. Anteilscheine, Shapley/Ostrom und Haftung
 
 ### Art. 7 – Anteilscheine
