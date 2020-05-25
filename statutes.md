@@ -176,6 +176,21 @@ Reserve für schwierige Zeiten gedacht.
 Für die Verbindlichkeiten der Genossenschaft haftet ausschliesslich das
 Genossenschaftsvermögen. Jede Nachschusspflicht oder persönliche Haftung der
 Mitglieder ist ausgeschlossen.
+                 
+                     
+## III. Mitgliedschaft
+                        
+### Art. 10 – Eintrittsbedingungen und Erwerb
+Jede natürliche Person, die nachfolgende Eintrittsbedingungen erfüllt, kann Mitglied der Genossenschaft werden:
+<ol type="a" start="a">       
+<li>persönlich unterzeichnetes Eintrittsgesuch (auch als PDF), in welchem die Anerkennung der Statuten enthalten sein muss;</li>
+          
+<li>die Bezahlung von zwei Anteilscheinen im Nennwert von CHF 50.00 (Schweizer Franken fünfzig), d.h. total CHF 100.00 (Schweizer Franken hundert);</li>
+              
+<li>mind. sieben validierte Tage Mobilitätsdaten im Kalenderjahr. Diese Tage müssen Bewegungsdaten ausserhalb des Wohn- oder Arbeitsortes beinhalten.</li> 
+            
+<li>Wohnsitz in der Schweiz.</li></ol>
+
         
                 
 Die vollständigen Statutuen findet man [hier](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
