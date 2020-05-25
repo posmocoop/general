@@ -19,8 +19,7 @@ Eine Plattform für Mobilitätsdaten aufzubauen und dabei die Genossenschafterin
 tl;dr    
      
          
-<ol>
-<li>Die Genossenschaft bezweckt in gemeinnütziger Weise,
+Die Genossenschaft bezweckt in gemeinnütziger Weise,
     
 <ol type="a" start="a">       
 <li>eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;     
@@ -40,7 +39,7 @@ tl;dr
 
 <li>im Notfall als Daten-Refugium zu fungieren, wenn andere Genossenschaften oder Nutzerinnen attackiert oder kompromittiert werden.</li> 
 </ol>
-</li></ol>  
+ 
                   
 2. Sie verteidigt die Datenrechte ihrer Mitgliederinnen gegenüber Dritten und macht die Daten nur anonymisiert zugänglich, damit Rechte, Sicherheit und Privatsphäre der Mitgliederinnen gewahrt bleiben.
            
