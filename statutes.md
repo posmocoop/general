@@ -1,4 +1,4 @@
-Genossenschaft Posmo Schweiz
+Genossenschaft Posmo Schweiz            
 CHE-347.639.211                 
     
                  
