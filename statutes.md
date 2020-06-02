@@ -1,6 +1,7 @@
-Genossenschaft Posmo Schweiz                    
-Posmo Data Producer Cooperative   
-           
+Genossenschaft Posmo Schweiz
+CHE-347.639.211                 
+    
+                 
 # Statuten der Genossenschaft Posmo Schweiz 
 mit Sitz in Zürich
 
