@@ -228,9 +228,66 @@ Die Organe der Genossenschaft sind:
 
 ### Art. 13 – Die Generalversammlung
 
-
+1. Die Generalversammlung ist das oberste Organ der Genossenschaft.    
+Ihr stehen insbesondere folgende Befugnisse zu:      
+<ol type="a" start="a"> 
+<li>Festsetzung und Änderung der Statuten;</li>
+<li>Wahl und Abberufung der Mitglieder der Verwaltung, der Revisionsstelle und des Ethikrats;</li>
+<li>Genehmigung der Jahresrechnung, des Lageberichts, sowie die Beschlussfassung über die Verwendung des Bilanzgewinnes und des Reservefonds;</li>
+<li>Entlastung der Mitglieder der Verwaltung;</li>
+<li>Beschluss über die Auflösung oder Fusion der Genossenschaft;</li>
+<li>Beschluss über Rekurse von ausgeschlossenen Mitgliedern;</li>
+<li>Beschluss über alle Angelegenheiten, die ihr durch Gesetz oder Statuten vorbehalten sind oder ihr durch die Verwaltung zugewiesen werden.</li>
+</ol>
         
-                
+### Art. 14 – Einberufung und Traktandierung
+1. Die ordentliche Generalversammlung findet alljährlich innerhalb sechs Monaten nach Ende des Geschäftsjahres statt, ausserordentliche Versammlungen werden je nach Bedürfnis einberufen.
+
+2. Die Generalversammlung ist spätestens 20 Tage vor dem Versammlungstag durch E-Mail oder durch öffentliche Bekanntmachung auf der Website der Genossenschaft einzuberufen. Die Einberufung erfolgt durch die Verwaltung, nötigenfalls durch die Revisionsstelle. Das Einberufungsrecht steht auch den Liquidatoren zu. 
+
+3. Ausserordentliche Generalversammlungen werden einberufen, sofern eine vorangegangene Generalversammlung, die Verwaltung, der Ethikrat, die Revisionsstelle bzw. die Liquidatoren oder 10% der Mitglieder dies verlangt. Besteht die Genossenschaft aus weniger als 30 Mitgliedern, muss die Einberufung von mindestens drei Genossenschafter\*innen verlangt werden. Einberufung und Traktandierung werden schriftlich unter Angabe des Verhandlungsgegenstandes und der Anträge anbegehrt.           
+                     
+Die Verwaltung beruft die ausserordentliche Generalversammlung innerhalb von 8 Wochen nach dem oben genannten Eingang des Begehrens ein.
+
+4. In der Einberufung sind die Verhandlungsgegenstände sowie die Anträge der Verwaltung bzw. der Genossenschafter bekanntzugeben, welche die Durchführung einer Generalversammlung verlangt haben.
+
+5. Bei ordentlichen Generalversammlungen wird der Lagebericht und die Jahresrechnung mitsamt Revisionsbericht 20 Tage vor dem Versammlungstag den Mitgliedern auf der Website der Genossenschaft bekannt gegeben, die von der Verwaltung entsprechend
+festzulegen ist.
+
+6. Anträge auf die Behandlung eines Geschäfts in der Generalversammlung sowie Anträge zur Aufstellung von Kandidaten zur Wahl sind der Verwaltung via elekronischem Weg oder per Einschreiben spätestens 10 Tage vor dem Versammlungstag einzureichen. Die
+Genossenschaftsmitglieder werden über die eingegangenen Vorschläge per E-Mail oder Website informiert.
+
+### Art. 15 – Vorsitz und Protokoll
+
+1. Den Vorsitz in der Generalversammlung führt die/der Präsident\*in der Verwaltung, in dessen Verhinderungsfalle die/der Vizepräsident\*in der Verwaltung. Sind beide abwesend, wählt die Generalversammlung einen Tagesvorsitzenden.
+
+2. Die/der Vorsitzende bezeichnet die/den Protokollführer\*in und die Stimmenzähler.
+
+3. Das Protokoll ist vom Vorsitzenden und vom Protokollführer zu unterzeichnen und muss bei der nächsten Generalversammlung genehmigt werden. Die Genossenschaftsmitglieder sind berechtigt, am Sitz der Genossenschaft Einsicht in das Protokoll zu nehmen. Die Mitglieder können ihr Recht innerhalb eines Vierteljahrs nach der Genehmigung durch die Generalversammlung ausüben.
+
+### Art. 16 – Stimmrecht
+1. Jedes Genossenschaftsmitglied hat in der Generalversammlung eine Stimme.
+
+2. Ein Mitglied, das selbst nicht an der Generalversammlung teilnehmen kann, kann sich mit schriftlicher Vollmacht durch ein anderes Mitglied vertreten lassen. Kein bevollmächtigtes Mitglied kann mehr als ein anderes Mitglied vertreten.
+
+### Art. 17 – Beschlussfassung
+1. Die Generalversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen, soweit das Gesetz oder die Statuten es nicht anders bestimmen, mit qualifizierter Mehrheit (67%) der abgegebenen Stimmen.
+
+2. Für die Auflösung oder Fusion der Genossenschaft oder Abänderung der Statuten ist ebenfalls eine qualifizierte Mehrheit von 67% der abgegebenen Stimmen erforderlich.
+
+3. Über Anträge und Wahlen wird in einer offenen Abstimmung entschieden, ausser der Vorsitzende ordnet eine schriftliche Stimmabgabe an oder mindestens 10% der anwesenden und vertretenen Mitglieder beantragen dies.
+
+4. Sollte das Ergebnis einer offenen Abstimmung oder einer Wahl unklar sein, kann der Vorsitzende anordnen, dass die Abstimmung oder Wahl mittels schriftlicher Stimmabgabe wiederholt wird; in diesem Fall zählt nur das Ergebnis der schriftlichen Abstimmung.
+
+5. Abstimmungen können auch elektronisch durchgeführt werden.
+
+### Art. 18 – Urabstimmung
+1. Zählt die Genossenschaft mehr als 300 Mitglieder oder besteht die Mehrheit der Mitglieder aus Genossenschaften, kann an die Stelle von Generalversammlungsbeschlüssen die Urabstimmung (schriftliche Stimmabgabe) der
+Mitglieder im Sinne von [Art. 880 OR](https://www.admin.ch/opc/de/classified-compilation/19110009/index.html#a880) treten.
+
+          
+...              
+                              
 Die vollständigen Statutuen findet man [hier](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
 
 
