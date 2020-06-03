@@ -10,7 +10,7 @@ D. Revision
 E. Arbeitsgruppen               
 
 
-## Verwaltung
+## B. Verwaltung
 
 ### Präsident
 Roger Fischer
@@ -24,7 +24,7 @@ Lea Strohm
 Marius Zumwald
 
 
-## Ethikrat
+## C. Ethikrat
 
 ### Vorsitz
 Alex Erath
@@ -36,6 +36,10 @@ Viktoria Molnar
 
 ### Mitglied
 Dominik Bucher
+
+## E. Arbeitsgruppen
+- Kommunikation
+- Fundraising
 
 
 
