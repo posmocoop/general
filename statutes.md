@@ -409,11 +409,30 @@ Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der 
 
 
 ## V. Rechnungswesen
+### Art. 34 – Geschäftsjahr und Buchführung 							
+1. Die Verwaltung bestimmt den Anfang und das Ende des Geschäftsjahres.			 							
+2. Die Jahresrechnung, bestehend aus Erfolgsrechnung, Bilanz und Anhang, ist gemäss den Vorschriften des Schweizerischen Obligationenrechts, insbesondere der Art. 957 ff. OR sowie nach den Grundsätzen der ordnungsgemässen Rechnungslegung aufzustellen.
 
-  
-...              
-                              
-Die vollständigen Statuten findet man [hier](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
+## VI. Auflösung und Liquidation	
+		
+### Art. 35 Auflösung und Liquidation				
+1. Für die Auflösung der Genossenschaft oder Beschlüsse, welche einer solchen gleichkommen, bedarf es einer qualifizierten Mehrheit von 67% der abgegebenen Stimmen. 
+
+2. Das Vermögen der aufgelösten Genossenschaft fällt nach Tilgung ihrer Schulden an. Das Vermögen muss an eine andere gemeinnützige Institution mit ähnlicher Zwecksetzung fallen.				 							
+3. Die Genossenschaftsmitglieder haben keine Ansprüche auf die Vermögenswerte der Genossenschaft.					 							
+4. Alle Daten der Nutzer\*innen werden von der POSMO-Plattform gelöscht. Die Nutzer\*innen werden eingeladen, ihr Recht auf Datenexport gemäss Art. 4 innert nützlicher Frist wahrzunehmen.			
+
+
+## VII. Benachrichtigungen		
+	
+### Art. 36 – Mitteilungen und Bekanntmachungen			 				
+1. Mitteilungen an die Genossenschafter erfolgen per Brief (ohne Einschreiben) oder E-Mail, jeweils an die letzte bekannte Adresse.	
+				 			
+2. Publikationsorgan der Genossenschaft ist das Schweizerische Handelsamtsblatt.
+
+               
+-----                              
+Zum Herunterladen als [PDF](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
 
 
 
