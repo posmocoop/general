@@ -415,7 +415,7 @@ Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der 
 
 ## VI. Auflösung und Liquidation	
 		
-### Art. 35 Auflösung und Liquidation				
+### Art. 35 – Auflösung und Liquidation				
 1. Für die Auflösung der Genossenschaft oder Beschlüsse, welche einer solchen gleichkommen, bedarf es einer qualifizierten Mehrheit von 67% der abgegebenen Stimmen. 
 
 2. Das Vermögen der aufgelösten Genossenschaft fällt nach Tilgung ihrer Schulden an. Das Vermögen muss an eine andere gemeinnützige Institution mit ähnlicher Zwecksetzung fallen.				 							
