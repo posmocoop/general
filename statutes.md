@@ -285,7 +285,70 @@ Genossenschaftsmitglieder werden über die eingegangenen Vorschläge per E-Mail 
 1. Zählt die Genossenschaft mehr als 300 Mitglieder oder besteht die Mehrheit der Mitglieder aus Genossenschaften, kann an die Stelle von Generalversammlungsbeschlüssen die Urabstimmung (schriftliche Stimmabgabe) der
 Mitglieder im Sinne von [Art. 880 OR](https://www.admin.ch/opc/de/classified-compilation/19110009/index.html#a880) treten.
 
-          
+
+## B. Die Verwaltung
+
+### Art. 19 – Mitglieder der Verwaltung
+
+1. Die Verwaltung besteht aus mindestens drei Mitgliedern. Alle Mitglieder der Verwaltung müssen Mitglieder der Genossenschaft sein.
+
+2. Die Verwaltung konstituiert sich selbst. Sie bezeichnet ihren Präsidenten und ihren Vizepräsidenten.
+
+### Art. 20 – Amtszeit
+1. Die reguläre Amtszeit eines Mitglieds der Verwaltung beträgt 2 Jahre. Die Wiederwahl ist zulässig.
+
+2. Die maximale Amtszeit eines Mitgliedes der Verwaltung beträgt 12 Jahre. Die Wiederwahl ist zulässig, jedoch frühestens 2 Jahre nach Rücktritt.
+
+### Art. 21 – Aufgaben und Befugnisse
+1. Die Verwaltung ist für die Behandlung aller Geschäfte zuständig, die nicht durch Gesetz oder diese Statuten einem anderen Organ vorbehalten sind.
+
+2. Insbesondere obliegen der Verwaltung folgende nicht delegierbare Aufgaben und
+Befugnisse:
+<ol type="a" start="a">
+<li>die Oberleitung der Genossenschaft und die Erteilung der nötigen Weisungen;</li>
+<li>die Festlegung der Organisation;</li>
+<li>die Festlegung der Bedingungen bezüglich der Wertschöpfung aus der Sekundärnutzung der Daten der Nutzer*innen
+(unter deren Einwilligung gemäss Art. 4 und Art. 5);</li>
+<li>die Erstellung und Anpassung der jährlichen Budgets der Genossenschaft;</li>
+<li>die Ausgestaltung des Rechnungswesens, der Finanzkontrolle sowie der Finanzplanung, sofern diese für die Führung der Genossenschaft notwendig ist;</li>
+<li>die Vorbereitung der Geschäfte der Generalversammlung und Ausführung deren Beschlüsse;</li>
+<li>die Ernennung und Abberufung der mit der Geschäftsführung und der Vertretung betrauten Personen;</li>
+<li>die Oberaufsicht über die mit der Geschäftsführung und Vertretung betrauten Personen, namentlich im Hinblick auf die Befolgung der Gesetze, Statuten und allfälliger Reglemente;</li>
+<li>der Ausschluss von Mitgliedern und die Sicherstellung der regelmässigen Führung des Mitgliederregisters;</li>
+<li>der Umgang mit Rekursen gegen Beschlüsse der Geschäftsführung: die Beschlussfassung über Empfehlungen des Ethikrats.</li>
+<li>Übertragung der Geschäftsführung und der Vertretung</li>
+</ol>
+
+3. Die Verwaltung kann die Geschäftsführung oder einzelne Teile derselben sowie die Vertretung der Genossenschaft an eine oder mehrere Personen, Mitglieder der Verwaltung oder Dritte, die nicht Genossenschafter sein müssen, übertragen. Die
+Verwaltung kann das Organisationsreglement erlassen und die entsprechenden Vertragsverhältnisse ordnen.
+
+4. Dieses Reglement ordnet die Geschäftsführung, bestimmt die hierfür erforderlichen Stellen, umschreibt deren Aufgaben und regelt insbesondere die Berichterstattung.
+
+5. Soweit die Geschäftsführung nicht übertragen worden ist, steht sie allen Mitgliedern des Verwaltungsrates gesamthaft zu.
+
+6. Die Verwaltung bezeichnet die vertretungsberechtigten Personen und die Art ihrer Zeichnungsberechtigung.
+
+### Art. 22 – Sitzungen
+1. Die Verwaltung tritt so oft zusammen, wie es die Geschäfte der Genossenschaft erfordern, jedoch mindestens viermal im Jahr.
+
+2. Der Präsident der Verwaltung beruft die Sitzung ein, erstellt die Tagesordnung und führt den Vorsitz in der Versammlung. Der Präsident kann Aufgaben an den Vizepräsidenten delegieren.
+
+3. Jedes Mitglied der Verwaltung ist berechtigt, unter Angabe der Gründe vom Präsidenten die Einberufung einer Sitzung verlangen. Wenn diesem Antrag nicht innerhalb von 14 Tagen stattgegeben wird, kann das betroffene Mitglied die Sitzung auch alleine einberufen.
+
+### Art. 23 – Beschlussfähigkeit und Beschlussfassung
+1. Die Verwaltung gilt als beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist.
+
+2. Die Verwaltung fasst ihre Beschlüsse und führt ihre Wahlen mit absoluter Mehrheit der Stimmen der anwesenden Mitglieder durch; die Stimmabgabe durch einen Vertreter ist nicht erlaubt. Bei Stimmengleichheit hat der Vorsitzende den Stichentscheid.
+
+3. Die Versammlungen der Verwaltung können als Präsenzversammlung, telefonisch oder als Videokonferenz abgehalten werden.
+
+4. Beschlüsse können ohne Durchführung einer Sitzung auch auf dem Wege der schriftlichen Zustimmung (Zirkularbeschluss) zu einem Antrag gefasst werden, sofern nicht ein Mitglied die mündliche Beratung verlangt. Zirkularbeschlüsse können auch per
+E-Mail, welche über eine qualifizierte elektronische Signatur im Sinne von Art. 14 Abs. 2bis OR verfügt, gefasst werden.
+
+5. Über die Verhandlungen und Beschlüsse ist ein Protokoll zu führen, das vom Vorsitzenden und vom Protokollführer unterzeichnet wird.
+        
+
+  
 ...              
                               
 Die vollständigen Statutuen findet man [hier](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
