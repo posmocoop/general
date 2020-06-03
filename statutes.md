@@ -351,7 +351,7 @@ E-Mail, welche über eine qualifizierte elektronische Signatur im Sinne von Art.
   
 ...              
                               
-Die vollständigen Statutuen findet man [hier](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
+Die vollständigen Statuten findet man [hier](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
 
 
 
