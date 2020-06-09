@@ -9,17 +9,17 @@
 | May 12, 2020 | Passbeglaubigung Post | Roger | 25.00  |
 | May 12, 2020 | Couverts A3 | Roger | 5.90  |
 | May 12, 2020 | A-Grossbrief | Roger | 2.00  |
-
-## Upcoming
-
-| date  | what  | who  | chf  | 
-|---|---|---|---|
-| May  | HR | Datamap | 692.00  |
+| June 9, 2020 | HR | Datamap | 692.00  |
 
 
-
-## Upcoming 2
+## Upcoming Hosting
 
 | date  | what  | who  | cost  | 
 |---|---|---|---|
 | ? | Amazon, Frankfurt | Datamap | $1,005.40 (April 2020)  |
+
+
+----
+Darlehen Datamap: CHF 1110.29
+Darlehen Roger: CHF 72.90
+Darlehen Lea: CHF 20.00
