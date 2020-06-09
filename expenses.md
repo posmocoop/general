@@ -20,6 +20,7 @@
 
 
 ----
-Darlehen Datamap: CHF 1110.29
-Darlehen Roger: CHF 72.90
-Darlehen Lea: CHF 20.00
+              
+- Darlehen Datamap: CHF 1110.29
+- Darlehen Roger: CHF 72.90
+- Darlehen Lea: CHF 20.00
