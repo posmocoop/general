@@ -7,6 +7,13 @@ This file can only be updated by the defined person within the Verwaltung.
 | --- | --- | --- | --- |
 | 2020-03-23 | posmo B | lea, marius, roger | 2h |
 | 2020-03-24 | posmo B | lea, marius, roger | 1h |
+| 2020-03/04/05 | HR | roger | 60h* |
+| 2020-05 | Alternative Bank | roger | 9h |
+| 2020-05-10 | Protonmail | roger | 2h |
+| 2020-05-10 | Website mit Github Pages | roger | 3.5h |
+
+* Bei Startups kostet die Gründung CHF 2500, ohne Statuten
+
 
 ## People Ø
 1h = Ø 0.025
