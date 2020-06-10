@@ -10,7 +10,9 @@ This file can only be updated by the defined person within the Verwaltung.
 | 2020-03/04/05 | HR | roger | 60h* |
 | 2020-05 | Alternative Bank | roger | 9h |
 | 2020-05-10 | Protonmail | roger | 2h |
+| 2020-05-14 | Prototype Fund | roger | 7h |
 | 2020-06-02/03 | Website mit Github Pages | roger | 3.5h |
+
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten. Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
 
