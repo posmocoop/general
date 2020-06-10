@@ -11,7 +11,7 @@ One-Pager, next Design
 
 
 ## Waiting
-- Eröffnung Bankkonto Alternative Bank
+- <strike>Eröffnung Bankkonto Alternative Bank</strike>
 
 
 ### Allgemein
