@@ -1,7 +1,7 @@
 # Sitzungen 
 
 ## Sitzung 5, Montag, 15.06: 19-20.30 Uhr
-Vorschlag?
+Status: Vorschlag
 
 ### App:
 - Status, Austausch, Fragen, Organisation des Austauschs, What's Next usw.
