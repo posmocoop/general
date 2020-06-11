@@ -4,7 +4,8 @@
 Vorschlag?
 
 ### App:
-Status, Austausch, Fragen, Organisation des Austauschs, What's Next usw.
+- Status, Austausch, Fragen, Organisation des Austauschs, What's Next usw.
+- Valdierung der Daten: Entscheid Privat / Commons
 
 ### Website:
 - Was brauchen wir schnell?
