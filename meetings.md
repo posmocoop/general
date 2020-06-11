@@ -1,6 +1,6 @@
 # Sitzungen 
 
-## Sitzung Montag, 15.06: 19-20.30 Uhr
+## Sitzung 5, Montag, 15.06: 19-20.30 Uhr
 Vorschlag?
 
 ### App:
@@ -33,7 +33,8 @@ Weiterentwicklung, Austauschformate
 - Vorschlag Roger: Produkte und Preise
 
 ### Virtuelle Genossenschaften
-
+Serbien, Deutschland?
+          
 
 
 
