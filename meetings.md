@@ -1,6 +1,6 @@
 # Sitzungen 
 
-## Sitzung 5, Montag, 15.06: 19-20.30 Uhr
+## Sitzung 5, Montag, 15.Juni: 19-20.30 Uhr
 Status: Vorschlag
 
 ### App:
