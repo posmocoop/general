@@ -34,7 +34,7 @@ Weiterentwicklung, Austauschformate
 
 ### Datamap und Genossenschaft Posmo
 - Vorschlag Roger: Produkte und Preise
-- Minimum: CHF 50'000.- um Hosting-Kosten durch Posmo Coop sicher betreiben zu können. 
+- Minimum: CHF 50'000.- um Hosting-Kosten durch Posmo Coop sicher betreiben zu können.         
   = 200 Personen à CHF 250.- bzw. 500 Personen à CHF 100.-. Referral-Proposal.
 - Stand: CHF 1'350 (Freitag).
 - Vorschlag: Reservefonds sofort bilden, d.h. bei jedem Betrag. 
