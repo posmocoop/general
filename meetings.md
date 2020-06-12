@@ -8,12 +8,14 @@ Status: Vorschlag
 - Valdierung der Daten: Entscheid Privat / Commons
 
 ### Website:
+- Was fehlt auf https://posmo.coop ?
 - Was brauchen wir schnell?
   Mitgliederregister mit Online-Bezahlung und Referral-Möglichkeit
 - Was ist im Vordergrund? 1. Datensouveränität, 2. Aktive Mobilität (Zukunft: Posmo Score?)
 
 ### Fundraising:
 - Prototypefund
+- Genossenschafter\*innen anwerben. 
 - Next?
 
 ### Kommunikation:
@@ -32,13 +34,14 @@ Weiterentwicklung, Austauschformate
 
 ### Datamap und Genossenschaft Posmo
 - Vorschlag Roger: Produkte und Preise
+- Minimum: CHF 50'000.- um Hosting-Kosten durch Posmo Coop sicher betreiben zu können. 
+  = 200 Personen à CHF 250.- bzw. 500 Personen à CHF 100.-. Referral-Proposal.
+- Stand: CHF 1'350 (Freitag).
+- Vorschlag: Reservefonds sofort bilden, d.h. bei jedem Betrag. 
 
 ### Virtuelle Genossenschaften
 Serbien, Deutschland?
           
-
-
-
 
 ## Sitzung 4, 7. April 2020 (Zoom)
 - Einladung
