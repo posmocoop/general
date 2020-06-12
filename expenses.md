@@ -16,7 +16,7 @@
 
 | date  | what  | who  | cost  | 
 |---|---|---|---|
-| ? | Amazon, Frankfurt | Datamap | $1,005.40 (April 2020)  |
+| June 3, 2020 | Hosting Amazon | Datamap | $812.98 (8. Mai – 31. Mai 2020)  |
 
 
 ----
