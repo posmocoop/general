@@ -47,8 +47,8 @@ Weiterentwicklung, Austauschformate
 Serbien, Deutschland?
 
 ### Einzahlung für Genossenschaft
-Min. Anteilscheine: 2, Max. Anteilscheine 5
-D.h. CHF 100.- bis CHF 250.-         
+Min. Anteilscheine: 2, Max. Anteilscheine 5 à CHF 50.-
+D.h. CHF 100.- | CHF 150.- | CHF 200.- | CHF 250.-         
           
 Adresse       
 Genossenschaft Posmo Schweiz      
