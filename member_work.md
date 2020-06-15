@@ -15,6 +15,6 @@
 | miriam |  | | | | | |
 | jürg |  | | | | | |
 
-Meetings S1-S4 were 2 hours long 
-S4: April 7
-S5: June 15
+Meetings S1-S4 were 2 hours long        
+S4: April 7          
+S5: June 15             
