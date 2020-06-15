@@ -2,6 +2,8 @@
 
 This file can only be updated by the defined person within the Verwaltung.
 
+PS: Lea's hours are missing
+
 
 | date | topic | participants | duration |
 | --- | --- | --- | --- |
@@ -12,7 +14,7 @@ This file can only be updated by the defined person within the Verwaltung.
 | 2020-05-10 | Protonmail | roger | 2h |
 | 2020-05-14 | Prototype Fund | roger | 7h |
 | 2020-06-02/03 | Website mit Github Pages | roger | 3.5h |
-
+| 2020-06-10/15 | Preparing Meeting | roger | 3h |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten. Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
 
