@@ -16,6 +16,18 @@ Recommmendation: to do a specific meeting just about the app
   Work (incl. Sitzungen): 25 Shapley pro Stunde           
   Referral: 10% of New Membership, e.g. CHF 200 of new member = 20 Shapley    
 
+### Datamap und Genossenschaft Posmo
+- Vorschlag Roger: Produkte und Preise
+- Minimum: CHF 50'000.- um Hosting-Kosten durch Posmo Coop sicher betreiben zu können.         
+  = 200 Personen à CHF 250.- bzw. 500 Personen à CHF 100.-. Referral-Proposal.
+- Stand: CHF 1'350 (Freitag).
+- Vorschlag: Reservefonds sofort bilden, d.h. bei jedem Betrag. 
+
+### Fundraising:
+- Prototypefund - Antwort am 2. Juli https://prototypefund.opendata.ch/bewerbung/programmablauf/
+- Genossenschafter\*innen anwerben. Jeder 10? Referral?
+- Next?
+
 ### Website:
 - Was fehlt auf https://posmo.coop ?
 - Neuaufsetzung / Design
@@ -26,10 +38,6 @@ Recommmendation: to do a specific meeting just about the app
   2. https://www.sharedmobilityprinciples.org
   3. Aktive Mobilität (Zukunft: Posmo Score?)
 
-### Fundraising:
-- Prototypefund - Antwort am 2. Juli https://prototypefund.opendata.ch/bewerbung/programmablauf/
-- Genossenschafter\*innen anwerben. Jeder 10? Referral?
-- Next?
 
 ### Kommunikation:
 ? Konzept: siehe Website
@@ -37,12 +45,6 @@ Recommmendation: to do a specific meeting just about the app
 ### Vorschlag: Arbeitsgruppe Spatial Future (Neu)
 Weiterentwicklung, Austauschformate     
 
-### Datamap und Genossenschaft Posmo
-- Vorschlag Roger: Produkte und Preise
-- Minimum: CHF 50'000.- um Hosting-Kosten durch Posmo Coop sicher betreiben zu können.         
-  = 200 Personen à CHF 250.- bzw. 500 Personen à CHF 100.-. Referral-Proposal.
-- Stand: CHF 1'350 (Freitag).
-- Vorschlag: Reservefonds sofort bilden, d.h. bei jedem Betrag. 
 
 ### Virtuelle Genossenschaften
 Serbien, Deutschland?
