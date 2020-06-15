@@ -9,13 +9,17 @@ Status: Vorschlag
 
 ### Website:
 - Was fehlt auf https://posmo.coop ?
+- Neuaufsetzung / Design
 - Was brauchen wir schnell?
   Mitgliederregister mit Online-Bezahlung und Referral-Möglichkeit
-- Was ist im Vordergrund? 1. Datensouveränität, 2. Aktive Mobilität (Zukunft: Posmo Score?)
+- Was steht im Vordergrund? 
+  1. Datensouveränität, 
+  2. https://www.sharedmobilityprinciples.org
+  3. Aktive Mobilität (Zukunft: Posmo Score?)
 
 ### Fundraising:
 - Prototypefund
-- Genossenschafter\*innen anwerben. 
+- Genossenschafter\*innen anwerben. Jeder 10? Referral?
 - Next?
 
 ### Kommunikation:
@@ -25,7 +29,7 @@ Status: Vorschlag
 Weiterentwicklung, Austauschformate 
 
 ### Finanzen:
-- Eingegangene Genossenschaftsbeiträge, bisher: CHF 950.- (11. Juni)
+- Eingegangene Genossenschaftsbeiträge, bisher: CHF 1300.- (15. Juni) - 
 - Bisherige Ausgaben https://github.com/posmocoop/general/blob/master/expenses.md
 - Bisherige Arbeit
 - Shapley Vorschlag:             
@@ -41,8 +45,28 @@ Weiterentwicklung, Austauschformate
 
 ### Virtuelle Genossenschaften
 Serbien, Deutschland?
-          
 
+### Einzahlung für Genossenschaft
+Min. Anteilscheine: 2, Max. Anteilscheine 5
+D.h. CHF 100.- bis CHF 250.-         
+          
+Adresse       
+Genossenschaft Posmo Schweiz      
+Am Wasser 59       
+8049 Zürich          
+             
+Bankverbindung          
+IBAN: CH61 0839 0037 2002 1000 3           
+          
+Alternative Bank Schweiz         
+Amthausquai 21        
+Postfach         
+4601 Olten          
+         
+BIC (SWIFT): ABSOCH22XXX          
+Bankclearing (IID): 8390           
+                   
+                 
 ## Sitzung 4, 7. April 2020 (Zoom)
 - Einladung
 - Protokoll
