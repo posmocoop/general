@@ -55,7 +55,10 @@ Recommmendation: to do a specific meeting just about the app
 Weiterentwicklung, Austauschformate     
 
 ### Virtuelle Genossenschaften
-Serbien, Deutschland?
+Serbien, Deutschland? Wie Wikipedia 
+Serbien: rs.posmo.coop
+Deutschland: de.posmo.coop
+...
 
 ### Einzahlung für Genossenschaft
 Min. Anteilscheine: 2, Max. Anteilscheine 5 à CHF 50.-            
