@@ -46,6 +46,7 @@ Recommmendation: to do a specific meeting just about the app
   - Anpassung Design (Lana): ca. Euro 500-1000
 - Was brauchen wir schnell?
   Mitgliederregister mit Online-Bezahlung und Referral-Möglichkeit
+- https://github.com/posmocoop/general/blob/master/to_do.md#website
 
 ### Kommunikation:
 ? Konzept: siehe Website. Eigene Sitzung
