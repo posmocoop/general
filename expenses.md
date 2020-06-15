@@ -17,7 +17,7 @@
 | date  | what  | who  | cost  | 
 |---|---|---|---|
 | June 3, 2020 | Hosting Amazon | Datamap | $812.98 (8. Mai – 31. Mai 2020)  |
-
+| July 3, 2020 | Hosting Amazon | Datamap | $994.92 (Forecast)  |
 
 ----
               
