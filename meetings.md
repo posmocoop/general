@@ -8,6 +8,13 @@ Status: Vorschlag
 - Valdierung der Daten: Entscheid Privat / Commons
 Recommmendation: to do a specific meeting just about the app
 
+### Finanzen:
+- Eingegangene Genossenschaftsbeiträge, bisher: CHF 1300.- (15. Juni) - 
+- Bisherige Ausgaben https://github.com/posmocoop/general/blob/master/expenses.md
+- Bisherige Arbeit
+- Shapley Vorschlag:             
+  Work (incl. Sitzungen): 25 Shapley pro Stunde           
+  Referral: 10% of New Membership, e.g. CHF 200 of new member = 20 Shapley    
 
 ### Website:
 - Was fehlt auf https://posmo.coop ?
@@ -28,15 +35,7 @@ Recommmendation: to do a specific meeting just about the app
 ? Konzept: siehe Website
 
 ### Vorschlag: Arbeitsgruppe Spatial Future (Neu)
-Weiterentwicklung, Austauschformate 
-
-### Finanzen:
-- Eingegangene Genossenschaftsbeiträge, bisher: CHF 1300.- (15. Juni) - 
-- Bisherige Ausgaben https://github.com/posmocoop/general/blob/master/expenses.md
-- Bisherige Arbeit
-- Shapley Vorschlag:             
-  Work (incl. Sitzungen): 25 Shapley pro Stunde           
-  Referral: 10% of New Membership, e.g. CHF 200 of new member = 20 Shapley        
+Weiterentwicklung, Austauschformate     
 
 ### Datamap und Genossenschaft Posmo
 - Vorschlag Roger: Produkte und Preise
@@ -69,6 +68,3 @@ BIC (SWIFT): ABSOCH22XXX
 Bankclearing (IID): 8390           
                    
                  
-## Sitzung 4, 7. April 2020 (Zoom)
-- Einladung
-- Protokoll
