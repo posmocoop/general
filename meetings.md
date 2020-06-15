@@ -3,7 +3,7 @@
 ## Sitzung 5, Montag, 15.Juni: 19-20.30 Uhr
 Status: Vorschlag
 
-### App:
+### App (Vorschlag eigene Sitzung dazu)
 - Status, Austausch, Fragen, Organisation des Austauschs, What's Next usw.
 - Valdierung der Daten: Entscheid Privat / Commons
 Recommmendation: to do a specific meeting just about the app
@@ -20,7 +20,7 @@ Recommmendation: to do a specific meeting just about the app
   3. Aktive Mobilität (Zukunft: Posmo Score?)
 
 ### Fundraising:
-- Prototypefund
+- Prototypefund - Antwort am 2. Juli https://prototypefund.opendata.ch/bewerbung/programmablauf/
 - Genossenschafter\*innen anwerben. Jeder 10? Referral?
 - Next?
 
