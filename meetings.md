@@ -40,9 +40,9 @@ Recommmendation: to do a specific meeting just about the app
   2. https://www.sharedmobilityprinciples.org
   3. Aktive Mobilität (Zukunft: Posmo Score?)
 - Neuaufsetzung / Design 
-  CTO rechnet für Posmo Backend: Landing Page / Mitgliederregister + Referral ca. mit einer Woche Arbeit (paid in Shapley)
-  Design: chragi? https://chragokyberneticks.ch/work siehe auch:          https://web.archive.org/web/20120320122634/http://lendorff.kaywa.com/
-  Anpassung Design: ca. CHF 500-1000
+  - CTO rechnet für Posmo Backend: Landing Page / Mitgliederregister + Referral ca. mit einer Woche Arbeit (paid in Shapley)
+  - Design: chragi? https://chragokyberneticks.ch/work siehe auch:          https://web.archive.org/web/20120320122634/http://lendorff.kaywa.com/
+  - Anpassung Design (Lana): ca. Euro 500-1000
 - Was brauchen wir schnell?
   Mitgliederregister mit Online-Bezahlung und Referral-Möglichkeit
 
