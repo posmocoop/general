@@ -6,6 +6,8 @@ Status: Vorschlag
 ### App:
 - Status, Austausch, Fragen, Organisation des Austauschs, What's Next usw.
 - Valdierung der Daten: Entscheid Privat / Commons
+Recommmendation: to do a specific meeting just about the app
+
 
 ### Website:
 - Was fehlt auf https://posmo.coop ?
