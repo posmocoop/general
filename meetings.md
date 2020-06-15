@@ -24,6 +24,7 @@ Recommmendation: to do a specific meeting just about the app
 - Vorschlag Roger: Produkte und Preise (PDF)
 - CHF 30'000 - 50'000.- um Hosting-Kosten durch Posmo Coop sicher betreiben zu können.         
   50K = 200 Personen à CHF 250.- bzw. 500 Personen à CHF 100.-. Referral-Proposal.
+- Neues Mitglied: Mail ans verwaltung at posmo.coop mit [folgenden Angaben](https://github.com/posmocoop/general/blob/master/membership.md#f%C3%BCrs-handelsregister)
 - Stand heue: CHF 1'300 (Montag).
 - Vorschlag: Reservefonds sofort bilden, d.h. bei jedem Betrag. 10% jedes eingehenden Betrags geht aufs Sparkonto.
 
