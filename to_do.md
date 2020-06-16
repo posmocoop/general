@@ -32,6 +32,12 @@
         
 ### Arbeitsgruppe Fundraising
 ...    
+        
+### Arbeitsgruppe Spatial Future
+- Real Time Scenarios
+- Spatial Analytics 
+- What is available?    
+
 
 ## Allgemein
 
