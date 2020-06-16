@@ -1,9 +1,6 @@
 # To Do 
 
 
-## Verwaltung
-- Stripe mit Bankkonto/Eintrag HR ergänzen
-
 ### Konzeption Ostrom-System / Voting 
 - Grundkonzeption Ostrom-System und Voting (Aktualisierte Gesamtmenge/Wahlresultat vs. Wallet/Ballot)
 - Validierung Mobilitätsdaten (Datamap AG)
