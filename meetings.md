@@ -2,6 +2,7 @@
 
 ## Sitzung 5, Montag, 15.Juni: 19-20.30 Uhr
 Status: Final
+Protokoll: Auf Slack
 
 ### App (Vorschlag eigene Sitzung dazu)
 - Status, Austausch, Fragen, Organisation des Austauschs, What's Next usw.
@@ -9,7 +10,7 @@ Status: Final
 Recommmendation: to do a specific meeting just about the app
 
 ### Finanzen:
-- Eingegangene Genossenschaftsbeiträge, bisher: CHF 1300.- (15. Juni) - 
+- Eingegangene Genossenschaftsbeiträge, bisher: CHF 1550.- (16. Juni) - 
 - Bisherige Ausgaben https://github.com/posmocoop/general/blob/master/expenses.md
 - Bisherige Arbeit Verwaltung
   https://github.com/posmocoop/general/blob/master/verwaltung_work.md
