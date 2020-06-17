@@ -8,13 +8,13 @@ For members we need there membership start date (hidden, when they pay in).
 ![first wireframe proposal, english](https://github.com/posmocoop/general/blob/master/membership_proposal.png)
 
 
-## Shared Name and Email, Password
+## 2 Cases, Shared Name and Email, Password
 We have 2 cases:
 - Someone is already a POSMO One user and has therefore an account, now s/he wants to upgrade and become a cooperative member.
 - Someone wants to become a cooperative member.
 
 Name, email, password, are shared with Datamap, so that people have the same login.         
-If someone already has a Posmo app login, s/he can use the same and only has to fill out the rest.         
+If someone already has a Posmo app login, s/he can login first and only has to fill out the rest.         
 
 ## DB-Struktur
 
