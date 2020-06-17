@@ -1,6 +1,6 @@
 # Mitgliederverzeichnis
 
-[first wireframe proposal, english]()
+[first wireframe proposal, english](https://github.com/posmocoop/general/blob/master/membership_proposal.png)
 
 
 Name, email, password, are shared with Datamap, so that people have the same login.         
