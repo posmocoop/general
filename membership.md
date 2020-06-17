@@ -1,10 +1,16 @@
 # Mitgliederverzeichnis
 
+[first wireframe proposal, english]()
+
+
+Name, email, password, are shared with Datamap, so that people have the same login.         
+If someone already has a Posmo app login, s/he can use the same and only has to fill out the rest.         
+
 ## DB-Struktur
 
 - id
 - email
-- nr (chronologisch von 1...)
+- nr (chronological by membership, starting with 1...)
 - firstname
 - familyname
 - birthyear
