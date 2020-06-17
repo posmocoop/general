@@ -1,5 +1,10 @@
 # Mitgliederverzeichnis
 
+For members we need there membership start date (hidden, when they pay in).     
+
+## Questions:
+- Approval of Statues. Before? Privacy/Terms? Forgot Password?      
+           
 ![first wireframe proposal, english](https://github.com/posmocoop/general/blob/master/membership_proposal.png)
 
 
