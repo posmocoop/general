@@ -4,6 +4,7 @@ https://www.thecommonsjournal.org/articles/10.18352/ijc.252/
 
 # Übersicht – Overview
 
+- [Genossenschafter\*in werden](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
 - [Organisation](https://github.com/posmocoop/general/blob/master/organization.md)
 - [Statuten](https://github.com/posmocoop/general/blob/master/statutes.md)
 - [Sitzungen](https://github.com/posmocoop/general/blob/master/meetings.md)
