@@ -1,7 +1,7 @@
 # Jetzt Genossenschafter\*in werden!
 
 ## 1. Statuten lesen
-Hier sind unsere Statuten, es lohnt sich, sie zu lesen:                
+Hier sind unsere Statuten. Es lohnt sich, sie zu lesen, bevor Du zu uns stösst:                
 https://github.com/posmocoop/general/blob/master/statutes.md
 
 ## 2. Angaben via E-Mail an verwaltung @ posmo.coop
