@@ -4,7 +4,7 @@
 Hier sind unsere Statuten, es lohnt sich, sie zu lesen:
 https://github.com/posmocoop/general/blob/master/statutes.md
 
-## 2. Angaben via E-Mail an verwaltung @ posmo.coop
+## 2. Angaben via E-Mail an verwaltung @ posmo.coop
 Um Genossenschafter zu werden, brauchen wir von Dir folgende - gesetzlich vorgeschriebene - Angaben:
 - Vorname
 - Familienname
@@ -25,7 +25,7 @@ Mit dem Kauf von Anteilscheinen, bestätigst Du die Kenntnisnahme der Statuten.
 
 Für jeden Anteilschein erhältst Du Ø +0.050 (+0.05 Ostrom)
 
-´´´
+```
 IBAN: CH61 0839 0037 2002 1000 3
 Alternative Bank Schweiz
 Amthausquai 21
@@ -38,7 +38,7 @@ Bankclearing (IID): 8390
 Genossenschaft Posmo Schweiz        
 Am Wasser 59          
 8049 Zürich       
-´´´
+```
                
 Siehe auch:        
 https://github.com/posmocoop/general/blob/master/statutes.md#ii-anteilscheine-shapleyostrom-und-haftung       
