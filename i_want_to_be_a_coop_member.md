@@ -13,8 +13,8 @@ Um Genossenschafter zu werden, brauchen wir von Dir folgende - gesetzlich vorges
 - Adresse 
 - Wenn Dir jemand Posmo empfohlen hat, seinen Namen oder seine E-Mail.
 
-Sende uns Deine Angaben via E-Mail mit dem Betreff: "Beitritt zur Genossenschaft POSMO Schweiz" 
-und zahle gleichzeitig Deine Anteilscheine ein.                  
+Sende uns Deine Angaben via E-Mail mit dem Betreff: **Beitritt zur Genossenschaft POSMO Schweiz** und zahle gleichzeitig Deine Anteilscheine ein.   
+                                
 Sobald wir Deine Zahlung erhalten haben, benachrichtigen wir Dich und führen Dich im [Mitgliederregister](https://github.com/posmocoop/general/blob/master/members.md) namentlich auf. 
   
           
