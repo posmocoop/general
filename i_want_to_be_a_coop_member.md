@@ -1,7 +1,7 @@
 # Jetzt Genossenschafter\*in werden!
 
 ## 1. Statuten lesen
-Hier sind unsere Statuten, es lohnt sich, sie zu lesen:
+Hier sind unsere Statuten, es lohnt sich, sie zu lesen:                
 https://github.com/posmocoop/general/blob/master/statutes.md
 
 ## 2. Angaben via E-Mail an verwaltung @ posmo.coop
@@ -24,7 +24,10 @@ Mit dem Kauf von Anteilscheinen, bestätigst Du die Kenntnisnahme der Statuten.
 - Maximal sind 5 Anteilscheine pro Jahr möglich
 
 Für jeden Anteilschein erhältst Du Ø +0.050 (+0.05 Ostrom)
-
+            
+Siehe auch:           
+https://github.com/posmocoop/general/blob/master/statutes.md#ii-anteilscheine-shapleyostrom-und-haftung         
+            
 ```
 IBAN: CH61 0839 0037 2002 1000 3
 Alternative Bank Schweiz
@@ -40,12 +43,11 @@ Am Wasser 59
 8049 Zürich       
 ```
                
-Siehe auch:        
-https://github.com/posmocoop/general/blob/master/statutes.md#ii-anteilscheine-shapleyostrom-und-haftung       
-               
+              
+                          
 
-Herzlichen Dank für Dein Interesse. Wir freuen uns auf Dich!
-
-Liebe Grüsse
-Deine Verwaltung
-Lea, Marius, Roger
+Herzlichen Dank für Dein Interesse. Wir freuen uns auf Dich!            
+                   
+Liebe Grüsse            
+Deine Verwaltung              
+Lea, Marius, Roger               
