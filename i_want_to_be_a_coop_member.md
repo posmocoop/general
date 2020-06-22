@@ -1,4 +1,4 @@
-# Jetzt Genossenschafter\*in werden!
+# Jetzt Genossenschafter\*in werden!
 
 ## 1. Statuten lesen
 Hier sind unsere Statuten, es lohnt sich, sie zu lesen:
@@ -15,12 +15,12 @@ Um Genossenschafter zu werden, brauchen wir von Dir folgende - gesetzlich vorges
 
 Sende uns Deine Angaben via E-Mail mit dem Betreff: "Beitritt zur Genossenschaft POSMO Schweiz" 
 und zahle gleichzeitig Deine Anteilscheine ein.                  
-Sobald wir Deine Zahlung erhalten haben, benachrichtigen wir Dich und führen Dich im [Mitgliederregister](members.md) namentlich auf. 
+Sobald wir Deine Zahlung erhalten haben, benachrichtigen wir Dich und führen Dich im [Mitgliederregister](https://github.com/posmocoop/general/blob/master/members.md) namentlich auf. 
   
           
-## 3. Anteilscheine kaufen = Geld überweisen
+## 3. Anteilscheine kaufen bzw. Geld überweisen
 Mit dem Kauf von Anteilscheinen, bestätigst Du die Kenntnisnahme der Statuten.
-- Im ersten Jahr mindestens 2 Anteilscheine à CHF 50.-, d.h. CHF 100.-, im zweiten Jahr ein Anteilschein.
+- Im ersten Jahr mindestens 2 Anteilscheine à CHF 50.-, d.h. CHF 100.-, im zweiten Jahr einen Anteilschein.
 - Maximal sind 5 Anteilscheine pro Jahr möglich
 
 Für jeden Anteilschein erhältst Du Ø +0.050 (+0.05 Ostrom)
