@@ -6,6 +6,10 @@ https://github.com/posmocoop/general/blob/master/statutes.md
 
 ## 2. Angaben via E-Mail an verwaltung @ posmo.coop
 Um Genossenschafter zu werden, brauchen wir von Dir folgende - gesetzlich vorgeschriebene - Angaben:
+
+a. Ein unterschriebenes [Eintrittsgesuch](https://github.com/posmocoop/general/blob/master/eintrittsgesuch.pdf) (idealerweise als PDF, sonst via Post)
+
+b. 
 - Vorname
 - Familienname
 - Geburtsjahr
