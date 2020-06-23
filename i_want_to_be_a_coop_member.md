@@ -23,7 +23,7 @@ Mit dem Kauf von Anteilscheinen, bestätigst Du die Kenntnisnahme der Statuten.
 - Im ersten Jahr mindestens 2 Anteilscheine à CHF 50.-, d.h. CHF 100.-, im zweiten Jahr einen Anteilschein.
 - Maximal sind 5 Anteilscheine pro Jahr möglich
 
-Für jeden Anteilschein erhältst Du Ø +0.050 (+0.05 Ostrom)
+Für jeden Anteilschein erhältst Du Ø +0.050 (+0.050 Ostrom)
             
 Siehe auch:           
 https://github.com/posmocoop/general/blob/master/statutes.md#ii-anteilscheine-shapleyostrom-und-haftung         
