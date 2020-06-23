@@ -9,7 +9,7 @@ Um Genossenschafter zu werden, brauchen wir von Dir folgende - gesetzlich vorges
 
 a. Ein unterschriebenes [Eintrittsgesuch](https://github.com/posmocoop/general/blob/master/eintrittsgesuch.pdf) (idealerweise als PDF, sonst via Post)
 
-b. 
+b. Angaben zu Deiner Person
 - Vorname
 - Familienname
 - Geburtsjahr
