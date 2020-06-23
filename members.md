@@ -1,7 +1,5 @@
 # Members
 
-... follows shortly ...
-
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
 | 9 | June 16, 2020  | Marius Z. | 5 | 0.25 |
