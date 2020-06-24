@@ -13,11 +13,13 @@
 | 2 | May 29, 2020  | Valery F. | 2 | 0.1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.25 | 
 
-# Referral
+\* Shares = Anteilscheine
+
+## Referral
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
 | 1 | June 24, 2020  | Thomas H. (10) | Roger F. (1) | 0.015 | 
 
 
-\* Shares = Anteilscheine
+
