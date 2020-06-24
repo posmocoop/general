@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 10 | June 24, 2020  | Thomas H. | 3 | 0.15 |
 | 9 | June 16, 2020  | Marius Z. | 5 | 0.25 |
 | 8 | June 12, 2020  | Miriam F. | 5 | 0.25 |
 | 7 | June 12, 2020  | Alex E. | 2 | 0.1 |
