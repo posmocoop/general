@@ -20,7 +20,7 @@
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
-| 2 | June 25, 2020  | Stefan K. (11) | Roger F. (1) | 0.015 | 
+| 2 | June 25, 2020  | Stefan K. (11) | Roger F. (1) | 0.010 | 
 | 1 | June 24, 2020  | Thomas H. (10) | Roger F. (1) | 0.015 | 
 
 
