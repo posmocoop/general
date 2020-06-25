@@ -17,6 +17,7 @@
 \* Shares = Anteilscheine
 
 ## Referral
+For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
