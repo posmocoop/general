@@ -10,5 +10,5 @@ Ein demokratisches Gefäss um Mobilität zu verbessern: Jede und jeder kann mitb
 Wir wollen gemeinschaftlich und demokratisch eine Vision entwickeln für die Mobilität und den öffentlichen Raum der Zukunft.     
 
 # Don't Messages
-Es geht nur um Velo -> nicht die Autofahrer*innen abschrecken
-Wir verteufeln Big Tech
+Es geht nur um Velo -> nicht die Autofahrer\*innen abschrecken      
+Wir verteufeln Big Tech       
