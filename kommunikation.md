@@ -15,6 +15,7 @@ Wir verteufeln Big Tech
 
 
 ## Next Up
-Website Struktur (Roger)
-History: Wieso POSMO? (Roger
-Positionspapier (Nadia)
+Website Struktur (Roger)          
+History: Wieso POSMO? (Roger)        
+Positionspapier (Nadia)            
+          
