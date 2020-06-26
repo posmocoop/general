@@ -19,3 +19,4 @@
 Meetings S1-S4 were 2 hours long        
 S4: April 7          
 S5: June 15: 1h42 = 25+17.5 = 42.5 = 43 Shapley          
+KOM1: June 26: 1h12 = 30 Shapley
