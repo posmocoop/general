@@ -40,6 +40,6 @@ Dominik Bucher
 ## E. Arbeitsgruppen
 - Kommunikation
 - Fundraising
-
+- Spatial Future
 
 
