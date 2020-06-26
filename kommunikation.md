@@ -12,3 +12,9 @@ Wir wollen gemeinschaftlich und demokratisch eine Vision entwickeln für die Mob
 # Don't Messages
 Es geht nur um Velo -> nicht die Autofahrer\*innen abschrecken      
 Wir verteufeln Big Tech       
+
+
+## Next Up
+Website Struktur (Roger)
+History: Wieso POSMO? (Roger
+Positionspapier (Nadia)
