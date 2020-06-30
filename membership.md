@@ -23,7 +23,7 @@ For members we need their membership start date (hidden, when they pay in).
 
 - id
 - email
-- nr (chronological by membership, starting with 1...)
+- (nr (chronological by membership, starting with 1...))
 - firstname
 - familyname
 - birthyear
@@ -32,7 +32,9 @@ For members we need their membership start date (hidden, when they pay in).
 - streetnr
 - city / municipality
 - zip
-- country
+- country (dropdown)
+- referral_email 
+- referral_name
 - membership_start (full date)
 
 ### Community Features
