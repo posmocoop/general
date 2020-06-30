@@ -33,6 +33,7 @@ For members we need their membership start date (hidden, when they pay in).
 - city / municipality
 - zip
 - country (dropdown)
+- shares
 - referral_email 
 - referral_name
 - membership_start (full date)
