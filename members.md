@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 13 | July 2, 2020  | Daniel S. | 3 | 0.150 |
 | 12 | June 26, 2020  | Oleg L. | 2 | 0.100 |
 | 11 | June 25, 2020  | Stefan K. | 2 | 0.100 |
 | 10 | June 24, 2020  | Thomas H. | 3 | 0.150 |
@@ -22,6 +23,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
+| 3 | July 2, 2020  | Daniel S. (13) | Roger F. (1) | 0.015 | 
 | 2 | June 25, 2020  | Stefan K. (11) | Roger F. (1) | 0.010 | 
 | 1 | June 24, 2020  | Thomas H. (10) | Roger F. (1) | 0.015 | 
 
