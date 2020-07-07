@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 14 | July 6, 2020  | Dominik B. | 2 | 0.100 |
 | 13 | July 2, 2020  | Daniel S. | 3 | 0.150 |
 | 12 | June 26, 2020  | Oleg L. | 2 | 0.100 |
 | 11 | June 25, 2020  | Stefan K. | 2 | 0.100 |
