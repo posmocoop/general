@@ -16,6 +16,11 @@ PS: Lea's hours are missing
 | 2020-06-02/03 | Website mit Github Pages | roger | 3.5h |
 | 2020-06-10/15 | Preparing Meeting | roger | 3h |
 | 2020-06-22/23 | Becoming a Coop Member/Asking people to pay money  | roger | 4h |
+| 2020-09-15 | Meeting with Z.Huwyler  | roger | 1.5h |
+| 2020-09-30 | Meeting Verwaltung Migros  | marius, roger | 1h |
+| 2020-10-06 | Prep. Meeting Oktober 6 | roger | 1h |
+| 2020-10-07 | Text Lea | lea | 1h? |
+| 2020-10-14 | Updates Website, Work Members, Work Verwaltung | roger | 0.5h? |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten. Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
 
