@@ -1,6 +1,6 @@
 ## Meeting Participation and Ostrom per participant
 
-| participant | S1 Ø | S2 Ø | S3 Ø | S4 Ø | S5 Ø | KOM1 Ø | SF1 | FR1 | Total |
+| participant | S1 Ø | S2 Ø | S3 Ø | S4 Ø | S5 Ø | KOM1 Ø | SF1  Ø | FR1  Ø | Total |
 | --- | --- | --- | --- |--- |--- |--- |--- |---|---|
 | alex |  | 0.05 |  | 0.05 |  |  |  | | 0.1|
 | nadia | 0.05 |0.05 |0.05  |0.05 | 0.043 | 0.03 | | | 0.273|
@@ -20,7 +20,7 @@
 Meetings S1-S4 were 2 hours long        
 S4: April 7          
 S5: June 15: 1h42 = 25+17.5 = 42.5 = 43 Shapley          
-KOM1: June 26: 1h12 = 30 Shapley
-SF1 (July 2): 1h = 25 Shapley
-FR1 (October 6): 1h = 25 Shapley
-FR2 (October 14): 
+KOM1: June 26: 1h12 = 30 Shapley            
+SF1 (July 2): 1h = 25 Shapley           
+FR1 (October 6): 1h = 25 Shapley            
+FR2 (October 14):               
