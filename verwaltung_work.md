@@ -21,6 +21,7 @@ PS: Lea's hours are missing
 | 2020-10-06 | Prep. Meeting Oktober 6 | roger | 1h |
 | 2020-10-07 | Text Lea | lea | 1h? |
 | 2020-10-14 | Updates Website, Work Members, Work Verwaltung | roger | 0.5h |
+| 2020-10-15 | Biz Plan (Einnahmen, Ausgaben, Delta | roger | 6h |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten. Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
 
