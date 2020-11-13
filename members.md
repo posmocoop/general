@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 16 | November 13, 2020 | Roberta F. | 2 | 0.100 |
 | 15 | September 23, 2020 | Lars K. | 2 | 0.100 |
 | 14 | July 6, 2020  | Dominik B. | 2 | 0.100 |
 | 13 | July 2, 2020  | Daniel S. | 3 | 0.150 |
@@ -17,7 +18,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  45 | 2.250 | 
+| Total |   |  |  47 | 2.350 | 
 
 \* Shares = Anteilscheine
 
