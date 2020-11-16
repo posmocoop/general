@@ -24,5 +24,5 @@ KOM1: June 26: 1h12 = 30 Shapley
 SF1 (July 2): 1h = 25 Shapley           
 FR1 (October 6): 1h = 25 Shapley            
 FR2 (October 14): 1h11 = 30 Shapley        
-FR3 (October 16): 1h40 = 42 Shapley
+FR3 (October 16): 1h40 = 42 Shapley          
 FR4+5 (Nov 6+13): 1h10 + 1h20 = 63 Shapley
