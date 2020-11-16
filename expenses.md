@@ -10,7 +10,7 @@
 | May 12, 2020 | Couverts A3 | Roger | 5.90  |
 | May 12, 2020 | A-Grossbrief | Roger | 2.00  |
 | June 9, 2020 | HR | Datamap | <strike>692.00</strike>  |
-
+| November 16, 2020 | Staats- und Gemeindesteuern 2020 (ab 5.5.2020) | Posmo | <strike>54.95</strike>  |
 
 ## Upcoming Hosting 2020
 
