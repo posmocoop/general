@@ -30,6 +30,7 @@ PS: Lea's hours are missing
 | 2020-10-24 | Meeting mit Mr Klein, Werling aus Baden-Württemberg zu Datengenossenschaften (+Vorbereitung/Debrief) | lea, roger | 2h |
 | 2020-11-1 | European AI Fund Application | roger | 6h |
 | 2020-11-4 | FR Call mit Zacharias  | roger | 0.5h |
+| 2020-11-16 | Zahlung Steuern + Admin/Github Update  | roger | 1h |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten. Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
 
