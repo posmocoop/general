@@ -11,6 +11,7 @@
 | May 12, 2020 | A-Grossbrief | Roger | 2.00  |
 | June 9, 2020 | HR | Datamap | <strike>692.00</strike>  |
 | November 16, 2020 | Staats- und Gemeindesteuern 2020 (ab 5.5.2020) | Posmo | <strike>54.95</strike>  |
+| December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | 69.00 |
 
 ## Upcoming Hosting 2020
 
@@ -22,7 +23,7 @@
 | September 3, 2020 | Hosting Amazon | Datamap | $1,083.25 (1. August - 31. August 2020)  |
 | October 3, 2020 | Hosting Amazon | Datamap | $1,057.76 (1. September - 30. September 2020) |
 | November 6, 2020 | Hosting Amazon | Datamap | $1,084.37 (1. Oktober - 31. Oktober 2020) |
-| December 3, 2020 | Hosting Amazon | Datamap | $... (1. November - 30. November 2020) |
+| December 3, 2020 | Hosting Amazon | Datamap | $1,064.13 (1. November - 30. November 2020) |
 | January 3, 2021 | Hosting Amazon | Datamap | $... (1. Dezember - 31. Dezember 2020) |
 
 ----
