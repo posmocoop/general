@@ -32,4 +32,4 @@
 - Darlehen Roger: CHF 72.90
 - Darlehen Lea: CHF 20.00
 - Darlehen Datamap: CHF 69.00
-- Darlehen Datamap für Hosting: (see above)
+- Darlehen Datamap für Hosting: Bisher $7194.41 (see above)
