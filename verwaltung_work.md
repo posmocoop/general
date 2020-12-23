@@ -32,8 +32,20 @@ PS: Lea's hours are missing
 | 2020-11-4 | FR Call mit Zach  | roger | 0.5h |
 | 2020-11-16 | Zahlung Steuern + Admin/Github Update  | roger | 1h |
 | 2020-11-18/19 | FR: Mail an Zach, Telefon mit Zach  | roger | 1h |
+| 2020-11-27 | Meeting  | lea, marius, roger, thomas | 1.7h |
+| 2020-12-4 | Vorbereitung Marius  | marius | 1h? |
+| 2020-12-10 | User Feedback Meeting Thomas, Djordje, Roger  | thomas | 1h |
+| 2020-12-10 | Vorbereitung Eingabe Winterkongress  | lea | 1h |
+| 2020-12-5/11 | Vorbereitung Meeting  | roger | 10h |
+| 2020-12-11 | Meeting  | lea, marius, roberta, roger, thomas | 1.7h |
+| 2020-12-16 | Telefon mit Zach  | roger | 1h |
+| 2020-12-22 | Telefon mit Zach  | roger | 0.6h |
+| 2020-12-22 | Übersetzung / Canvas  | roberta | 1.5 h? |
+| 2020-12-23 | Meeting  | thomas, roger | 0.5 h? |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten. Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
+
+
 
 
 ## People Ø
