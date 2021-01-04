@@ -24,7 +24,14 @@
 | October 3, 2020 | Hosting Amazon | Datamap | $1,057.76 (1. September - 30. September 2020) |
 | November 6, 2020 | Hosting Amazon | Datamap | $1,084.37 (1. Oktober - 31. Oktober 2020) |
 | December 3, 2020 | Hosting Amazon | Datamap | $1,064.13 (1. November - 30. November 2020) |
-| January 3, 2021 | Hosting Amazon | Datamap | $... (1. Dezember - 31. Dezember 2020) |
+| January 3, 2021 | Hosting Amazon | Datamap | $1,475.41 (1. Dezember - 31. Dezember 2020) |
+
+
+## Upcoming Hosting 2021
+
+| date  | what  | who  | cost  | 
+|---|---|---|---|
+| January 3, 2020 | Hosting Amazon | Datamap | $...  (1. Januar – 31. Januar 2020)  |
 
 ----
               
@@ -32,4 +39,6 @@
 - Darlehen Roger: CHF 72.90
 - Darlehen Lea: CHF 20.00
 - Darlehen Datamap: CHF 69.00
-- Darlehen Datamap für Hosting: Bisher $7194.41 (see above)
+- Darlehen Datamap für Hosting: 
+  2020: $8669.82 (see above)            
+  2021: ...                    
