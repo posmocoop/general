@@ -47,7 +47,7 @@ PS: Lea's hours are missing
 | 2020-12-26/27/28 | Budget+Canvas+Mail mit Zach | roger | 8h |
 | 2021-01-6/7 | Budget (4.5)+Telefon (0.8) mit Zach | roger | 5.3h |
 | 2021-01-07| Zoom mit Lea, Roger | roger, lea | 0.3h |
-| 2021-01-07 | Zoom mit Lea, Roger, Thomas | roger, lea | 0.3h |
+| 2021-01-07 | Zoom mit Lea, Roger, Thomas | roger, lea, thomas | 0.3h |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
   Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
