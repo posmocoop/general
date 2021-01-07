@@ -33,7 +33,7 @@ PS: Lea's hours are missing
 | 2020-11-16 | Zahlung Steuern + Admin/Github Update  | roger | 1h |
 | 2020-11-18/19 | FR: Mail an Zach, Telefon mit Zach  | roger | 1h |
 | 2020-11-27 | Meeting  | lea, marius, roger, thomas | 1.7h |
-| 2020-12-4 | Vorbereitung Marius  | marius | 1h? |
+<strike>| 2020-12-4 | Vorbereitung Marius, siehe 5-11.12  | marius | 1h? |</strike>
 | 2020-12-10 | User Feedback Meeting Thomas, Djordje, Roger  | thomas | 1h |
 | 2020-12-10 | Vorbereitung Eingabe Winterkongress  | lea | 1h |
 | 2020-12-5/11 | Vorbereitung Meeting  | marius | 5h |
