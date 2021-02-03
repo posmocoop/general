@@ -31,7 +31,7 @@
 
 | date  | what  | who  | cost  | 
 |---|---|---|---|
-| January 3, 2020 | Hosting Amazon | Datamap | $...  (1. Januar – 31. Januar 2020)  |
+| February 3, 2021 | Hosting Amazon | Datamap | $ 1,039.69 (1. Januar – 31. Januar 2021)  |
 
 ----
               
