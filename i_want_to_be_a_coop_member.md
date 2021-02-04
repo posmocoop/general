@@ -54,4 +54,4 @@ Herzlichen Dank für Dein Interesse. Wir freuen uns auf Dich!
                    
 Liebe Grüsse            
 Deine Verwaltung              
-Lea, Marius, Roger               
+Lea, Marius, Roberta, Roger, Thomas               
