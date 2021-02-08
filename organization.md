@@ -23,6 +23,9 @@ Lea Strohm
 ### Sekretär
 Marius Zumwald
 
+### Weitere Mitglieder der Verwaltung
+Roberta Fischli, Thomas Hug      
+
 
 ## C. Ethikrat
 
