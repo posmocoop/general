@@ -19,7 +19,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  47 | 2.600 | 
+| Total |   |  |  52 | 2.600 | 
 
 \* Shares = Anteilscheine
 
