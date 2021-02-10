@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 17 | Februar 10, 2020 | David D. | 5 | 0.250 |
 | 16 | November 13, 2020 | Roberta F. | 2 | 0.100 |
 | 15 | September 23, 2020 | Lars K. | 2 | 0.100 |
 | 14 | July 6, 2020  | Dominik B. | 2 | 0.100 |
