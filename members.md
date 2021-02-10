@@ -19,7 +19,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  47 | 2.350 | 
+| Total |   |  |  47 | 2.600 | 
 
 \* Shares = Anteilscheine
 
@@ -28,6 +28,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
+| 4 | Februar 10, 2020  | David D. (17) | Roger F. (1) | 0.025 | 
 | 3 | July 2, 2020  | Daniel S. (13) | Roger F. (1) | 0.015 | 
 | 2 | June 25, 2020  | Stefan K. (11) | Roger F. (1) | 0.010 | 
 | 1 | June 24, 2020  | Thomas H. (10) | Roger F. (1) | 0.015 | 
