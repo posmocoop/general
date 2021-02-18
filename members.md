@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 21 | Februar 18, 2020 | Felix S. | 5 | 0.250 |
 | 20 | Februar 15, 2020 | Tom M. | 2 | 0.100 |
 | 19 | Februar 12, 2020 | Andres M. | 3 | 0.150 |
 | 18 | Februar 12, 2020 | Yvonne E. | 4 | 0.200 |
@@ -22,7 +23,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  61 | 3.050 | 
+| Total |   |  |  66 | 3.300 | 
 
 \* Shares = Anteilscheine
 
