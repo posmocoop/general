@@ -56,7 +56,8 @@ PS: Lea's hours are missing
 | 2021-01-18-27 | Template | thomas | ? h |
 | 2021-01-27 | Meeting | lea, thomas, roger | 0.6h |
 | 2021-01-28 bis 02-01 | Überarbeitung Template mit Inputs Z, Mails, Tel-Meetings | roger | 13.5h |
-| 2021-02-11-18 | Vorbereitung Vobs 2 | roger | 4 h |
+| 2021-02-11-18 | Research, Vorbereitung, Präsi Vobs 2 | roger | 4 h |
+| 2021-02-11-16 | Letter of Intent Posmo für ZHAW/DIZH +U. einholen | roger | 2.5 h |
 | 2021-02-19 | Tel mit Zach | roger | 0.5h |
 
 
