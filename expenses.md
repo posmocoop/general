@@ -38,9 +38,9 @@
 ----
               
 - <strike>Darlehen Datamap: CHF 1110.29 (ausbezahlt am 29.Oktober 2020)</strike>
-- <strike>Darlehen Roger: CHF 72.90</strike>
+- <strike>Darlehen Roger: CHF 72.90  (ausbezahlt am 25.Februar 2020)</strike>
 - Darlehen Lea: CHF 20.00
-- <strike>Darlehen Datamap: CHF 69.00+80.45 = 149.45 (ausbezahlt am 24.Februar 2020)</strike>
+- <strike>Darlehen Datamap: CHF 69.00+80.45 = 149.45 (ausbezahlt am 25.Februar 2020)</strike>
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
   2021: ...                    
