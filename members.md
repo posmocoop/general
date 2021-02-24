@@ -13,7 +13,7 @@
 | 13 | July 2, 2020  | Daniel S. | 3 | 0.150 |
 | 12 | June 26, 2020  | Oleg L. | 2 | 0.100 |
 | 11 | June 25, 2020  | Stefan K. | 2 | 0.100 |
-| 10 | June 24, 2020  | Thomas H. | 3 | 0.150 |
+| 10 | June 24, 2020  | Thomas H. | 5 | 0.250 |
 | 9 | June 16, 2020  | Marius Z. | 5 | 0.250 |
 | 8 | June 12, 2020  | Miriam F. | 5 | 0.250 |
 | 7 | June 12, 2020  | Alex E. | 2 | 0.100 |
@@ -23,7 +23,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  66 | 3.300 | 
+| Total |   |  |  68 | 3.400 | 
 
 \* Shares = Anteilscheine
 
@@ -39,4 +39,9 @@ For every referral where your name comes up, you'll get 10% Ø.
 | 1 | June 24, 2020  | Thomas H. (10) | Roger F. (1) | 0.015 | 
 
 
+
+## Donations
+| no. | date  | who  | purpose | CHF | 
+|---|---|---|---|---|
+| 1 | Februar 19, 2020 | Pro Velo Kanton Zurich | VOBS | 500.- |
 
