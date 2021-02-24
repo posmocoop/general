@@ -13,6 +13,7 @@
 | November 16, 2020 | Staats- und Gemeindesteuern 2020 (ab 5.5.2020) | Posmo | <strike>54.95</strike>  |
 | December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | 69.00 |
 | February 8, 2021 | posmo.coop (Gandi) | Datamap | 80.45 |
+| February 25, 2021 | Steuern 2021 | Posmo | 80.45 |
 
 ## Upcoming Hosting 2020
 
