@@ -13,7 +13,7 @@
 | 13 | July 2, 2020  | Daniel S. | 3 | 0.150 |
 | 12 | June 26, 2020  | Oleg L. | 2 | 0.100 |
 | 11 | June 25, 2020  | Stefan K. | 2 | 0.100 |
-| 10 | June 24, 2020  | Thomas H. | 5 | 0.250 |
+| 10 | June 24, 2020 / Feb 23, 2021 | Thomas H. | 5 | 0.250 |
 | 9 | June 16, 2020  | Marius Z. | 5 | 0.250 |
 | 8 | June 12, 2020  | Miriam F. | 5 | 0.250 |
 | 7 | June 12, 2020  | Alex E. | 2 | 0.100 |
