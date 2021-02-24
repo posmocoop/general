@@ -2,18 +2,18 @@
 
 | date  | what  | who  | chf  | 
 |---|---|---|---|
-| March 10, 2020  | Beglaubigung Marius/Roger | Roger | 40.00  |
+| March 10, 2020  | Beglaubigung Marius/Roger | Roger | <strike>40.00</strike>  |
 | April 9, 2020 |  Webadresse posmo.coop (Gandi) | Datamap  | <strike>102.14</strike>  | 
 | April 16, 2020 | Beglaubigung Lea  |  Lea | 20.00  | 
 | May 10, 2020 | Protonmail Visionary, 1 Year | Datamap | <strike>316.15 (€ 288)</strike>  |
-| May 12, 2020 | Passbeglaubigung Post | Roger | 25.00  |
-| May 12, 2020 | Couverts A3 | Roger | 5.90  |
-| May 12, 2020 | A-Grossbrief | Roger | 2.00  |
+| May 12, 2020 | Passbeglaubigung Post | Roger | <strike>25.00</strike>  |
+| May 12, 2020 | Couverts A3 | Roger | <strike>5.90</strike>  |
+| May 12, 2020 | A-Grossbrief | Roger | <strike>2.00</strike>  |
 | June 9, 2020 | HR | Datamap | <strike>692.00</strike>  |
 | November 16, 2020 | Staats- und Gemeindesteuern 2020 (ab 5.5.2020) | Posmo | <strike>54.95</strike>  |
-| December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | 69.00 |
-| February 8, 2021 | posmo.coop (Gandi) | Datamap | 80.45 |
-| February 25, 2021 | Steuern 2021 | Posmo | 80.45 |
+| December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | <strike>69.00</strike> |
+| February 8, 2021 | posmo.coop (Gandi) | Datamap | <strike>80.45</strike> |
+| February 25, 2021 | Steuern 2021 | Posmo | <strike>84.75</strike> |
 
 ## Upcoming Hosting 2020
 
@@ -38,9 +38,9 @@
 ----
               
 - <strike>Darlehen Datamap: CHF 1110.29 (ausbezahlt am 29.Oktober 2020)</strike>
-- Darlehen Roger: CHF 72.90
+- <strike>Darlehen Roger: CHF 72.90</strike>
 - Darlehen Lea: CHF 20.00
-- Darlehen Datamap: CHF 69.00
+- <strike>Darlehen Datamap: CHF 69.00+80.45 = 149.45 (ausbezahlt am 24.Februar 2020)</strike>
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
   2021: ...                    
