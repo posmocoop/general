@@ -25,8 +25,15 @@
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
 | Total |   |  |  68 | 3.400 | 
 
-\* Shares = Anteilscheine
-
+\* Shares = Anteilscheine             
+               
+       
+## Donations
+| no. | date  | who  | purpose | CHF | 
+|---|---|---|---|---|
+| 1 | Februar 19, 2020 | Pro Velo Kanton Zurich | VOBS | 500.- |           
+               
+          
 ## Referral
 For every referral where your name comes up, you'll get 10% Ø.
 
@@ -40,8 +47,4 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 
 
-## Donations
-| no. | date  | who  | purpose | CHF | 
-|---|---|---|---|---|
-| 1 | Februar 19, 2020 | Pro Velo Kanton Zurich | VOBS | 500.- |
 
