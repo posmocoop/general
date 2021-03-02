@@ -4,7 +4,7 @@
 |---|---|---|---|
 | March 10, 2020  | Beglaubigung Marius/Roger | Roger | <strike>40.00</strike>  |
 | April 9, 2020 |  Webadresse posmo.coop (Gandi) | Datamap  | <strike>102.14</strike>  | 
-| April 16, 2020 | Beglaubigung Lea  |  Lea | 20.00  | 
+| April 16, 2020 | Beglaubigung Lea  |  Lea | <strike>20.00</strike>  | 
 | May 10, 2020 | Protonmail Visionary, 1 Year | Datamap | <strike>316.15 (€ 288)</strike>  |
 | May 12, 2020 | Passbeglaubigung Post | Roger | <strike>25.00</strike>  |
 | May 12, 2020 | Couverts A3 | Roger | <strike>5.90</strike>  |
@@ -34,13 +34,15 @@
 | date  | what  | who  | cost  | 
 |---|---|---|---|
 | February 3, 2021 | Hosting Amazon | Datamap | $ 1,039.69 (1. Januar – 31. Januar 2021)  |
+| March 3, 2021 | Hosting Amazon | Datamap | $ 948.93 (1. Februar – 28. Februar 2021)  |
 
 ----
               
 - <strike>Darlehen Datamap: CHF 1110.29 (ausbezahlt am 29.Oktober 2020)</strike>
 - <strike>Darlehen Roger: CHF 72.90  (ausbezahlt am 25.Februar 2020)</strike>
-- Darlehen Lea: CHF 20.00
+- <strike>Darlehen Lea: CHF 20.00 (ausbezahlt am 3. März 2020)</strike>
 - <strike>Darlehen Datamap: CHF 69.00+80.45 = 149.45 (ausbezahlt am 25.Februar 2020)</strike>
+     
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
-  2021: ...                    
+  2021: bisher ~ USD 2000                    
