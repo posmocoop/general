@@ -32,6 +32,7 @@
 ## Donations
 | no. | date  | who  | purpose | CHF | 
 |---|---|---|---|---|
+| 2 | March 12, 2020 | Kaywa AG | VOBS | 500.- |      
 | 1 | Februar 19, 2020 | Pro Velo Kanton Zurich | VOBS | 500.- |           
                
           
