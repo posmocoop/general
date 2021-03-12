@@ -6,3 +6,6 @@
 | 2021-02-11 | vobs meet 14-15| roger, dave, thomas, felix | 1 h |
 | 2020-02-18 | vobs meet 14-15:15 | roger, dave, thomas, felix, yvonne | 1.25 h |
 | 2020-02-18 | vobs meet 15:15-16:15 | roger, dave, thomas, yvonne | 1 h |
+| 2020-03-04 | vobs meet 15:15-16:15 | roger, dave, thomas, yvonne | 2 h |
+| 2020-03-10 | vobs meet 15:15-16:15 | roger, thomas, yvonne, felix, tom | 1.75 h |
+
