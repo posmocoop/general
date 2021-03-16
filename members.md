@@ -32,9 +32,9 @@
 ## Donations
 | no. | date  | who  | purpose | CHF | 
 |---|---|---|---|---|
-| 3 | March 15, 2020 | Datamap AG | VOBS | 500.- |    
-| 2 | March 12, 2020 | Kaywa AG | VOBS | 500.- |      
-| 1 | Februar 19, 2020 | Pro Velo Kanton Zurich | VOBS | 500.- |           
+| 3 | March 15, 2021 | Datamap AG | VOBS | 500.- |    
+| 2 | March 12, 2021 | Kaywa AG | VOBS | 500.- |      
+| 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VOBS | 500.- |           
                
           
 ## Referral
@@ -42,8 +42,8 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
-| 5 | Februar 12, 2020  | Yvonne E. (18) | Roger F. (1) | 0.020 | 
-| 4 | Februar 10, 2020  | David D. (17) | Roger F. (1) | 0.025 | 
+| 5 | Februar 12, 2021  | Yvonne E. (18) | Roger F. (1) | 0.020 | 
+| 4 | Februar 10, 2021  | David D. (17) | Roger F. (1) | 0.025 | 
 | 3 | July 2, 2020  | Daniel S. (13) | Roger F. (1) | 0.015 | 
 | 2 | June 25, 2020  | Stefan K. (11) | Roger F. (1) | 0.010 | 
 | 1 | June 24, 2020  | Thomas H. (10) | Roger F. (1) | 0.015 | 
