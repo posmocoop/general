@@ -3,11 +3,11 @@
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
 | 1 | March 3, 2021 | Roger F. | 5 | 0.250 |
-| 21 | Februar 18, 2020 | Felix S. | 5 | 0.250 |
-| 20 | Februar 15, 2020 | Tom M. | 2 | 0.100 |
-| 19 | Februar 12, 2020 | Andres M. | 3 | 0.150 |
-| 18 | Februar 12, 2020 | Yvonne E. | 4 | 0.200 |
-| 17 | Februar 10, 2020 | David D. | 5 | 0.250 |
+| 21 | Februar 18, 2021 | Felix S. | 5 | 0.250 |
+| 20 | Februar 15, 2021 | Tom M. | 2 | 0.100 |
+| 19 | Februar 12, 2021 | Andres M. | 3 | 0.150 |
+| 18 | Februar 12, 2021 | Yvonne E. | 4 | 0.200 |
+| 17 | Februar 10, 2021 | David D. | 5 | 0.250 |
 | 16 | November 13, 2020 | Roberta F. | 2 | 0.100 |
 | 15 | September 23, 2020 | Lars K. | 2 | 0.100 |
 | 14 | July 6, 2020  | Dominik B. | 2 | 0.100 |
