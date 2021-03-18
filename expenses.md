@@ -14,6 +14,7 @@
 | December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | <strike>69.00</strike> |
 | February 8, 2021 | posmo.coop (Gandi) | Datamap | <strike>80.45</strike> |
 | February 25, 2021 | Steuern 2021 | Posmo | <strike>84.75</strike> |
+| March 18, 2021 | Webadresse velobserver.ch | Datamap | 11.95 |
 
 ## Upcoming Hosting 2020
 
