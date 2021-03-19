@@ -1,4 +1,4 @@
-# VOBS WORK
+# VelObserver WORK
 
 | date          | topic | participants | duration |
 | --- | --- | --- | --- |
@@ -11,3 +11,4 @@
 | 2020-03-15 | vobs design 14:15-15:30 | roger, chragi | 1.25 h |
 | 2020-03-17 | vobs meet 14:00-16:00 | yvonne, thomas, felix, roger,  | 2 h |
 | 2020-03-17 | vobs meet 16:00-16:30 | yvonne, thomas, roger,  | 0.5 h |
+| 2020-03-18 | vobs meet 15:20-15:50 | roger, (nikola) | 0.5 h |
