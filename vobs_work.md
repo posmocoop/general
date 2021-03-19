@@ -8,7 +8,7 @@
 | 2020-02-18 | vobs meet 15:15-16:15 | roger, dave, thomas, yvonne | 1 h |
 | 2020-03-04 | vobs meet 14:00-16:00 | roger, dave, thomas, yvonne | 2 h |
 | 2020-03-10 | vobs meet 14:00-15:45 | roger, thomas, yvonne, felix, tom | 1.75 h |
-| 2020-03-15 | vobs design 14:15-15:30 | roger, chragi | 1.25 h |
+| 2020-03-15 | vobs design 14:15-15:30 | roger, chragi: design | 1.25 h |
 | 2020-03-17 | vobs meet 14:00-16:00 | yvonne, thomas, felix, roger,  | 2 h |
 | 2020-03-17 | vobs meet 16:00-16:30 | yvonne, thomas, roger,  | 0.5 h |
-| 2020-03-18 | vobs meet 15:20-15:50 | roger, (nikola) | 0.5 h |
+| 2020-03-18 | vobs meet 15:20-15:50 | roger, (nikola: tech. implementation) | 0.5 h |
