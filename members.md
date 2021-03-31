@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 22 | March 31, 2021 | Stefan B. | 5 | 0.250 |
 | 1 | March 3, 2021 | Roger F. | 5 | 0.250 |
 | 21 | Februar 18, 2021 | Felix S. | 5 | 0.250 |
 | 20 | Februar 15, 2021 | Tom M. | 2 | 0.100 |
@@ -24,7 +25,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  73 | 3.650 | 
+| Total |   |  |  78 | 3.900 | 
 
 \* Shares = Anteilscheine             
                
