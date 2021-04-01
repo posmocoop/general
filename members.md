@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 24 | April 1, 2021 | Marco S. | 4 | 0.200 |
 | 23 | April 1, 2021 | Christoph F. | 2 | 0.100 |
 | 22 | March 31, 2021 | Stefan B. | 5 | 0.250 |
 | 1 | March 3, 2021 | Roger F. | 5 | 0.250 |
@@ -26,7 +27,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  80 | 4.000 | 
+| Total |   |  |  84 | 4.200 | 
 
 \* Shares = Anteilscheine             
                
@@ -34,6 +35,7 @@
 ## Donations
 | no. | date  | who  | purpose | CHF | 
 |---|---|---|---|---|
+| 4 | April 1, 2021 | Urbanista AG | VOBS | 500.- | 
 | 3 | March 15, 2021 | Datamap AG | VOBS | 500.- |    
 | 2 | March 12, 2021 | Kaywa AG | VOBS | 500.- |      
 | 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VOBS | 500.- |           
