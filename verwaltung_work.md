@@ -66,6 +66,8 @@ PS: Lea's hours are missing
 | 2021-03-09 | Einführung Posmo + Präsentation je 1.5 h | roger | 3h |
 | 2021-03-19 | Meeting | lea, roberta, marius, thomas, roger | 1.5h |
 | 2020-04-05 | EM meeting 16:10-18:40 | lea, thomas roger | 2.5h |
+| 2020-04-07 | Work on EM-Fragen bis 7. April | ??? | ??? |
+
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
   Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
