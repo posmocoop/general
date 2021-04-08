@@ -6,6 +6,8 @@
 | 2021-02-11 | vobs meet 14-15| roger, dave, thomas, felix | 1 h |
 | 2020-02-18 | vobs meet 14-15:15 | roger, dave, thomas, felix, yvonne | 1.25 h |
 | 2020-02-18 | vobs meet 15:15-16:15 | roger, dave, thomas, yvonne | 1 h |
+| 2020-02-21 | vobs arbeit | roger | 2 h |
+| 2020-03-01 | vobs arbeit | bis 1. März: thomas | 4 h |
 | 2020-03-04 | vobs meet 14:00-16:00 | roger, dave, thomas, yvonne | 2 h |
 | 2020-03-10 | vobs meet 14:00-15:45 | roger, thomas, yvonne, felix, tom | 1.75 h |
 | 2020-03-15 | vobs design 14:15-15:30 | roger, chragi: design | 1.25 h |
@@ -21,3 +23,4 @@
 | 2020-04-06 | prototype fund budget | roger | 2 h |
 | 2020-04-07 | velObserver meeting 8:00-8:45 | yvonne, thomas, res, felix, roger, lea | 0.75 h |
 | 2020-04-07 | velObserver meeting 8:45-9:45 | yvonne, thomas, res, felix, roger | 1 h |
+| 2020-04-07 | stand velObserver arbeit | yvonne, thomas, res, felix, roger | ??? |
