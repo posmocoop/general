@@ -61,6 +61,7 @@ PS: Lea's hours are missing
 | 2021-02-19 | Tel mit Zach | roger | 0.5h |
 | 2021-02-21 bis 02-28 | Buchhaltung, Auszahlungen, Neuzugänge Korrespondenz | roger | 1.5h |
 | 2021-03-01 bis 02-28 | Tel. mit Zach | roger | 1h |
+| 2021-03-01 | Präsi + Meeting | roberta, marius | 1h |
 | 2021-03-01 | Winterkongress Vorbereitung und Präsentation | lea | 4h |
 | 2021-03-01 | Winterkongress Vorbereitung und Präsentation | thomas | 5h |
 | 2021-03-09 | Einführung Posmo + Präsentation je 1.5 h | roger | 3h |
