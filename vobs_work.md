@@ -16,4 +16,8 @@
 | 2020-03-26 | velobserver meet 10:30-11:30 | yvonne, thomas, felix, djordje, roger | 1 h |
 | 2020-03-31 | velobserver meet 11:00-12:00 | yvonne, thomas, res, felix, tom, roger, lea | 1 h |
 | 2020-03-31 | velobserver 12:00-12:45 | yvonne, thomas, res, felix, tom, roger | 0.75 h |
+| 2020-04-? | prototype fund | lea | ? h |
 | 2020-04-05 | prototype fund meeting 18:40-19:10 | lea, thomas roger | 0.5 h |
+| 2020-04-06 | prototype fund budget | roger | 2 h |
+| 2020-04-07 | velObserver meeting 8:00-8:45 | yvonne, thomas, res, felix, roger, lea | 0.75 h |
+| 2020-04-07 | velObserver meeting 8:45-9:45 | yvonne, thomas, res, felix, roger | 1 h |
