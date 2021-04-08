@@ -59,13 +59,18 @@ PS: Lea's hours are missing
 | 2021-02-11-18 | Research, Vorbereitung, Präsi Vobs 2 | roger | 4 h |
 | 2021-02-11-16 | Letter of Intent Posmo für ZHAW/DIZH +U. einholen | roger | 2.5 h |
 | 2021-02-19 | Tel mit Zach | roger | 0.5h |
+| 2021-02-21 bis 02-28 | Buchhaltung, Auszahlungen, Neuzugänge Korrespondenz | roger | 1.5h |
+| 2021-03-01 bis 02-28 | Tel. mit Zach | roger | 1h |
+| 2021-03-01 | Winterkongress Vorbereitung und Präsentation | lea | 4h |
+| 2021-03-01 | Winterkongress Vorbereitung und Präsentation | thomas | 5h |
+| 2021-03-09 | Einführung Posmo + Präsentation je 1.5 h | roger | 3h |
 | 2021-03-19 | Meeting | lea, roberta, marius, thomas, roger | 1.5h |
 | 2020-04-05 | EM meeting 16:10-18:40 | lea, thomas roger | 2.5h |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
   Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
 
-** IMPORTANT: Digiges muss noch nachgetragen werden (v.a. Thomas, Lea)
+
 
 
 ## People Ø
