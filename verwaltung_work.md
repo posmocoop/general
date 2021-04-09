@@ -68,7 +68,14 @@ PS: Lea's hours are missing
 | 2021-03-19 | Meeting | lea, roberta, marius, thomas, roger | 1.5h |
 | 2020-04-05 | EM meeting 16:10-18:40 | lea, thomas roger | 2.5h |
 | 2020-04-07 | Work on EM-Fragen bis 7. April | lea | 3h |
-
+| 2020-04-07 | Work on EM-Fragen bis 7. April | roger | 3.5h |
+| 2020-04-07 | Work on EM-Fragen bis 7. April | thomas | ??? |
+| 2020-04-07 | Work on EM-Fragen bis 7. April | marius | ??? |
+| 2020-04-09 | Meeting EM budget, lea, thomas, roger, 8-9:45 | lea | 1.75h |
+| 2020-04-09 | Meeting EM budget, lea, thomas, roger, 8-9:15 | thomas | 1.25h |
+| 2020-04-09 | Meeting EM budget, lea, thomas, roger, 8:15-9:45 | roger | 1.5h |
+| 2020-04-09 | Meeting EM mit MG, roger, 11:30-13:00 | roger | 1.5h |
+| 2020-04-09 | Case EM, Mail MG, roger, 14:45-16:15 | roger | 1.5h |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
   Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
