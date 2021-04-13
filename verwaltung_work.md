@@ -76,6 +76,8 @@ PS: Lea's hours are missing
 | 2020-04-09 | Meeting EM budget, lea, thomas, roger, 8:15-9:45 | roger | 1.5h |
 | 2020-04-09 | Meeting EM mit MG, roger, 11:30-13:00 | roger | 1.5h |
 | 2020-04-09 | Case EM, Mail MG, roger, 14:45-16:15 | roger | 1.5h |
+| 2020-04-10 | Pains, DA-DO EM, Mail MG, roger, 12:30-14:30 | roger | 2h |
+
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
   Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
