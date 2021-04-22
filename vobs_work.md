@@ -24,3 +24,8 @@
 | 2020-04-07 | velObserver meeting 8:00-8:45 | yvonne, thomas, res, felix, roger, lea | 0.75 h |
 | 2020-04-07 | velObserver meeting 8:45-9:45 | yvonne, thomas, res, felix, roger | 1 h |
 | 2020-04-07 | stand velObserver arbeit | yvonne, thomas, res, felix, roger | ??? |
+| 2020-04-14 | velObserver foto session 7:30-8:30 | yvonne, thomas, felix, roger | 1h |
+| 2020-04-14 | velObserver foto session 8:30-9:30 | yvonne, thomas, felix | 1h |
+| 2020-04-22 | velObserver meeting prep | roger | 1h |
+| 2020-04-22 | velObserver meeting 10:30-12:15 | yvonne, thomas, res, felix, roger | 0.5h |
+| 2020-04-22 | velObserver meeting 11:00-12:15 | yvonne, thomas, res, felix, roger, chragi | 1.25h |
