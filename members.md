@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 25 | April 23, 2021 | Dorothea B. | 2 | 0.100 |
 | 24 | April 1, 2021 | Marco S. | 4 | 0.200 |
 | 23 | April 1, 2021 | Christoph F. | 2 | 0.100 |
 | 22 | March 31, 2021 | Stefan B. | 5 | 0.250 |
@@ -27,7 +28,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  84 | 4.200 | 
+| Total |   |  |  82 | 4.300 | 
 
 \* Shares = Anteilscheine             
                
