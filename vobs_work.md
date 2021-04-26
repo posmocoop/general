@@ -33,5 +33,7 @@
 | 2020-04-23 | velobserver video 16:00-17:30 | yvonne, felix, roger | 1.5h |
 | 2020-04-23 | velobserver arbeit video nachbearbeitung | felix | ??? |
 
-Arbeit Yvonne, Thomas, Res, Felix? Arbeit Res an Surveys? 
+Arbeit Yvonne, Thomas, Res, Felix? 
+Arbeit Res an Surveys? 
+Arbeit Lea für Prototypefund?
 
