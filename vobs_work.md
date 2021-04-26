@@ -30,3 +30,8 @@
 | 2020-04-22 | velObserver meeting 10:30-12:15 | yvonne, thomas, res, felix, roger | 0.5h |
 | 2020-04-22 | velObserver meeting 11:00-12:15 | yvonne, thomas, res, felix, roger, chragi | 1.25h |
 | 2020-04-22 | prototype fund meeting 17:30-18:45 | lea, roger | 1.25h |
+| 2020-04-23 | velobserver video 16:00-17:30 | yvonne, felix, roger | 1.5h |
+| 2020-04-23 | velobserver arbeit video nachbearbeitung | felix | ??? |
+
+Arbeit Yvonne, Thomas, Res, Felix? Arbeit Res an Surveys? 
+
