@@ -14,7 +14,7 @@
 | December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | <strike>69.00</strike> |
 | February 8, 2021 | posmo.coop (Gandi) | Datamap | <strike>80.45</strike> |
 | February 25, 2021 | Steuern 2021 | Posmo | <strike>84.75</strike> |
-| March 18, 2021 | Webadresse velobserver.ch | Datamap | 11.95 |
+| March 18, 2021 | Webadresse velobserver.ch | Datamap | <strike>11.95</strike> |
 
 ## Upcoming Hosting 2020
 
@@ -45,6 +45,7 @@
 - <strike>Darlehen Roger: CHF 72.90  (ausbezahlt am 25.Februar 2021)</strike>
 - <strike>Darlehen Lea: CHF 20.00 (ausbezahlt am 3. März 2021)</strike>
 - <strike>Darlehen Datamap: CHF 69.00+80.45 = 149.45 (ausbezahlt am 25.Februar 2021)</strike>
+- <strike>Darlehen Datamap: CHF 11.95 (ausbezahlt am 3. Mai 2021)</strike>
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
