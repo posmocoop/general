@@ -37,6 +37,8 @@
 | February 3, 2021 | Hosting Amazon | Datamap | $ 1,039.69 (1. Januar – 31. Januar 2021)  |
 | March 3, 2021 | Hosting Amazon | Datamap | $ 948.93 (1. Februar – 28. Februar 2021)  |
 | April 5, 2021 | Hosting Amazon | Datamap | $ 1,047.86 (1. März – 31. März 2021)  |
+| May 3, 2021 | Hosting Amazon | Datamap | $ 1,026.20 (1. April – 31. April 2021)  |
+
 
 
 ----
@@ -49,4 +51,4 @@
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
-  2021: bisher ~ USD 3000                    
+  2021: bisher ~ USD 4000                    
