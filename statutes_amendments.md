@@ -5,6 +5,7 @@
 
 ### NEU: AI & Data Oversight Comittee (AIDOC) 
 - Aufgaben und Befugnisse definieren
+- Teil des Ethikrats
 
 ### NEU: Advisory Board 
 - Aufgaben und Befugnisse definieren
