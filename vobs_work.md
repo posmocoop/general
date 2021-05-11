@@ -32,8 +32,10 @@
 | 2020-04-22 | prototype fund meeting 17:30-18:45 | lea, roger | 1.25h |
 | 2020-04-23 | velobserver video 16:00-17:30 | yvonne, felix, roger | 1.5h |
 | 2020-04-23 | velobserver arbeit video nachbearbeitung | felix | ??? |
+| 2020-05-03 | velobserver preparing website: veloplan | roger | 2h |
+| 2020-05-03 | velobserver briefing website: veloplan, 15:00-16:00 | chragi, roger | 1h |
+| 2020-05-03 | velobserver prototype fund | lea, roger | 0.5h |
 
 Arbeit Yvonne, Thomas, Res, Felix? 
 Arbeit Res an Surveys? 
 Arbeit Lea für Prototypefund?
-
