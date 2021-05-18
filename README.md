@@ -22,7 +22,7 @@ https://www.thecommonsjournal.org/articles/10.18352/ijc.252/
 ## Dokumente – Documents
 - [Statuten](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf) 
 - [Gewählte Mitglieder](https://docs.google.com/document/d/1YUm9ym33ajHGp7-fkWoBCT857fq7Cp5q9ghrBLua2kc/edit#)
-- [Mitgliederverzeichnis](https://docs.google.com/spreadsheets/d/1k1inzn9drzKAT2KXOWsQLUgxEZNl1htHqFNmv42MduU/edit#gid=0)
+- [Mitgliederverzeichnis](https://github.com/posmocoop/general/blob/master/members.md)
 
 
 ## Website der Posmo Genossenschaft 
