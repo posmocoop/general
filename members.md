@@ -32,21 +32,6 @@
 
 \* Shares = Anteilscheine             
                
-       
-## Donations
-| no. | date  | who  | purpose | CHF | 
-|---|---|---|---|---|
-| 4 | April 1, 2021 | Urbanista AG | VOBS | 500.- | 
-| 3 | March 15, 2021 | Datamap AG | VOBS | 500.- |    
-| 2 | March 12, 2021 | Kaywa AG | VOBS | 500.- |      
-| 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VOBS | 500.- |           
-           
-            
-## Donations TWINT
-| no. | date  | purpose | CHF | 
-|---|---|---|---|
-| 1 | ..., 2021 | VelObserver |  |    
-      
           
 ## Referral
 For every referral where your name comes up, you'll get 10% Ø.
@@ -61,5 +46,20 @@ For every referral where your name comes up, you'll get 10% Ø.
 | 1 | June 24, 2020  | Thomas H. (10) | Roger F. (1) | 0.015 | 
 
 
-
+## Donations VelObserver
+| no. | date  | who  | purpose | CHF | 
+|---|---|---|---|---|
+| 4 | April 1, 2021 | Urbanista AG | VOBS | 500.- | 
+| 3 | March 15, 2021 | Datamap AG | VOBS | 500.- |    
+| 2 | March 12, 2021 | Kaywa AG | VOBS | 500.- |      
+| 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VOBS | 500.- |           
+           
+            
+## TWINT VelObserver
+| no. | date  | purpose | CHF | 
+|---|---|---|---|
+| 4 | May 18, 2021 | VelObserver | 49.35 |   
+| 3 | May 17, 2021 | VelObserver | 4.93 |   
+| 2 | May 14, 2021 | VelObserver | 29.60 |   
+| 1 | May 11, 2021 | VelObserver | 14.80 |    
 
