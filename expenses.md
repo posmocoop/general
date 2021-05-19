@@ -15,6 +15,7 @@
 | February 8, 2021 | posmo.coop (Gandi) | Datamap | <strike>80.45</strike> |
 | February 25, 2021 | Steuern 2021 | Posmo | <strike>84.75</strike> |
 | March 18, 2021 | Webadresse velobserver.ch | Datamap | <strike>11.95</strike> |
+| May 10, 2021 | Protonmail Visionary, 1 Year | Datamap | <strike>329.10 (€ 288)</strike> |
 
 ## Upcoming Hosting 2020
 
