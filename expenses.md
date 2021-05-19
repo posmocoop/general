@@ -49,6 +49,7 @@
 - <strike>Darlehen Lea: CHF 20.00 (ausbezahlt am 3. März 2021)</strike>
 - <strike>Darlehen Datamap: CHF 69.00+80.45 = 149.45 (ausbezahlt am 25.Februar 2021)</strike>
 - <strike>Darlehen Datamap: CHF 11.95 (ausbezahlt am 3. Mai 2021)</strike>
+- <strike>Darlehen Datamap: CHF 329.10 (ausbezahlt am 19. Mai 2021)</strike>
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
