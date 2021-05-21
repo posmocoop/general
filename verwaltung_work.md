@@ -81,8 +81,11 @@ PS: Lea's hours are missing
 | 2020-04-16 | General Meeting,  14:00-15:00 | lea, marius, roger | 1h |
 | 2020-04-23 | General Meeting,  14:00-15:30 | lea, marius, roberta, roger | 1.5h |
 | 2020-04-26 | Ethikrat/AIDOC, roger, marius 13:00-14:30 | marius, roger | 1.5h |
-
-
+| 2020-05-07 | Bi-Weekly, 14:00-15:00 | lea, marius, roberta, thomas, roger | 1h |
+| 2020-05-20 | Marcel Blattner Meeting, 15:00-15:30 | roger | 0.5h |
+| 2020-05-20 | EM-Meeting, roger, thomas 16:00-16:45 + debriefing bis 17:15| thomas, roger | 1.25h |
+| 2020-05-21 | Bi-Weekly, 14:00-15:00 | lea, marius, roberta, thomas, roger | 1h |
+| 2020-05-21 | Finanzen, CSV, Slides für GV | roger | 3h |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
   Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
