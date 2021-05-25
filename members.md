@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 28 | May ?, 2021 | Marcel B. | ? | ? |
 | 27 | May 25, 2021 | Rahel E. | 2 | 0.100 |
 | 26 | May 25, 2021 | Alberto D. | 2 | 0.100 |
 | 25 | April 23, 2021 | Dorothea B. | 2 | 0.100 |
