@@ -42,6 +42,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
+| 9 | May ?, 2021  | Julia R. (29) | Roberta F. (16) | ? | 
 | 8 | May 25, 2021  | Rahel E. (27) | Roger F. (1) | 0.01 | 
 | 7 | May 25, 2021  | Alberto D. (26) | Roger F. (1) | 0.01 | 
 | 6 | March 31, 2021  | Stefan B. (22) | Roger F. (1) | 0.025 | 
