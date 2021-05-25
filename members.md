@@ -2,6 +2,8 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 27 | May 25, 2021 | Rahel E. | 2 | 0.100 |
+| 26 | May 25, 2021 | Alberto D. | 2 | 0.100 |
 | 25 | April 23, 2021 | Dorothea B. | 2 | 0.100 |
 | 24 | April 1, 2021 | Marco S. | 4 | 0.200 |
 | 23 | April 1, 2021 | Christoph F. | 2 | 0.100 |
@@ -28,7 +30,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  86 | 4.300 | 
+| Total |   |  |  90 | 4.500 | 
 
 \* Shares = Anteilscheine             
                
@@ -38,6 +40,8 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
+| 8 | May 25, 2021  | Rahel E. (27) | Roger F. (1) | 0.01 | 
+| 7 | May 25, 2021  | Alberto D. (26) | Roger F. (1) | 0.01 | 
 | 6 | March 31, 2021  | Stefan B. (22) | Roger F. (1) | 0.025 | 
 | 5 | Februar 12, 2021  | Yvonne E. (18) | Roger F. (1) | 0.020 | 
 | 4 | Februar 10, 2021  | David D. (17) | Roger F. (1) | 0.025 | 
