@@ -2,8 +2,8 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
-| 29 | May ?, 2021 | Julia R. | ? | ? |
-| 28 | May ?, 2021 | Marcel B. | ? | ? |
+| 29 | May ?, 2021 | Marcel B. | ? | ? |
+| 28 | May 26, 2021 | Julia R. | 2 | 0.100 |
 | 27 | May 25, 2021 | Rahel E. | 2 | 0.100 |
 | 26 | May 25, 2021 | Alberto D. | 2 | 0.100 |
 | 25 | April 23, 2021 | Dorothea B. | 2 | 0.100 |
@@ -32,7 +32,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  90 | 4.500 | 
+| Total |   |  |  92 | 4.600 | 
 
 \* Shares = Anteilscheine             
                
@@ -42,8 +42,8 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
-| 9 | May ?, 2021  | Julia R. (29) | Roberta F. (16) | ? | 
-| 8 | May 25, 2021  | Rahel E. (27) | Roger F. (1) | 0.01 | 
+| 9 | May 26, 2021  | Julia R. (28) | Roberta F. (16) | 0.010 | 
+| 8 | May 25, 2021  | Rahel E. (27) | Roger F. (1) | 0.010 | 
 | 7 | May 25, 2021  | Alberto D. (26) | Roger F. (1) | 0.01 | 
 | 6 | March 31, 2021  | Stefan B. (22) | Roger F. (1) | 0.025 | 
 | 5 | Februar 12, 2021  | Yvonne E. (18) | Roger F. (1) | 0.020 | 
@@ -53,13 +53,14 @@ For every referral where your name comes up, you'll get 10% Ø.
 | 1 | June 24, 2020  | Thomas H. (10) | Roger F. (1) | 0.015 | 
 
 
-## Donations VelObserver
+## Donations VelObserver: No Bike, No Business!
 | no. | date  | who  | purpose | CHF | 
 |---|---|---|---|---|
-| 4 | April 1, 2021 | Urbanista AG | VOBS | 500.- | 
-| 3 | March 15, 2021 | Datamap AG | VOBS | 500.- |    
-| 2 | March 12, 2021 | Kaywa AG | VOBS | 500.- |      
-| 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VOBS | 500.- |           
+| 5 | May 26, 2021 | LIIP AG | VelObserver | 500.- | 
+| 4 | April 1, 2021 | Urbanista AG | VelObserver | 500.- | 
+| 3 | March 15, 2021 | Datamap AG | VelObserver | 500.- |    
+| 2 | March 12, 2021 | Kaywa AG | VelObserver | 500.- |      
+| 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VelObserver | 500.- |           
            
             
 ## TWINT VelObserver
