@@ -26,7 +26,7 @@ Thomas Hug
 
 
 
-## C. Ethikrat mit AI & Data Oversight Commitee (AIDOC)
+## C. Ethikrat mit AI & Data Oversight Committee (AIDOC)
 
 ### Vorsitz
 Roberta Fischli
