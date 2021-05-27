@@ -21,24 +21,25 @@ Lea Strohm
 
 
 ### Sekretär
-Marius Zumwald
-
-### Weitere Mitglieder der Verwaltung
-Roberta Fischli, Thomas Hug      
+Thomas Hug
 
 
-## C. Ethikrat
+
+
+## C. Ethikrat mit AI & Data Oversight Commitee (AIDOC)
 
 ### Vorsitz
-Alex Erath
+Roberta Fischli
 
 
 ### Stellvertretung
-Viktoria Molnar
+Marius Zumwald (AIDOC)
 
 
-### Mitglied
-Dominik Bucher
+### Mitglieder
+- Dorothea Bauer
+- Marcel Blattner (AIDOC)
+- Viktória Molnár
 
 ## E. Arbeitsgruppen
 - Kommunikation
