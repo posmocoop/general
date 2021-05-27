@@ -42,6 +42,7 @@ Marius Zumwald (AIDOC)
 - Viktória Molnár
 
 ## E. Arbeitsgruppen
+- VelObserver, siehe: [Projektseite](https://github.com/posmocoop/spatial_future/blob/master/vobs.md)
 - Kommunikation
 - Fundraising
 - Spatial Future
