@@ -19,7 +19,7 @@
 
 ## Upcoming Hosting 2020
 
-| date  | what  | who  | cost  | cost CHF |
+| date  | what  | who  | cost usd | chf |
 |---|---|---|---|---|
 | June 3, 2020 | Hosting Amazon | Datamap | $812.98 (8. Mai – 31. Mai 2020)  |  781.73 ( 0.961562) |
 | July 3, 2020 | Hosting Amazon | Datamap | $1,011.83 (1.Juni - 30.Juni 2020) | |
