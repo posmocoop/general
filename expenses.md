@@ -21,7 +21,7 @@
 
 | date  | what  | who  | cost  | cost CHF |
 |---|---|---|---|---|
-| June 3, 2020 | Hosting Amazon | Datamap | $812.98 (8. Mai – 31. Mai 2020)  |  781.50 ( 0.96128) |
+| June 3, 2020 | Hosting Amazon | Datamap | $812.98 (8. Mai – 31. Mai 2020)  |  781.73 ( 0.961562) |
 | July 3, 2020 | Hosting Amazon | Datamap | $1,011.83 (1.Juni - 30.Juni 2020) | |
 | August 3, 2020 | Hosting Amazon | Datamap | $1,080.09 (1. Juli - 31. Juli 2020) | |
 | September 3, 2020 | Hosting Amazon | Datamap | $1,083.25 (1. August - 31. August 2020)  | |
@@ -30,7 +30,7 @@
 | December 3, 2020 | Hosting Amazon | Datamap | $1,064.13 (1. November - 30. November 2020) | |
 | January 3, 2021 | Hosting Amazon | Datamap | $1,475.41 (1. Dezember - 31. Dezember 2020) | |
 
-Umrechnung $/CHF, siehe Bsp. https://de.exchange-rates.org/Rate/USD/CHF/03.06.2020        
+Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&view=2Y        
 
 ## Upcoming Hosting 2021
 
@@ -51,7 +51,7 @@ Umrechnung $/CHF, siehe Bsp. https://de.exchange-rates.org/Rate/USD/CHF/03.06.20
 - <strike>Darlehen Datamap: CHF 69.00+80.45 = 149.45 (ausbezahlt am 25.Februar 2021)</strike>
 - <strike>Darlehen Datamap: CHF 11.95 (ausbezahlt am 3. Mai 2021)</strike>
 - <strike>Darlehen Datamap: CHF 329.10 (ausbezahlt am 19. Mai 2021)</strike>
-- Upcoming: Darlehen Datamap: CHF 781.50 / $812.98 (Hosting, Mai 2020)
+- Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
