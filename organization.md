@@ -37,7 +37,7 @@ Marius Zumwald (AIDOC)
 
 
 ### Mitglieder
-- Dorothea Bauer
+- Dorothea Baur
 - Marcel Blattner (AIDOC)
 - Viktória Molnár
 
