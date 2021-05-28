@@ -2,7 +2,6 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
-
 | 31 | May ?, 2021 | Thorben W. | ? | ? |
 | 30 | May ?, 2021 | Peter M. | ? | ? |
 | 29 | May ?, 2021 | Marcel B. | ? | ? |
