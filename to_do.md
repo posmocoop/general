@@ -24,10 +24,10 @@
 - Abstimmung Elektronisch
 - Publikation des Lageberichts bzw. Jahresrechnung
 
-
-- What Posmo does? Who does it? How you can join?
-- Photos of People who joined (why join?).
-- Down-to-earth words, no technoblabla, passepartout words
+#### Important
+- What does Posmo do (protect, defend, reward)? Who does it? How you can join?
+- Photos of People who joined (why did I join).
+- Down-to-earth words, no technoblabla or passepartout words
 
 
 
