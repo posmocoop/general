@@ -24,6 +24,13 @@
 - Abstimmung Elektronisch
 - Publikation des Lageberichts bzw. Jahresrechnung
 
+
+- What Posmo does? Who does it? How you can join?
+- Photos of People who joined (why join?).
+- Down-to-earth words, no technoblabla, passepartout words
+
+
+
 ### Ethikrat
 ...         
         
