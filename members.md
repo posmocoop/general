@@ -3,8 +3,8 @@
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
 | 31 | May ?, 2021 | Thorben W. | ? | ? |
-| 30 | June 1, 2021 | Peter M. | 2 | 0.100 |
-| 29 | May ?, 2021 | Marcel B. | ? | ? |
+| 30 | May ?, 2021 | Marcel B. | ? | ? |
+| 29 | June 1, 2021 | Peter M. | 2 | 0.100 |
 | 2 | May 28, 2021 | Valery F. | 5 | 0.250 |
 | 28 | May 26, 2021 | Julia R. | 2 | 0.100 |
 | 27 | May 25, 2021 | Rahel E. | 2 | 0.100 |
