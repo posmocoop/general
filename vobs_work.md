@@ -41,6 +41,7 @@
 | 2021-05-27 | velobserver nobnob seite, 17:25-18:10 | roger | 0.75h |
 | 2021-06-01 | velobserver meeting nikola, 19:00-20:00 | roger, nikola | 1h |
 | 2021-06-02 | velobserver export texte | roger| 0.5h |
+| 2021-06-02 | website vorbesprechung 16:30-17:40 | thomas, felix, roger| 1.17h |
 
 Arbeit Yvonne, Thomas, Res, Felix?     
 Arbeit Res an Surveys?       
