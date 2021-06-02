@@ -39,7 +39,8 @@
 | 2021-05-18 | velobserver briefing nikola, 19:00-19:45 | roger, nikola | 0.75h |
 | 2021-05-27 | velobserver briefing chragi, 16:55-17:25 | roger, chragi | 0.5h |
 | 2021-05-27 | velobserver nobnob seite, 17:25-18:10 | roger | 0.75h |
-| 2021-06-01 | velobserver meeting mikola, 19:00-20:00 | roger, nikola | 1h |
+| 2021-06-01 | velobserver meeting nikola, 19:00-20:00 | roger, nikola | 1h |
+| 2021-06-02 | velobserver export texte | roger| 0.5h |
 
 Arbeit Yvonne, Thomas, Res, Felix?     
 Arbeit Res an Surveys?       
