@@ -88,6 +88,8 @@ PS: Lea's hours are missing
 | 2020-05-21 | Finanzen, CSV, Slides für GV | roger | 3h |
 | 2020-05-31 | Gespräch mit Alex zu LOI, FHNW, 15:27-16:11 | roger, alex | 0.75h |
 | 2020-05-31 | Website UX, first meeting, 17:00-18:30 | roger, lea | 1.5h |
+| 2020-06-01 | LOI/DO | roger | 1h |
+| 2020-06-02 | Diskussion LOI/DO, 9:10-9:30 | roger, marius | 0.33h |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
   Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
