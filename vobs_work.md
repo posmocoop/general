@@ -42,6 +42,8 @@
 | 2021-06-01 | velobserver meeting nikola, 19:00-20:00 | roger, nikola | 1h |
 | 2021-06-02 | velobserver export texte | roger| 0.5h |
 | 2021-06-02 | website vorbesprechung 16:30-17:40 | thomas, felix, roger| 1.17h |
+| 2021-06-03 | website meetings/mails with chragi | chragi, roger| 1h |
+| 2021-06-03 | text nbnb, links, github, mail for nikola, djordje | roger | 2h |
 
 Arbeit Yvonne, Thomas, Res, Felix?     
 Arbeit Res an Surveys?       
