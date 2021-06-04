@@ -44,6 +44,8 @@
 | 2021-06-02 | website vorbesprechung 16:30-17:40 | thomas, felix, roger| 1.17h |
 | 2021-06-03 | website meetings/mails with chragi | chragi, roger| 1h |
 | 2021-06-03 | text nbnb, links, github, mail for nikola, djordje | roger | 2h |
+| 2021-06-04 | meeting | yvonne, felix, res, thomas, roger, laura, 9:30-11:30 | 2h |
+
 
 Arbeit Yvonne, Thomas, Res, Felix?     
 Arbeit Res an Surveys?       
