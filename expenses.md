@@ -16,7 +16,7 @@
 | February 25, 2021 | Steuern 2021 | Posmo | <strike>84.75</strike> |
 | March 18, 2021 | Webadresse velobserver.ch | Datamap | <strike>11.95</strike> |
 | May 10, 2021 | Protonmail Visionary, 1 Year | Datamap | <strike>329.10 (€ 288)</strike> |
-| June 2, 2021 | Recoleta Light Font, Web, 500'000 views | Datamap | (€ 23.99) |
+| June 2, 2021 | Recoleta Light Font, Web, 500'000 views | Datamap | CHF 27.45 (€ 23.99) |
 | June 3, 2021 | Recoleta Light Font, Desktop | Datamap | (€ 23.99) |
 
 ## Upcoming Hosting 2020
