@@ -30,6 +30,7 @@
 | 2021-04-22 | velObserver meeting 10:30-12:15 | yvonne, thomas, res, felix, roger | 0.5h |
 | 2021-04-22 | velObserver meeting 11:00-12:15 | yvonne, thomas, res, felix, roger, chragi | 1.25h |
 | 2021-04-22 | prototype fund meeting 17:30-18:45 | lea, roger | 1.25h |
+| 2021-04-23 | setup and result analysis scale test survey until 2021-06-02 | res | 15h |
 | 2021-04-23 | velobserver video 16:00-17:30 | yvonne, felix, roger | 1.5h |
 | 2021-04-23 | velobserver arbeit video nachbearbeitung | felix | ??? |
 | 2021-05-03 | velobserver preparing website: veloplan | roger | 2h |
@@ -47,6 +48,5 @@
 | 2021-06-04 | meeting | yvonne, felix, res, thomas, roger, laura, 9:30-11:30 | 2h |
 
 
-Arbeit Yvonne, Thomas, Res, Felix?     
-Arbeit Res an Surveys?       
+Arbeit Yvonne, Thomas, Res, Felix?          
 Arbeit Lea für Prototypefund?        
