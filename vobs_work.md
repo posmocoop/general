@@ -46,7 +46,8 @@
 | 2021-06-03 | website meetings/mails with chragi | chragi, roger| 1h |
 | 2021-06-03 | text nbnb, links, github, mail for nikola, djordje | roger | 2h |
 | 2021-06-04 | meeting | yvonne, felix, res, thomas, roger, laura, 9:30-11:30 | 2h |
-
+| 2021-06-04-8 | meetings with chragi, nikola for changes (skyline, nbnb changes, footer), review | 3h |
+| 2021-06-09 | design assets upload | 0.5h |
 
 Arbeit Yvonne, Thomas, Res, Felix?          
 Arbeit Lea für Prototypefund?        
