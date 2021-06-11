@@ -37,6 +37,7 @@
 | 2021-05-03 | velobserver briefing website: veloplan, 15:00-16:00 | chragi, roger | 1h |
 | 2021-05-03 | velobserver prototype fund | lea, roger | 0.5h |
 | 2021-05-12 | velobserver briefing chragi | roger, chragi | 0.25h |
+| 2021-05-15 | Video und Animation/GIF für Prototype Fund | thomas | 2h |
 | 2021-05-18 | velobserver briefing nikola, 19:00-19:45 | roger, nikola | 0.75h |
 | 2021-05-27 | velobserver briefing chragi, 16:55-17:25 | roger, chragi | 0.5h |
 | 2021-05-27 | velobserver nobnob seite, 17:25-18:10 | roger | 0.75h |
@@ -48,6 +49,8 @@
 | 2021-06-04 | meeting 9:30-11:30 | yvonne, felix, res, thomas, roger, laura | 2h |
 | 2021-06-04-8 | meetings with chragi, nikola for changes (skyline, nbnb changes, footer), review | roger | 3h |
 | 2021-06-09 | design assets upload | roger | 0.5h |
+| 2021-06-10 | factsheet | thomas | 1.5h |
+| 2021-06-11 | website meeting, 8:30-10:15 | lea, laura, thomas, res, yvonne, felix, roger | 1.75h |
 
 Arbeit Yvonne, Thomas, Res, Felix?          
 Arbeit Lea für Prototypefund?        
