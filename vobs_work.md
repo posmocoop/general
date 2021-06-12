@@ -52,6 +52,7 @@
 | 2021-06-10 | factsheet | thomas | 1.5h |
 | 2021-06-11 | website meeting, 8:30-10:15 | lea, laura, thomas, res, yvonne, felix, roger | 1.75h |
 | 2021-06-11 | koordination velobserverplan mit djordje, textvorschläge factsheet | roger | 1.5h |
+| 2021-06-12 | version 0.1 briefing mit nikola, einfügen der links, factsheet, test email | roger | 1h |
 
 Arbeit Yvonne, Thomas, Res, Felix?          
 Arbeit Lea für Prototypefund?        
