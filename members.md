@@ -2,7 +2,6 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
-
 | 32 | June ?, 2021 | Thorben W. | ? | ? |
 | 31 | June ?, 2021 | Marcel B. | ? | ? |
 | 30 | June 17, 2021 | Tobias B. | 2 | 0.100 |
