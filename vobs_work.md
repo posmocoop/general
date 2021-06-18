@@ -56,6 +56,7 @@
 | 2021-06-14 | version 0.1 briefing mit nikola, testing | roger | 0.5h |
 | 2021-06-15 | version 0.1 last corrections, testing links, www | roger | 0.5h |
 | 2021-06-15 | version 0.2 briefing djordje, routes changes | roger | 0.5h |
+| 2021-06-18 | meeting, 9:00-10:00 | lea, thomas, res, yvonne, roger | 1h |
 
-Arbeit Yvonne, Thomas, Res, Felix?          
+Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
