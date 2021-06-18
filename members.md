@@ -3,7 +3,7 @@
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
 | 32 | June ?, 2021 | Thorben W. | ? | ? |
-| 31 | June ?, 2021 | Marcel B. | ? | ? |
+| 31 | June 18, 2021 | Marcel B. | 2 | 0.100 |
 | 30 | June 17, 2021 | Tobias B. | 2 | 0.100 |
 | 29 | June 1, 2021 | Peter M. | 2 | 0.100 |
 | 2 | May 28, 2021 | Valery F. | 5 | 0.250 |
@@ -36,7 +36,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  101 | 5.050 | 
+| Total |   |  |  103 | 5.150 | 
 
 \* Shares = Anteilscheine             
                
