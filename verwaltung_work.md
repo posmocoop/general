@@ -82,10 +82,12 @@ PS: Lea's hours are missing
 | 2020-04-23 | General Meeting,  14:00-15:30 | lea, marius, roberta, roger | 1.5h |
 | 2020-04-26 | Ethikrat/AIDOC, roger, marius 13:00-14:30 | marius, roger | 1.5h |
 | 2020-05-07 | Bi-Weekly, 14:00-15:00 | lea, marius, roberta, thomas, roger | 1h |
+| 2020-05-10 | Ethikrat Kick-Off Meeting & Prep, 17:00-19:30 | lea | 2.5h |
 | 2020-05-20 | Marcel Blattner Meeting, 15:00-15:30 | roger | 0.5h |
 | 2020-05-20 | EM-Meeting, roger, thomas 16:00-16:45 + debriefing bis 17:15| thomas, roger | 1.25h |
 | 2020-05-21 | Bi-Weekly, 14:00-15:00 | lea, marius, roberta, thomas, roger | 1h |
 | 2020-05-21 | Finanzen, CSV, Slides für GV | roger | 3h |
+| 2020-05-21 | Slides für GV | lea | 3h |
 | 2020-05-31 | Gespräch mit Alex zu LOI, FHNW, 15:27-16:11 | roger, alex | 0.75h |
 | 2020-05-31 | Website UX, first meeting, 17:00-18:30 | roger, lea | 1.5h |
 | 2020-06-01 | LOI DO | roger | 1h |
