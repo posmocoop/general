@@ -2,7 +2,8 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
-| 32 | June ?, 2021 | Thorben W. | ? | ? |
+| 3 | June 28, 2021 | Lea S. | 5 | 0.250 |
+| 32 | June 28, 2021 | Thorben W. | 2 | 0.100 |
 | 31 | June 18, 2021 | Marcel B. | 2 | 0.100 |
 | 30 | June 17, 2021 | Tobias B. | 2 | 0.100 |
 | 29 | June 1, 2021 | Peter M. | 2 | 0.100 |
@@ -36,7 +37,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  103 | 5.150 | 
+| Total |   |  |  110 | 5.500 | 
 
 \* Shares = Anteilscheine             
                
@@ -46,6 +47,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
+| 10 | June 28, 2021  | Thorben W. (32) | Viktoria M. (4) | 0.010 | 
 | 9 | May 26, 2021  | Julia R. (28) | Roberta F. (16) | 0.010 | 
 | 8 | May 25, 2021  | Rahel E. (27) | Roger F. (1) | 0.010 | 
 | 7 | May 25, 2021  | Alberto D. (26) | Roger F. (1) | 0.01 | 
