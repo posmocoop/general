@@ -18,7 +18,7 @@
 | 2021-03-26 | velobserver meet 10:30-11:30 | yvonne, thomas, felix, djordje, roger | 1 h |
 | 2021-03-31 | velobserver meet 11:00-12:00 | yvonne, thomas, res, felix, tom, roger, lea | 1 h |
 | 2021-03-31 | velobserver 12:00-12:45 | yvonne, thomas, res, felix, tom, roger | 0.75 h |
-| 2021-04-? | prototype fund | lea | ? h |
+| 2021-04-04 | prototype fund | lea | 8 h |
 | 2021-04-05 | prototype fund meeting 18:40-19:10 | lea, thomas roger | 0.5 h |
 | 2021-04-06 | prototype fund budget | roger | 2 h |
 | 2021-04-07 | velObserver meeting 8:00-8:45 | yvonne, thomas, res, felix, roger, lea | 0.75 h |
@@ -36,6 +36,7 @@
 | 2021-05-03 | velobserver preparing website: veloplan | roger | 2h |
 | 2021-05-03 | velobserver briefing website: veloplan, 15:00-16:00 | chragi, roger | 1h |
 | 2021-05-03 | velobserver prototype fund | lea, roger | 0.5h |
+| 2021-05-07 | velobserver prototype fund | lea | 2h |
 | 2021-05-12 | velobserver briefing chragi | roger, chragi | 0.25h |
 | 2021-05-15 | Video und Animation/GIF für Prototype Fund | thomas | 2h |
 | 2021-05-18 | velobserver briefing nikola, 19:00-19:45 | roger, nikola | 0.75h |
@@ -57,6 +58,9 @@
 | 2021-06-15 | version 0.1 last corrections, testing links, www | roger | 0.5h |
 | 2021-06-15 | version 0.2 briefing djordje, routes changes | roger | 0.5h |
 | 2021-06-18 | meeting, 9:00-10:00 | lea, thomas, res, yvonne, roger | 1h |
+| 2021-06-18 | protoypefund pitch | lea | 1h |
+| 2021-06-18 | protoypefund pitch prep | lea, yvonne | 1h |
+| 2021-06-18 | protoypefund pitch | lea, yvonne, roger, thomas | 1h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
