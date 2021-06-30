@@ -11,7 +11,7 @@
 | May 12, 2020 | A-Grossbrief | Roger | <strike>2.00</strike>  |
 | June 9, 2020 | HR | Datamap | <strike>692.00</strike>  |
 | November 16, 2020 | Staats- und Gemeindesteuern 2020 (ab 5.5.2020) | Posmo | <strike>54.95</strike>  |
-| December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | <strike>69.00</strike> |
+| December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | <strike>69.00</strike> (war CHF74.30) |
 | February 8, 2021 | posmo.coop (Gandi) | Datamap | <strike>80.45</strike> |
 | February 25, 2021 | Steuern 2021 | Posmo | <strike>84.75</strike> |
 | March 18, 2021 | Webadresse velobserver.ch | Datamap | <strike>11.95</strike> |
