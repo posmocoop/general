@@ -94,7 +94,10 @@ PS: Lea's hours are missing
 | 2020-06-02 | Diskussion LOI/DO, 9:10-9:30 | roger, marius | 0.33h |
 | 2020-06-02 | LOI DO | roger | 1h |
 | 2020-06-04-09 | LOI meetings (Stefan (1:30), Alex (1:10), Zacharias (0:30), ZHAW LOI Redaktion, ~5h on 06-09 | roger | 8h |
+| 2020-06-04 | verwaltungsmeeting | roger, marius, thomas | 1h |
+| 2020-06-18 | verwaltungsmeeting | lea, roger, thomas | 1h |
 
+| 2020-06-29 | Website UX | roger, lea | 1h |
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
   Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
 
