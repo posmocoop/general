@@ -61,6 +61,7 @@
 | 2021-06-18 | protoypefund pitch | lea | 1h |
 | 2021-06-18 | protoypefund pitch prep | lea, yvonne | 1h |
 | 2021-06-18 | protoypefund pitch | lea, yvonne, roger, thomas | 1h |
+| 2021-06-22 | version 0.2 briefing with nikola | roger| 0.75h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
