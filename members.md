@@ -62,6 +62,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 ## Donations VelObserver: No Bike, No Business!
 | no. | date  | who  | purpose | CHF | 
 |---|---|---|---|---|
+| 6 | July 2, 2021 | Minimum Bouldering | VelObserver | 500.- | 
 | 5 | May 26, 2021 | LIIP AG | VelObserver | 500.- | 
 | 4 | April 1, 2021 | Urbanista AG | VelObserver | 500.- | 
 | 3 | March 15, 2021 | Datamap AG | VelObserver | 500.- |    
