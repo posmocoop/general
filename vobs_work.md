@@ -63,6 +63,10 @@
 | 2021-06-18 | protoypefund pitch | lea, yvonne, roger, thomas | 1h |
 | 2021-06-22 | version 0.2 briefing with nikola | roger| 0.75h |
 | 2021-06-30 | version 0.2 - preparing new routes | roger| 0.5h |
+| 2021-07-07 | general meeting  | roger, yvonne, thomas, res, felix, lea, 8:30-9:45 | 1.25h |
+| 2021-07-07 | general meeting  | roger, yvonne, res, felix, lea, 9:45-10:00 | 0.25h |
+| 2021-07-07 | general meeting  | roger, yvonne, res, felix, 10:00-10:15 | 0.25h |
+
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
