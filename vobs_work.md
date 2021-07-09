@@ -69,6 +69,7 @@
 | 2021-07-07 | general meeting  | roger, yvonne, res, felix, 10:00-10:15 | 0.25h |
 | 2021-07-07 | update meeting (v0.2, v0.3) with nikola, then djordje, 17-18h  | roger | 1h |
 | 2021-07-08 | v0.3, CMS meeting with nikola, djordje, 10-11h  | roger | 1h |
+| 2021-07-09 | v0.3, CMS discussion with nikola / div. admin  | roger | 1h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
