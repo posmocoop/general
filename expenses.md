@@ -16,9 +16,9 @@
 | February 25, 2021 | Steuern 2021 | Posmo | <strike>84.75</strike> |
 | March 18, 2021 | Webadresse velobserver.ch | Datamap | <strike>11.95</strike> |
 | May 10, 2021 | Protonmail Visionary, 1 Year | Datamap | <strike>329.10 (€ 288)</strike> |
-| June 2, 2021 | Recoleta Light Font, Web, 500'000 views | Datamap | CHF 27.45 (€ 23.99) |
-| June 3, 2021 | Recoleta Light Font, Desktop | Datamap | CHF 27.50 (€ 23.99) |
-| July 1, 2021 | ÖV-Tickets Felix, Roger, Treffen mit U. Wyss, Bern | Felix | CHF 135.- |
+| June 2, 2021 | Recoleta Light Font, Web, 500'000 views | Datamap | <strike>CHF 27.45 (€ 23.99)</strike>  |
+| June 3, 2021 | Recoleta Light Font, Desktop | Datamap | <strike>CHF 27.50 (€ 23.99)</strike>  |
+| July 1, 2021 | ÖV-Tickets Felix, Roger, Treffen mit U. Wyss, Bern | Felix | <strike>CHF 135.-</strike>  |
 
 ## Upcoming Hosting 2020
 
@@ -57,7 +57,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Datamap: CHF 11.95 (ausbezahlt am 3. Mai 2021)</strike>
 - <strike>Darlehen Datamap: CHF 329.10 (ausbezahlt am 19. Mai 2021)</strike>
 - <strike>Darlehen Felix: CHF 135 (ausbezahlt am 9. Juli 2021)</strike>
-- Darlehen Datamap: 60.25 (5.30 (Restbetrag, was Euro 69, nicht CHF)+27.45+27.50) (ausbezahlt am 9. Juli 2021)
+- <strike>Darlehen Datamap: 60.25 (5.30 (Restbetrag, war Euro 69, nicht CHF)+27.45+27.50) (ausbezahlt am 9. Juli 2021)</strike>
 
 - Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
