@@ -11,7 +11,7 @@
 | May 12, 2020 | A-Grossbrief | Roger | <strike>2.00</strike>  |
 | June 9, 2020 | HR | Datamap | <strike>692.00</strike>  |
 | November 16, 2020 | Staats- und Gemeindesteuern 2020 (ab 5.5.2020) | Posmo | <strike>54.95</strike>  |
-| December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | <strike>69.00</strike> (war CHF74.30) |
+| December 17, 2020 | Vimeo Plus Membership, Benutzer-ID: 127317718 | Datamap | <strike>CHF 74.30 (€ 69.00)</strike> |
 | February 8, 2021 | posmo.coop (Gandi) | Datamap | <strike>80.45</strike> |
 | February 25, 2021 | Steuern 2021 | Posmo | <strike>84.75</strike> |
 | March 18, 2021 | Webadresse velobserver.ch | Datamap | <strike>11.95</strike> |
@@ -56,6 +56,9 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Datamap: CHF 69.00+80.45 = 149.45 (ausbezahlt am 25.Februar 2021)</strike>
 - <strike>Darlehen Datamap: CHF 11.95 (ausbezahlt am 3. Mai 2021)</strike>
 - <strike>Darlehen Datamap: CHF 329.10 (ausbezahlt am 19. Mai 2021)</strike>
+- <strike>Darlehen Felix: CHF 135 (ausbezahlt am 9. Juli 2021)</strike>
+- Darlehen Datamap: 60.25 (5.30 (Restbetrag, was Euro 69, nicht CHF)+27.45+27.50) (ausbezahlt am 9. Juli 2021)
+
 - Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
 - Darlehen Datamap für Hosting: 
