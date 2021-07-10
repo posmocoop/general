@@ -19,6 +19,7 @@
 | June 2, 2021 | Recoleta Light Font, Web, 500'000 views | Datamap | <strike>CHF 27.45 (€ 23.99)</strike>  |
 | June 3, 2021 | Recoleta Light Font, Desktop | Datamap | <strike>CHF 27.50 (€ 23.99)</strike>  |
 | July 1, 2021 | ÖV-Tickets Felix, Roger, Treffen mit U. Wyss, Bern | Felix | <strike>CHF 135.-</strike>  |
+| July 9, 2021 | Posmo Sommerapéro Getränke 1 | Roger | CHF 94.20  |
 
 ## Upcoming Hosting 2020
 
