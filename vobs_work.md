@@ -70,6 +70,9 @@
 | 2021-07-07 | update meeting (v0.2, v0.3) with nikola, then djordje, 17-18h  | roger | 1h |
 | 2021-07-08 | v0.3, CMS meeting with nikola, djordje, 10-11h  | roger | 1h |
 | 2021-07-09 | v0.3, CMS discussion with nikola / div. admin  | roger | 1h |
+| 2021-07-12 | prototypefund prep, 11:00-11:30  | lea | 0.5h |
+| 2021-07-12 | prototypefund prep, 11:30-11:45  | lea, roger | 0.25h |
+| 2021-07-12 | prototypefund meeting, 17:00-19:00  | lea, roger | 2h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
