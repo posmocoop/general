@@ -60,7 +60,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Datamap: CHF 329.10 (ausbezahlt am 19. Mai 2021)</strike>
 - <strike>Darlehen Felix: CHF 135 (ausbezahlt am 9. Juli 2021)</strike>
 - <strike>Darlehen Datamap: 60.25 (5.30 (Restbetrag, war Euro 69, nicht CHF)+27.45+27.50) (ausbezahlt am 9. Juli 2021)</strike>
-- <strike>Darlehen Roger: CHF 187.70 (93.50+94.20) (ausbezahlt am 15. Juli 2021)</strike>
+- <strike>Darlehen Roger: CHF 187.70 (93.50+94.20) (ausbezahlt am 14. Juli 2021)</strike>
 
 - Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
