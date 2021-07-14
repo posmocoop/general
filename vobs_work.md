@@ -73,7 +73,7 @@
 | 2021-07-12 | prototypefund prep, 11:00-11:30  | lea | 0.5h |
 | 2021-07-12 | prototypefund prep, 11:30-11:45  | lea, roger | 0.25h |
 | 2021-07-12 | prototypefund meeting, 17:00-19:00  | lea, roger | 2h |
-| 2021-07-14 | meeting v0.3 + republik cms, nikola, lana, 16:30-17:35 | roger | 2h |
+| 2021-07-14 | meeting v0.3 + republik cms, nikola, lana, 16:30-17:35 | roger | 1h |
 
 
 Arbeit Yvonne, Thomas, Felix?          
