@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 12 | July 15, 2021 | Oleg L. | 1 | 0.050 |
 | 33 | July 6, 2021 | Laura R. | 4 | 0.200 |
 | 3 | June 28, 2021 | Lea S. | 5 | 0.250 |
 | 32 | June 28, 2021 | Thorben W. | 2 | 0.100 |
@@ -38,7 +39,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  114 | 5.700 | 
+| Total |   |  |  115 | 5.750 | 
 
 \* Shares = Anteilscheine             
                
@@ -63,6 +64,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 ## Donations VelObserver: No Bike, No Business!
 | no. | date  | who  | purpose | CHF | 
 |---|---|---|---|---|
+| 7 | July 16, 2021 | Freitag | VelObserver | 500.- | 
 | 6 | July 2, 2021 | Minimum Bouldering | VelObserver | 500.- | 
 | 5 | May 26, 2021 | LIIP AG | VelObserver | 500.- | 
 | 4 | April 1, 2021 | Urbanista AG | VelObserver | 500.- | 
