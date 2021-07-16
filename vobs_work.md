@@ -76,6 +76,7 @@
 | 2021-07-14 | meeting v0.3 + republik cms, nikola, lana, 16:30-17:35 | roger | 1h |
 | 2021-07-15 | meeting v0.2,0.3,index, 14:00-17:30 | yvonne, thomas, res, felix, roger | 3.5h |
 | 2021-07-15 | briefing v0.2 nikola, djordje, 18:15-19:00 | roger | 0.75h |
+| 2021-07-16 | discussion v0.2 nikola; map city border 10:30-11:45 | roger | 1.25h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
