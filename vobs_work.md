@@ -78,6 +78,8 @@
 | 2021-07-15 | briefing v0.2 nikola, djordje, 18:15-19:00 | roger | 0.75h |
 | 2021-07-16 | discussion v0.2 nikola; map city border 10:30-11:45 | roger | 1.25h |
 | 2021-07-19 | discussion with chragi v.02, v.03, font, text, illu changes v0.2 nikola; 15:50-17:00 | roger | 1.17h |
+| 2021-07-20 | videos for velobserver, press release, v.0.2; 7:00-9:15 | lea, felix, thomas, roger, yvonne | 2.25h |
+| 2021-07-20 | velobserver app, customer journey meeting; 9:15-12:00 | lea, felix, thomas, roger, yvonne | 2.75h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
