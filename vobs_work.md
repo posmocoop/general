@@ -80,6 +80,7 @@
 | 2021-07-19 | discussion with chragi v.02, v.03, font, text, illu changes v0.2 nikola; 15:50-17:00 | roger | 1.17h |
 | 2021-07-20 | videos for velobserver, press release, v.0.2; 7:00-9:15 | lea, felix, thomas, roger, yvonne | 2.25h |
 | 2021-07-20 | velobserver app, customer journey meeting; 9:15-12:00 | lea, felix, thomas, roger, yvonne | 2.75h |
+| 2021-07-20 | meeting v0.2, v0.3, nikola, between 2 and 5 | roger | 0.5h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
