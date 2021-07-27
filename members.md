@@ -2,6 +2,8 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 9 | July 27, 2021 | Marius Z. | 4 | 0.200 |
+| 4 | July 27, 2021 | Viktoria M. | 5 | 0.250 |
 | 12 | July 15, 2021 | Oleg L. | 1 | 0.050 |
 | 33 | July 6, 2021 | Laura R. | 4 | 0.200 |
 | 3 | June 28, 2021 | Lea S. | 5 | 0.250 |
@@ -39,7 +41,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  115 | 5.750 | 
+| Total |   |  |  124 | 6.200 | 
 
 \* Shares = Anteilscheine             
                
@@ -76,6 +78,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 ## TWINT VelObserver
 | no. | date  | purpose | CHF | 
 |---|---|---|---|
+| 5 | July 19, 2021 | VelObserver | 24.67 |  
 | 4 | May 18, 2021 | VelObserver | 49.35 |   
 | 3 | May 17, 2021 | VelObserver | 4.93 |   
 | 2 | May 14, 2021 | VelObserver | 29.60 |   
