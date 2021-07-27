@@ -23,6 +23,8 @@
 | July 9, 2021 | Posmo Sommerapéro Getränke, Snacks 2 | Lea | <strike>CHF 41.45</strike>  |
 | July 9, 2021 | Posmo Sommerapéro Essen, Tenz Momos überd'Gass | Felix | <strike>CHF 108.00</strike>  |
 | July 14, 2021 | Mittagessen nach Zielworkshop, Lea, Thomas, Roger | Roger | <strike>CHF 93.50</strike>  |
+| July 27, 2021 | Arbeit an VelObserver v.0.1, v.0.2, Datamap | Datamap | CHF 7'560.55 |
+
 
 ## Upcoming Hosting 2020
 
