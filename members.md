@@ -78,6 +78,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 ## TWINT VelObserver
 | no. | date  | purpose | CHF | 
 |---|---|---|---|
+| 6 | July 29, 2021 | VelObserver | 167.79 |
 | 5 | July 19, 2021 | VelObserver | 24.67 |  
 | 4 | May 18, 2021 | VelObserver | 49.35 |   
 | 3 | May 17, 2021 | VelObserver | 4.93 |   
