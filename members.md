@@ -72,8 +72,10 @@ For every referral where your name comes up, you'll get 10% Ø.
 | 4 | April 1, 2021 | Urbanista AG | VelObserver | 500.- | 
 | 3 | March 15, 2021 | Datamap AG | VelObserver | 500.- |    
 | 2 | March 12, 2021 | Kaywa AG | VelObserver | 500.- |      
-| 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VelObserver | 500.- |           
-           
+| 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VelObserver | 500.- | 
+     
+Total bisher: 3500.-             
+              
             
 ## TWINT VelObserver
 | no. | date  | purpose | CHF | 
@@ -84,4 +86,6 @@ For every referral where your name comes up, you'll get 10% Ø.
 | 3 | May 17, 2021 | VelObserver | 4.93 |   
 | 2 | May 14, 2021 | VelObserver | 29.60 |   
 | 1 | May 11, 2021 | VelObserver | 14.80 |    
+    
+Total bisher: 291.14   
 
