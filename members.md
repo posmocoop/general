@@ -2,6 +2,9 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 6 | August 2, 2021 | Nadia F. | 2 | 0.100 |
+| 5 | August 2, 2021 | Nadia F. | 2 | 0.100 |
+| 8 | August 2, 2021 | Miriam F. | 2 | 0.100 |
 | 9 | July 27, 2021 | Marius Z. | 4 | 0.200 |
 | 4 | July 27, 2021 | Viktoria M. | 5 | 0.250 |
 | 12 | July 15, 2021 | Oleg L. | 1 | 0.050 |
@@ -41,7 +44,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  124 | 6.200 | 
+| Total |   |  |  130 | 6.500 | 
 
 \* Shares = Anteilscheine             
                
