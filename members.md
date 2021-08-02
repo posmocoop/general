@@ -2,7 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
-| 6 | August 2, 2021 | Nadia F. | 2 | 0.100 |
+| 6 | August 2, 2021 | Jürg W. | 2 | 0.100 |
 | 5 | August 2, 2021 | Nadia F. | 2 | 0.100 |
 | 8 | August 2, 2021 | Miriam F. | 2 | 0.100 |
 | 9 | July 27, 2021 | Marius Z. | 4 | 0.200 |
