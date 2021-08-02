@@ -81,6 +81,9 @@
 | 2021-07-20 | videos for velobserver, press release, v.0.2; 7:00-9:15 | lea, felix, thomas, roger, yvonne | 2.25h |
 | 2021-07-20 | velobserver app, customer journey meeting; 9:15-12:00 | lea, felix, thomas, roger, yvonne | 2.75h |
 | 2021-07-20 | meeting v0.2, v0.3, nikola, between 2 and 5 | roger | 0.5h |
+| 2021-07-23 | correcting routes with djordje, 2:30-3:00 | roger | 0.5h |
+| 2021-07-26 | live-schalten, newsletter | roger | 1h |
+| 2021-07-27 | press-release versand, email beantworten | roger | 2h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
