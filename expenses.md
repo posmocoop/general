@@ -24,7 +24,7 @@
 | July 9, 2021 | Posmo Sommerapéro Essen, Tenz Momos überd'Gass | Felix | <strike>CHF 108.00</strike>  |
 | July 14, 2021 | Mittagessen nach Zielworkshop, Lea, Thomas, Roger | Roger | <strike>CHF 93.50</strike>  |
 | July 27, 2021 | Arbeit an VelObserver v.0.1, v.0.2, Datamap | Datamap | CHF 7'560.55 |
-| August 5, 2021 | Mittagessen+Meeting nach Zielworkshop, Datamap | Roger | <strike>CHF 85.50</strike> |
+| August 5, 2021 | Mittagessen+Meeting nach Zielworkshop, Lea, Thomas, Roger | Roger | <strike>CHF 85.50</strike> |
 
 
 ## Upcoming Hosting 2020
@@ -52,7 +52,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 | May 3, 2021 | Hosting Amazon | Datamap | $ 1,026.20 (1. April – 30. April 2021)  |
 | June 3, 2021 | Hosting Amazon | Datamap | $ 1,045.19 (1. Mai – 31. Mai 2021)  |
 | July 3, 2021 | Hosting Amazon | Datamap | $ 1,036.19 (1. Juni – 30. Juni 2021)  |
-
+| August 3, 2021 | Hosting Amazon | Datamap | $ 1,063.50 (1. Juli – 31. Juli 2021)  |
 
 
 ----
@@ -74,4 +74,4 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
-  2021: bisher ~ USD 6000                    
+  2021: bisher ~ USD 7000                    
