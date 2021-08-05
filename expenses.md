@@ -24,6 +24,7 @@
 | July 9, 2021 | Posmo Sommerapéro Essen, Tenz Momos überd'Gass | Felix | <strike>CHF 108.00</strike>  |
 | July 14, 2021 | Mittagessen nach Zielworkshop, Lea, Thomas, Roger | Roger | <strike>CHF 93.50</strike>  |
 | July 27, 2021 | Arbeit an VelObserver v.0.1, v.0.2, Datamap | Datamap | CHF 7'560.55 |
+| August 5, 2021 | Mittagessen+Meeting nach Zielworkshop, Datamap | Roger | <strike>CHF 85.50</strike> |
 
 
 ## Upcoming Hosting 2020
@@ -67,6 +68,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Roger: CHF 187.70 (93.50+94.20) (ausbezahlt am 14. Juli 2021)</strike>
 - <strike>Darlehen Felix: CHF 108.00  (ausbezahlt am 15. Juli 2021)</strike>
 - <strike>Darlehen Lea: CHF 41.45  (ausbezahlt am 16. Juli 2021)</strike>
+- <strike>Darlehen Roger: CHF 85.50  (ausbezahlt am 5. August 2021)</strike>
 
 - Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
