@@ -84,6 +84,7 @@ Total bisher: 3500.-
 ## TWINT VelObserver
 | no. | date  | purpose | CHF | 
 |---|---|---|---|
+| 7 | August 10, 2021 | VelObserver | 49.35 |
 | 6 | July 29, 2021 | VelObserver | 167.79 |
 | 5 | July 19, 2021 | VelObserver | 24.67 |  
 | 4 | May 18, 2021 | VelObserver | 49.35 |   
@@ -91,5 +92,5 @@ Total bisher: 3500.-
 | 2 | May 14, 2021 | VelObserver | 29.60 |   
 | 1 | May 11, 2021 | VelObserver | 14.80 |    
     
-Total bisher: 291.14   
+Total bisher: 340.49   
 
