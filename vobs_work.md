@@ -84,6 +84,8 @@
 | 2021-07-23 | correcting routes with djordje, 2:30-3:00 | roger | 0.5h |
 | 2021-07-26 | live-schalten, newsletter | roger | 1h |
 | 2021-07-27 | press-release versand, email beantworten | roger | 2h |
+| 2021-08-12 | CORS problem, mail/chat with nikola, chragi in regard to v 0.3 | roger | 1h |
+
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
