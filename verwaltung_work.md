@@ -102,6 +102,7 @@ PS: Lea's hours are missing
 | 2020-08-05 | P.f. 9:00-13:00| lea, thomas, roger | 4h |
 | 2020-08-09 bis 12 | BFH, Annett Laube, Geheimhaltungsverträge| roger | 3.5h |
 | 2020-08-13 | Budget-Meeting, 13-16:15 | lea, roger, thomas | 3.25h |
+| 2020-08-15 | Budget, 12-13 | roger | 1h |
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
   Im Vergleich: 60 x 25 = 1500, resp. Ø 1.5 
