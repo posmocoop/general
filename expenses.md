@@ -25,6 +25,8 @@
 | July 14, 2021 | Mittagessen nach Zielworkshop, Lea, Thomas, Roger | Roger | <strike>CHF 93.50</strike>  |
 | July 27, 2021 | Arbeit an VelObserver v.0.1, v.0.2, Datamap | Datamap | CHF 7'560.55 |
 | August 5, 2021 | Mittagessen+Meeting nach Zielworkshop, Lea, Thomas, Roger | Roger | <strike>CHF 85.50</strike> |
+| August 16, 2021 | Vorbesprechung für Treffen W.B., Laura, Res, Roger | Roger | <strike>CHF 18.00</strike> |
+| August 17, 2021 | Design, Arbeit an VelObserver v.0.1, v.0.2 | chragi | CHF 3500.00 |
 
 
 ## Upcoming Hosting 2020
@@ -69,6 +71,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Felix: CHF 108.00  (ausbezahlt am 15. Juli 2021)</strike>
 - <strike>Darlehen Lea: CHF 41.45  (ausbezahlt am 16. Juli 2021)</strike>
 - <strike>Darlehen Roger: CHF 85.50  (ausbezahlt am 5. August 2021)</strike>
+- <strike>Darlehen Roger: CHF 18.00  (ausbezahlt am 17. August 2021)</strike>
 
 - Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
