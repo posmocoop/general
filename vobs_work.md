@@ -85,7 +85,8 @@
 | 2021-07-26 | live-schalten, newsletter | roger | 1h |
 | 2021-07-27 | press-release versand, email beantworten | roger | 2h |
 | 2021-08-12 | CORS problem, mail/chat with nikola, chragi in regard to v 0.3 | roger | 1h |
-
+| 2021-08-16 | Vorbereitung fürs Treffen mit W. Brucks, 10-10:45, Cafe Lang | laura, res, roger | 0.75h |
+| 2021-08-17 | Tel. Meeting mit Chragi, v 0.3, app, 10:50-11:20 | roger, chragi | 0.5h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
