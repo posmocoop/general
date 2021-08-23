@@ -87,6 +87,9 @@
 | 2021-08-12 | CORS problem, mail/chat with nikola, chragi in regard to v 0.3 | roger | 1h |
 | 2021-08-16 | Vorbereitung fürs Treffen mit W. Brucks, 10-10:45, Cafe Lang | laura, res, roger | 0.75h |
 | 2021-08-17 | Tel. Meeting mit Chragi, v 0.3, app, 10:50-11:20 | roger, chragi | 0.5h |
+| 2021-08-18 | Meeting mit W.B., D.D., 9:30-10:30 | laura, res, roger | 1h |
+| 2021-08-20 | VelObserver Präsentation für Freitag 27 | roger | 3h |
+| 2021-08-23 | VelObserver Präsentation für Freitag 27 | roger | 4h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
