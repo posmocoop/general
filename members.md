@@ -70,6 +70,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 ## Donations VelObserver: No Bike, No Business!
 | no. | date  | who  | purpose | CHF | 
 |---|---|---|---|---|
+| 8 | August 26, 2021 | Pro Velo Kanton Zürich | VelObserver | 3000.- | 
 | 7 | July 16, 2021 | Freitag | VelObserver | 500.- | 
 | 6 | July 2, 2021 | Minimum Bouldering | VelObserver | 500.- | 
 | 5 | May 26, 2021 | LIIP AG | VelObserver | 500.- | 
