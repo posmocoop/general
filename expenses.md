@@ -27,7 +27,8 @@
 | August 5, 2021 | Mittagessen+Meeting nach Zielworkshop, Lea, Thomas, Roger | Roger | <strike>CHF 85.50</strike> |
 | August 16, 2021 | Vorbesprechung für Treffen W.B., Laura, Res, Roger | Roger | <strike>CHF 18.00</strike> |
 | August 17, 2021 | Design, Arbeit an VelObserver v.0.1, v.0.2 | chragi | CHF 3500.00 |
-
+| August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich | lea | CHF 51.00 |
+| August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich | roger | CHF 51.00 |
 
 ## Upcoming Hosting 2020
 
@@ -73,6 +74,9 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Roger: CHF 85.50  (ausbezahlt am 5. August 2021)</strike>
 - <strike>Darlehen Roger: CHF 18.00  (ausbezahlt am 17. August 2021)</strike>
 - <strike>Darlehen Datamap: CHF 7'560.55  (ausbezahlt am 26. August 2021)</strike>
+- <strike>Darlehen Lea: CHF 51.-  (ausbezahlt am 1. September 2021)</strike>
+- <strike>Darlehen Roger: CHF 51.-  (ausbezahlt am 1. September 2021)</strike>
+
 
 - Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
