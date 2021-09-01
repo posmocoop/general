@@ -27,8 +27,8 @@
 | August 5, 2021 | Mittagessen+Meeting nach Zielworkshop, Lea, Thomas, Roger | Roger | <strike>CHF 85.50</strike> |
 | August 16, 2021 | Vorbesprechung für Treffen W.B., Laura, Res, Roger | Roger | <strike>CHF 18.00</strike> |
 | August 17, 2021 | Design, Arbeit an VelObserver v.0.1, v.0.2 | chragi | CHF 3500.00 |
-| August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich | lea | CHF 51.00 |
-| August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich | roger | CHF 51.00 |
+| August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich retour | lea | CHF 51.00 |
+| August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich retour| roger | CHF 51.00 |
 
 ## Upcoming Hosting 2020
 
