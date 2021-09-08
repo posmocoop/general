@@ -31,6 +31,18 @@
 | August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich retour| roger | <strike>CHF 51.00</strike> |
 | September 1, 2021 | posmo.ch, Webadresse Gandi, redirect auf posmo.coop | datamap | <strike>CHF 12.80 ($13.95)</strike> |
 
+
+## Upcoming Github Seats for Posmo
+Github 4 seats (2 x BFH + Lea, Marius), 50% Datamap, 50% Posmo        
+Jeweils am 16. des Monats, ab September, $4 per Seat.      
+
+| date  | what  | who  | usd  | chf | 
+|---|---|---|---|---|
+| August 23, 2021  | Github, 2 Seats, pro Rata | Datamap | $ 6.71  | |
+
+2 Seats ab 16. September, $ 8
+
+
 ## Upcoming Hosting 2020
 
 | date  | what  | who  | cost usd | chf |
@@ -57,6 +69,8 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 | June 3, 2021 | Hosting Amazon | Datamap | $ 1,045.19 (1. Mai – 31. Mai 2021)  |
 | July 3, 2021 | Hosting Amazon | Datamap | $ 1,036.19 (1. Juni – 30. Juni 2021)  |
 | August 3, 2021 | Hosting Amazon | Datamap | $ 1,063.50 (1. Juli – 31. Juli 2021)  |
+| September 7, 2021 | Hosting Amazon | Datamap | $ 1,056.49 (1. August – 31. August 2021)  |
+
 
 
 ----
