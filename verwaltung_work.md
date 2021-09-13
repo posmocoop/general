@@ -105,7 +105,7 @@ PS: Lea's hours are missing
 | 2020-08-15 | Budget, 12-13 | roger | 1h |
 | 2020-08-20 | Set up von Posmo Commons on Github, Mails an Sven, Annett | roger | 2h |
 | 2020-09-10 | Verwaltung-Ethikrat-Meeting  | marius, roger | 1.25h |
-
+| 2020-09-13 | Meeting R-D/M/ZH, 15:30-16:  | roger | 1.25h |
 
 
 * Bei Startups kostet die Gründung CHF 2499, ohne Statuten.      
