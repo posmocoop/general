@@ -30,6 +30,7 @@
 | August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich retour | lea | <strike>CHF 51.00</strike> |
 | August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich retour| roger | <strike>CHF 51.00</strike> |
 | September 1, 2021 | posmo.ch, Webadresse Gandi, redirect auf posmo.coop | datamap | <strike>CHF 12.80 ($13.95)</strike> |
+| September 14, 2021 | contract signature + komm at La Stanza, 7:45, lea, thomas, roger, felix  | roger | <strike>CHF 41.00</strike> |
 
 
 ## Upcoming Github Seats for Posmo
@@ -92,6 +93,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Lea: CHF 51.-  (ausbezahlt am 2. September 2021)</strike>
 - <strike>Darlehen Roger: CHF 51.-  (ausbezahlt am 2. September 2021)</strike>
 - <strike>Darlehen Datamap: CHF 12.80  (ausbezahlt am 2. September 2021)</strike>
+- <strike>Darlehen Roger: CHF 41.00  (ausbezahlt am 15. September 2021)</strike>
 
 - Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
