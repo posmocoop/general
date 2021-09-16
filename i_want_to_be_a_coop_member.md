@@ -47,7 +47,7 @@ Am Wasser 59
 8049 Zürich       
 ```
                
-## 4. Sobald die Angaben eingetroffen sind und das Geld überwiesen ist
+## 4. Sobald die Angaben eingetroffen sind
 - [...wirst Du hier aufgeführt](https://github.com/posmocoop/general/blob/master/members.md)
 - Laden wir Dich in den Slack-Channel ein 
 - Erhältst Du Zugang zur Alpha-Version der "Posmo One"-App             
