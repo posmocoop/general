@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 36 | September 18, 2021 | Siro F. | ? | 0.??? |
 | 35 | September 16, 2021 | Ralph St. | 2 | 0.100 |
 | 14 | September 6, 2021 | Dominik B. | 1 | 0.050 |
 | 34 | August 9, 2021 | Peter G. | 2 | 0.100 |
