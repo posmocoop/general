@@ -40,8 +40,18 @@ Jeweils am 16. des Monats, ab September, $4 per Seat.
 | date  | what  | who  | usd  | chf | 
 |---|---|---|---|---|
 | August 23, 2021  | Github, 2 Seats, pro Rata | Datamap | $ 6.71  | |
+| September 16, 2021  | Github, 2 Seats, pro Rata | Datamap | $ 8  | |
 
-2 Seats ab 16. September, $ 8
+2 Seats = $ 8
+
+
+## Hosting VelObserver (+ später auch Posmo.coop) - eigenes AWS-Konto 
+Bis Ende August waren die Kosten bei $ 0. Mit Strapi müssen wir aber mit ca. $ 40.-    
+
+| date  | what  | who  | usd  | chf | 
+|---|---|---|---|---|
+| Oktober ?, 2021  | velobserver.ch | Datamap | $ 40.00 (September 2021) | |
+
 
 
 ## Upcoming Hosting 2020
@@ -74,6 +84,8 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 
 
 
+
+
 ----
               
 - <strike>Darlehen Datamap: CHF 1110.29 (ausbezahlt am 29.Oktober 2020)</strike>
@@ -99,4 +111,4 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
-  2021: bisher ~ USD 7000                    
+  2021: bisher ~ USD 9000                    
