@@ -33,7 +33,7 @@
 | September 14, 2021 | contract signature + komm at La Stanza, 7:45, lea, thomas, roger, felix  | roger | <strike>CHF 41.00</strike> |
 
 
-## Upcoming Github Seats for Posmo
+## Upcoming Github Seats for Posmo bei Datamap
 Github 4 seats (2 x BFH + Lea, Marius), 50% Datamap, 50% Posmo        
 Jeweils am 16. des Monats, ab September, $4 per Seat.      
 
