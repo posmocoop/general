@@ -26,12 +26,12 @@
 | July 27, 2021 | Arbeit an VelObserver v.0.1, v.0.2, Datamap | Datamap | <strike>CHF 7'560.55</strike>  |
 | August 5, 2021 | Mittagessen+Meeting nach Zielworkshop, Lea, Thomas, Roger | Roger | <strike>CHF 85.50</strike> |
 | August 16, 2021 | Vorbesprechung für Treffen W.B., Laura, Res, Roger | Roger | <strike>CHF 18.00</strike> |
-| August 17, 2021 | Design, Arbeit an VelObserver v.0.1, v.0.2 | chragi | CHF 3500.00 |
+| August 17, 2021 | Design, Arbeit an VelObserver v.0.1, v.0.2 | chragi | <strike>CHF 3500.00</strike> |
 | August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich retour | lea | <strike>CHF 51.00</strike> |
 | August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich retour| roger | <strike>CHF 51.00</strike> |
 | September 1, 2021 | posmo.ch, Webadresse Gandi, redirect auf posmo.coop | datamap | <strike>CHF 12.80 ($13.95)</strike> |
 | September 14, 2021 | contract signature + komm at La Stanza, 7:45, lea, thomas, roger, felix  | roger | <strike>CHF 41.00</strike> |
-
+| September 23, 2021 | Arbeit an VelObserver v.0.3 bis 22.9  | datamap | CHF 8506.50 |
 
 ## Upcoming Github Seats for Posmo bei Datamap
 Github 4 seats (2 x BFH + Lea, Marius), 50% Datamap, 50% Posmo        
@@ -106,6 +106,8 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Roger: CHF 51.-  (ausbezahlt am 2. September 2021)</strike>
 - <strike>Darlehen Datamap: CHF 12.80  (ausbezahlt am 2. September 2021)</strike>
 - <strike>Darlehen Roger: CHF 41.00  (ausbezahlt am 15. September 2021)</strike>
+- <strike>Darlehen Chragi: CHF 3500.00  (ausbezahlt am 23. September 2021)</strike>
+- Darlehen Datamap: CHF 8506.50   (ausbezahlt am 24. September 2021)
 
 - Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
