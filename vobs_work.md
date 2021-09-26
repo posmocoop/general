@@ -90,8 +90,11 @@
 | 2021-08-18 | Meeting mit W.B., D.D., 9:30-10:30 | laura, res, roger | 1h |
 | 2021-08-20 | VelObserver Präsentation für Freitag 27 | roger | 3h |
 | 2021-08-23 | VelObserver Präsentation für Freitag 27 | roger | 4h |
+| 2021-08-27 | VelObserver Meeting | lea, peter, res, felix, roger, thomas, yvonne, 08:30-10:45 | 2.25h |
+| 2021-08-29 | VelObserver App Wireframes | peter | 2h |
 | 2021-09-16 | Meeting with Michael Liebi, Sara Hofmann + Debrief, 14:30-16:00| felix, roger, thomas | 1.5h |
 | 2021-09-17 | Future-App Meeting | lea, peter, res, felix, roger, thomas, 8:30-11:30 | 3h |
+| 2021-09-19 | Future-App Meeting Notes | peter | 2h |
 | 2021-09-24 | Web-App Meeting | res, roger, 9:00-11:30 | 2.5h |
 
 
