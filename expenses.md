@@ -32,6 +32,7 @@
 | September 1, 2021 | posmo.ch, Webadresse Gandi, redirect auf posmo.coop | datamap | <strike>CHF 12.80 ($13.95)</strike> |
 | September 14, 2021 | contract signature + komm at La Stanza, 7:45, lea, thomas, roger, felix  | roger | <strike>CHF 41.00</strike> |
 | September 23, 2021 | Arbeit an VelObserver v.0.3 bis 22.9  | datamap | CHF 8506.50 |
+| September 28, 2021 | Posmo Verwaltung, Roger, Sept/Okt | datamap | CHF 4197.55 |
 
 ## Upcoming Github Seats for Posmo bei Datamap
 Github 4 seats (2 x BFH + Lea, Marius), 50% Datamap, 50% Posmo        
@@ -107,7 +108,8 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Datamap: CHF 12.80  (ausbezahlt am 2. September 2021)</strike>
 - <strike>Darlehen Roger: CHF 41.00  (ausbezahlt am 15. September 2021)</strike>
 - <strike>Darlehen Chragi: CHF 3500.00  (ausbezahlt am 23. September 2021)</strike>
-- Darlehen Datamap: CHF 8506.50   (ausbezahlt am 24. September 2021)
+- <strike>Darlehen Datamap: CHF 8506.50 (ausbezahlt am 24. September 2021)</strike>
+- <strike>Darlehen Datamap: CHF 4197.55 (ausbezahlt am 28. September 2021)</strike>
 
 - Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
      
