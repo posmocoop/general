@@ -31,8 +31,8 @@
 | August 31, 2021 | VelObserver Kick-Off, SBB Bern-Zürich retour| roger | <strike>CHF 51.00</strike> |
 | September 1, 2021 | posmo.ch, Webadresse Gandi, redirect auf posmo.coop | datamap | <strike>CHF 12.80 ($13.95)</strike> |
 | September 14, 2021 | contract signature + komm at La Stanza, 7:45, lea, thomas, roger, felix  | roger | <strike>CHF 41.00</strike> |
-| September 23, 2021 | Arbeit an VelObserver v.0.3 bis 22.9  | datamap | CHF 8506.50 |
-| September 28, 2021 | Posmo Verwaltung, Roger, Sept/Okt | datamap | CHF 4197.55 |
+| September 23, 2021 | Arbeit an VelObserver v.0.3 bis 22.9  | datamap | <strike>CHF 8506.50</strike> |
+| September 28, 2021 | Posmo Verwaltung, Roger, Sept/Okt | datamap | <strike>CHF 4197.55</strike> |
 
 ## Upcoming Github Seats for Posmo bei Datamap
 Github 4 seats (2 x BFH + Lea, Marius), 50% Datamap, 50% Posmo        
