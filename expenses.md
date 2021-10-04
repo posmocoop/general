@@ -35,7 +35,7 @@
 | September 28, 2021 | Posmo Verwaltung, Roger, Sept/Okt | datamap | <strike>CHF 4197.55</strike> |
 
 ## Upcoming Github Seats for Posmo bei Datamap
-Github 4 seats (2 x BFH + Lea, Marius), 50% Datamap, 50% Posmo        
+Github 4 seats (2 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
 Jeweils am 16. des Monats, ab September, $4 per Seat.      
 
 | date  | what  | who  | usd  | chf | 
@@ -49,9 +49,9 @@ Jeweils am 16. des Monats, ab September, $4 per Seat.
 ## Hosting VelObserver (+ später auch Posmo.coop) - eigenes AWS-Konto 
 Bis Ende August waren die Kosten bei $ 0. Mit Strapi müssen wir aber mit ca. $ 40.-    
 
-| date  | what  | who  | usd  | chf | 
+| date  | what  | who  | chf  | usd |
 |---|---|---|---|---|
-| Oktober ?, 2021  | velobserver.ch | Datamap | $ 40.00 (September 2021) | |
+| Oktober 2, 2021  | velobserver.ch | Datamap | CHF: 50.95 (September 2021) | $54.66 |
 
 
 
