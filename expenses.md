@@ -82,7 +82,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 | July 3, 2021 | Hosting Amazon | Datamap | $ 1,036.19 (1. Juni – 30. Juni 2021)  |
 | August 3, 2021 | Hosting Amazon | Datamap | $ 1,063.50 (1. Juli – 31. Juli 2021)  |
 | September 7, 2021 | Hosting Amazon | Datamap | $ 1,056.49 (1. August – 31. August 2021)  |
-| October, 2021 | Hosting Amazon | Datamap | $ $1,035.32 (1. September – 30. September 2021)  |
+| October 4, 2021 | Hosting Amazon | Datamap | $ 1,035.32 (1. September – 30. September 2021)  |
 
 
 
