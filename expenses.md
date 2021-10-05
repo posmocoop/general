@@ -72,17 +72,17 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 
 ## Upcoming Hosting 2021
 
-| date  | what  | who  | cost  | 
+| date  | what  | who  | cost  | chf |
 |---|---|---|---|
-| February 3, 2021 | Hosting Amazon | Datamap | $ 1,039.69 (1. Januar – 31. Januar 2021)  |
-| March 3, 2021 | Hosting Amazon | Datamap | $ 948.93 (1. Februar – 28. Februar 2021)  |
-| April 5, 2021 | Hosting Amazon | Datamap | $ 1,047.86 (1. März – 31. März 2021)  |
-| May 3, 2021 | Hosting Amazon | Datamap | $ 1,026.20 (1. April – 30. April 2021)  |
-| June 3, 2021 | Hosting Amazon | Datamap | $ 1,045.19 (1. Mai – 31. Mai 2021)  |
-| July 3, 2021 | Hosting Amazon | Datamap | $ 1,036.19 (1. Juni – 30. Juni 2021)  |
-| August 3, 2021 | Hosting Amazon | Datamap | $ 1,063.50 (1. Juli – 31. Juli 2021)  |
-| September 7, 2021 | Hosting Amazon | Datamap | $ 1,056.49 (1. August – 31. August 2021)  |
-| October 4, 2021 | Hosting Amazon | Datamap | $ 1,035.32 (1. September – 30. September 2021)  |
+| February 3, 2021 | Hosting Amazon | Datamap | $ 1,039.69 (1. Januar – 31. Januar 2021)  ||
+| March 3, 2021 | Hosting Amazon | Datamap | $ 948.93 (1. Februar – 28. Februar 2021)  ||
+| April 5, 2021 | Hosting Amazon | Datamap | $ 1,047.86 (1. März – 31. März 2021)  ||
+| May 3, 2021 | Hosting Amazon | Datamap | $ 1,026.20 (1. April – 30. April 2021)  ||
+| June 3, 2021 | Hosting Amazon | Datamap | $ 1,045.19 (1. Mai – 31. Mai 2021)  ||
+| July 3, 2021 | Hosting Amazon | Datamap | $ 1,036.19 (1. Juni – 30. Juni 2021)  ||
+| August 3, 2021 | Hosting Amazon | Datamap | $ 1,063.50 (1. Juli – 31. Juli 2021)  ||
+| September 7, 2021 | Hosting Amazon | Datamap | $ 1,056.49 (1. August – 31. August 2021)  ||
+| October 4, 2021 | Hosting Amazon | Datamap | $ 1,035.32 (1. September – 30. September 2021)  | 965.05 (0.932, 50.95/54.66)|
 
 
 
@@ -112,7 +112,8 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Datamap: CHF 8506.50 (ausbezahlt am 24. September 2021)</strike>
 - <strike>Darlehen Datamap: CHF 4197.55 (ausbezahlt am 28. September 2021)</strike>
 
-- Upcoming: Darlehen Datamap: CHF 781.73 / $812.98 (Hosting, Mai 2020)
+- Upcoming: Darlehen Datamap: CHF 965.05 (Hosting, September 2021)
+- Upcoming: Darlehen Datamap: CHF: 50.95 (VelObserver, September 2021) 
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
