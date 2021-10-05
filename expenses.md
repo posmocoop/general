@@ -51,7 +51,7 @@ Bis Ende August waren die Kosten bei $ 0. Mit Strapi müssen wir aber mit ca. $ 
 
 | date  | what  | who  | chf  | usd |
 |---|---|---|---|---|
-| Oktober 2, 2021  | velobserver.ch | Datamap | CHF: 50.95 (September 2021) | $54.66 |
+| Oktober 2, 2021  | velobserver.ch | Datamap | <strike>CHF 50.95</strike> (September 2021) | <strike>$ 54.66</strike> |
 
 
 
@@ -82,7 +82,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 | July 3, 2021 | Hosting Amazon | Datamap | $ 1,036.19 (1. Juni – 30. Juni 2021)  ||
 | August 3, 2021 | Hosting Amazon | Datamap | $ 1,063.50 (1. Juli – 31. Juli 2021)  ||
 | September 7, 2021 | Hosting Amazon | Datamap | $ 1,056.49 (1. August – 31. August 2021)  ||
-| October 4, 2021 | Hosting Amazon | Datamap | $ 1,035.32 (1. September – 30. September 2021)  | 965.05 (0.932)|
+| October 4, 2021 | Hosting Amazon | Datamap | $ 1,035.32 (1. September – 30. September 2021)  | <strike>965.05 (0.932)</strike>|
 
 
 
@@ -112,8 +112,8 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Datamap: CHF 8506.50 (ausbezahlt am 24. September 2021)</strike>
 - <strike>Darlehen Datamap: CHF 4197.55 (ausbezahlt am 28. September 2021)</strike>
 
-- Upcoming: Darlehen Datamap: CHF 965.05 (Hosting, September 2021)
-- Upcoming: Darlehen Datamap: CHF: 50.95 (VelObserver, September 2021) 
+- Upcoming: Darlehen Datamap: CHF 965.05 (ausbezahlt am 6. Oktober 2021)
+- Upcoming: Darlehen Datamap: CHF: 50.95 (ausbezahlt am 6. Oktober 2021) 
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
