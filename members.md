@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 15 | Oktober 11, 2021 | Lars K. | 3 | 0.150 |
 | 36 | September 18, 2021 | Siro F. | 2 | 0.100 |
 | 35 | September 16, 2021 | Ralph St. | 2 | 0.100 |
 | 14 | September 6, 2021 | Dominik B. | 1 | 0.050 |
@@ -48,7 +49,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  137 | 6.850 | 
+| Total |   |  |  140 | 7.000 | 
 
 \* Shares = Anteilscheine             
                
