@@ -96,6 +96,13 @@
 | 2021-09-17 | Future-App Meeting | lea, peter, res, felix, roger, thomas, 8:30-11:30 | 3h |
 | 2021-09-19 | Future-App Meeting Notes | peter | 2h |
 | 2021-09-24 | Web-App Meeting | res, roger, 9:00-11:30 | 2.5h |
+| 2021-10-01 | Admin-UI Meeting | peter, roger, 16:30-18:00 | 1.5h |
+| 2021-10-07 | Admin-UI Flow | peter | 5.25h |
+| 2021-10-10 | Admin App Design | peter | 1.75h |
+| 2021-10-12 | Admin App Design | peter | 1.75h |
+| 2021-10-22 | Meeting | roger, thomas, res, felix, peter, 9:00-10:15 | 1.25h |
+| 2021-10-23 | Admin App Design | peter | 4.25h |
+| 2021-10-24 | Admin App Design | peter | 0.75h |
 
 
 Arbeit Yvonne, Thomas, Felix?          
