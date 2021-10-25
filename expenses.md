@@ -37,15 +37,16 @@
 | Oktober 25, 2021 | Arbeit an VelObserver v.0.3.1, v.0.4, 23.9-25.10  | datamap | CHF 11’028.50 |
 
 ## Upcoming Github Seats for Posmo bei Datamap
-Github 4 seats (2 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
+Github 6 seats (3 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
 Jeweils am 16. des Monats, ab September, $4 per Seat.      
 
 | date  | what  | who  | usd  | chf | 
 |---|---|---|---|---|
 | August 23, 2021  | Github, 2 Seats, pro Rata | Datamap | $ 6.71  | |
-| September 16, 2021  | Github, 2 Seats, pro Rata | Datamap | $ 8  | |
+| September 16, 2021  | Github, 2 Seats | Datamap | $ 8  | |
+| Oktober 19, 2021  | Github, 3 Seats | Datamap | $ 12  | |
 
-2 Seats = $ 8
+2 Seats = $ 8; 3 Seats = $ 12
 
 
 ## Hosting VelObserver (+ später auch Posmo.coop) - eigenes AWS-Konto 
