@@ -34,7 +34,7 @@
 | September 23, 2021 | Arbeit an VelObserver v.0.3 bis 22.9  | datamap | <strike>CHF 8506.50</strike> |
 | September 28, 2021 | Posmo Verwaltung, Roger, Sept/Okt | datamap | <strike>CHF 4197.55</strike> |
 | Oktober 13, 2021 | Spesen SBB, Besprechung Posmo Website, Chragi, Beni, Katharina | roger | CHF 51.00 |
-| Oktober 25, 2021 | Arbeit an VelObserver v.0.3.1, v.0.4, 23.9-25.10  | datamap | <CHF 11’028.50 |
+| Oktober 25, 2021 | Arbeit an VelObserver v.0.3.1, v.0.4, 23.9-25.10  | datamap | CHF 11’028.50 |
 
 ## Upcoming Github Seats for Posmo bei Datamap
 Github 4 seats (2 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
