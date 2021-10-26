@@ -33,8 +33,8 @@
 | September 14, 2021 | contract signature + komm at La Stanza, 7:45, lea, thomas, roger, felix  | roger | <strike>CHF 41.00</strike> |
 | September 23, 2021 | Arbeit an VelObserver v.0.3 bis 22.9  | datamap | <strike>CHF 8506.50</strike> |
 | September 28, 2021 | Posmo Verwaltung, Roger, Sept/Okt | datamap | <strike>CHF 4197.55</strike> |
-| Oktober 13, 2021 | Spesen SBB, Besprechung Posmo Website, Chragi, Beni, Katharina | roger | CHF 51.00 |
-| Oktober 25, 2021 | Arbeit an VelObserver v.0.3.1, v.0.4, 23.9-25.10  | datamap | CHF 11’028.50 |
+| Oktober 13, 2021 | Spesen SBB, Besprechung Posmo Website, Chragi, Beni, Katharina | roger | <strike>CHF 51.00</strike> |
+| Oktober 25, 2021 | Arbeit an VelObserver v.0.3.1, v.0.4, 23.9-25.10  | datamap | <strike>CHF 11’028.50</strike> |
 
 ## Upcoming Github Seats for Posmo bei Datamap
 Github 6 seats (3 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
@@ -106,18 +106,19 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Lea: CHF 41.45  (ausbezahlt am 16. Juli 2021)</strike>
 - <strike>Darlehen Roger: CHF 85.50  (ausbezahlt am 5. August 2021)</strike>
 - <strike>Darlehen Roger: CHF 18.00  (ausbezahlt am 17. August 2021)</strike>
-- <strike>Darlehen Datamap: CHF 7'560.55  (ausbezahlt am 26. August 2021)</strike>
+- <strike>Rechnung Datamap: CHF 7'560.55  (ausbezahlt am 26. August 2021)</strike>
 - <strike>Darlehen Lea: CHF 51.-  (ausbezahlt am 2. September 2021)</strike>
 - <strike>Darlehen Roger: CHF 51.-  (ausbezahlt am 2. September 2021)</strike>
 - <strike>Darlehen Datamap: CHF 12.80  (ausbezahlt am 2. September 2021)</strike>
 - <strike>Darlehen Roger: CHF 41.00  (ausbezahlt am 15. September 2021)</strike>
-- <strike>Darlehen Chragi: CHF 3500.00  (ausbezahlt am 23. September 2021)</strike>
-- <strike>Darlehen Datamap: CHF 8506.50 (ausbezahlt am 24. September 2021)</strike>
-- <strike>Darlehen Datamap: CHF 4197.55 (ausbezahlt am 28. September 2021)</strike>
-
-- Upcoming: Darlehen Datamap: CHF 965.05 (ausbezahlt am 6. Oktober 2021)
-- Upcoming: Darlehen Datamap: CHF: 50.95 (ausbezahlt am 6. Oktober 2021) 
+- <strike>Rechnung Chragi: CHF 3500.00  (ausbezahlt am 23. September 2021)</strike>
+- <strike>Rechnung Datamap: CHF 8506.50 (ausbezahlt am 24. September 2021)</strike>
+- <strike>Rechnung Datamap: CHF 4197.55 (ausbezahlt am 28. September 2021)</strike>
+- <strike>Darlehen Datamap: CHF 965.05 (ausbezahlt am 6. Oktober 2021)</strike>
+- <strike>Darlehen Datamap: CHF: 50.95 (ausbezahlt am 6. Oktober 2021)</strike> 
+- <strike>Rechung Datamap: CHF 11’028.50 (ausbezahlt am 26. Oktober 2021)</strike> 
+- <strike>Darlehen Roger: CHF 51.00 (ausbezahlt am 26. Oktober 2021)</strike> 
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
-  2021: bisher ~ USD 10000                    
+  2021: bisher ~ USD 9000                    
