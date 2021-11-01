@@ -88,7 +88,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 | August 3, 2021 | Hosting Amazon | Datamap | $ 1,063.50 (1. Juli – 31. Juli 2021)  ||
 | September 7, 2021 | Hosting Amazon | Datamap | $ 1,056.49 (1. August – 31. August 2021)  ||
 | October 4, 2021 | Hosting Amazon | Datamap | $ 1,035.32 (1. September – 30. September 2021)  | <strike>965.05 (0.932)</strike>|
-| November 1, 2021 | Hosting Amazon | Datamap | $ 1,063.67 (1. Oktober – 31. Oktober 2021)  | <strike>?</strike>|
+| November 1, 2021 | Hosting Amazon | Datamap | $ 1,063.67 (1. Oktober – 31. Oktober 2021)  | <strike>984.15 (0.9252)</strike>|
 
 
 
@@ -123,6 +123,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Rechung Datamap: CHF 11’028.50 (ausbezahlt am 26. Oktober 2021)</strike> 
 - <strike>Darlehen Roger: CHF 51.00 (ausbezahlt am 26. Oktober 2021)</strike> 
 - <strike>Rechnung Datamap: CHF 2098.80 (ausbezahlt am 28. Oktober 2021)</strike> 
+- <strike>Darlehen Datamap: CHF 984.15 (ausbezahlt am 1. November 2021)</strike> 
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
