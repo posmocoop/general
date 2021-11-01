@@ -57,7 +57,7 @@ Bis Ende August waren die Kosten bei $ 0. Mit Strapi müssen wir aber mit ca. $ 
 | date  | what  | who  | chf  | usd |
 |---|---|---|---|---|
 | Oktober 2, 2021  | velobserver.ch | Datamap | <strike>CHF 50.95</strike> (September 2021) | <strike>$ 54.66</strike> |
-
+| November 1, 2021  | velobserver.ch / community.posmo.coop | Datamap | <strike>CHF 95.41</strike> (Oktober 2021) | <strike>$ 103.12</strike> |
 
 
 ## Upcoming Hosting 2020
@@ -123,7 +123,8 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Rechung Datamap: CHF 11’028.50 (ausbezahlt am 26. Oktober 2021)</strike> 
 - <strike>Darlehen Roger: CHF 51.00 (ausbezahlt am 26. Oktober 2021)</strike> 
 - <strike>Rechnung Datamap: CHF 2098.80 (ausbezahlt am 28. Oktober 2021)</strike> 
-- <strike>Darlehen Datamap: CHF 984.15 (ausbezahlt am 1. November 2021)</strike> 
+- <strike>Darlehen Datamap: CHF 984.15 (ausbezahlt am 2. November 2021)</strike> 
+- <strike>Darlehen Datamap: CHF 95.41 (ausbezahlt am 2. November 2021)</strike> 
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
