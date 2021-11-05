@@ -38,7 +38,7 @@
 | Oktober 27, 2021 | Posmo Verwaltung, Roger, Nov/Dez | datamap | <strike>CHF 2098.80</strike> |
 | November 5, 2021 | VelObserver Ruben Loenderslot Visit, Morgenessen Kafischnaps (5) | felix | <strike>CHF 72.50</strike> |
 | November 5, 2021 | VelObserver: Ruben Loenderslot Visit, Mittagessen Rest. Markthalle (5) | roger | <strike>CHF 179.00</strike> |
-| November 5, 2021 | Adjustment Invoice for Data/Web/Github + MwSt | datamap | <strike>CHF 205.95</strike> |
+| November 5, 2021 | Adjustment Invoice for Data/Web/Github + MwSt, no. 107 | datamap | <strike>CHF 205.95</strike> |
 
 
 ## Upcoming Github Seats for Posmo bei Datamap
