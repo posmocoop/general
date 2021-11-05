@@ -45,9 +45,9 @@ Jeweils am 16. des Monats, ab September, $4 per Seat.
 
 | date  | what  | who  | usd  | chf | 
 |---|---|---|---|---|
-| August 23, 2021  | Github, 2 Seats, pro Rata | Datamap | $ 6.71  | |
-| September 16, 2021  | Github, 2 Seats | Datamap | $ 8  | |
-| Oktober 19, 2021  | Github, 3 Seats | Datamap | $ 12  | |
+| August 23, 2021  | Github, 2 Seats, pro Rata | Datamap | $ 6.71  | CHF 6.25 |
+| September 16, 2021  | Github, 2 Seats | Datamap | $ 8  | CHF 7.50 |
+| Oktober 19, 2021  | Github, 3 Seats | Datamap | $ 12  | CHF 11.20 |
 
 2 Seats = $ 8; 3 Seats = $ 12
 
