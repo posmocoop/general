@@ -38,6 +38,8 @@
 | Oktober 27, 2021 | Posmo Verwaltung, Roger, Nov/Dez | datamap | <strike>CHF 2098.80</strike> |
 | November 5, 2021 | VelObserver Ruben Loenderslot Visit, Morgenessen Kafischnaps (5) | felix | <strike>CHF 72.50</strike> |
 | November 5, 2021 | VelObserver: Ruben Loenderslot Visit, Mittagessen Rest. Markthalle (5) | roger | <strike>CHF 179.00</strike> |
+| November 5, 2021 | Adjustment Invoice for Data/Web/Github + MwSt | datamap | <strike>CHF 205.95</strike> |
+
 
 ## Upcoming Github Seats for Posmo bei Datamap
 Github 6 seats (3 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
@@ -128,7 +130,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Datamap: CHF 95.41 (ausbezahlt am 2. November 2021)</strike> 
 - <strike>Spesen Felix: CHF 72.50 (ausbezahlt am 8. November 2021)</strike> 
 - <strike>Spesen Roger: CHF 179.00 (ausbezahlt am 8. November 2021)</strike> 
-
+- <strike>Rechnung Datamap: CHF 205.95 (ausbezahlt am 8. November 2021)</strike> 
      
 - Darlehen Datamap für Hosting: 
   2020: $8669.82 (see above)            
