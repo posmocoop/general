@@ -58,7 +58,7 @@ Bis Ende August waren die Kosten bei $ 0. Mit Strapi müssen wir aber mit ca. $ 
 | date  | what  | who  | chf  | usd |
 |---|---|---|---|---|
 | Oktober 2, 2021  | velobserver.ch | Datamap | <strike>CHF 50.95</strike> (September 2021) | <strike>$ 54.66</strike> |
-| November 1, 2021  | velobserver.ch / community.posmo.coop | Datamap | <strike>CHF 95.41</strike> (Oktober 2021) | <strike>$ 103.12</strike> |
+| November 1, 2021  | velobserver.ch / community.posmo.coop | Datamap | 96.80 <strike>CHF 95.41</strike> (Oktober 2021) | <strike>$ 103.12</strike> |
 
 
 ## Upcoming Hosting 2020
