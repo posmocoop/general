@@ -70,7 +70,7 @@ Bis Ende August waren die Kosten bei $ 0. Mit Strapi müssen wir aber mit ca. $ 
 | June 3, 2020 | Hosting Amazon | Datamap | $812.98 (8. Mai – 31. Mai 2020)  |  781.73 ( 0.961562) |
 | July 3, 2020 | Hosting Amazon | Datamap | $1,011.83 (1.Juni - 30.Juni 2020) | 956.80 (0.945606) |
 | August 3, 2020 | Hosting Amazon | Datamap | $1,080.09 (1. Juli - 31. Juli 2020) | 986.80 (0.913613) |
-| September 3, 2020 | Hosting Amazon | Datamap | $1,083.25 (1. August - 31. August 2020)  | |
+| September 3, 2020 | Hosting Amazon | Datamap | $1,083.25 (1. August - 31. August 2020)  | 987.20 (0.911349) |
 | October 3, 2020 | Hosting Amazon | Datamap | $1,057.76 (1. September - 30. September 2020) | |
 | November 6, 2020 | Hosting Amazon | Datamap | $1,084.37 (1. Oktober - 31. Oktober 2020) | |
 | December 3, 2020 | Hosting Amazon | Datamap | $1,064.13 (1. November - 30. November 2020) | |
