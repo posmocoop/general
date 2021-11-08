@@ -39,6 +39,8 @@
 | November 5, 2021 | VelObserver Ruben Loenderslot Visit, Morgenessen Kafischnaps (5) | felix | <strike>CHF 72.50</strike> |
 | November 5, 2021 | VelObserver: Ruben Loenderslot Visit, Mittagessen Rest. Markthalle (5) | roger | <strike>CHF 179.00</strike> |
 | November 5, 2021 | Adjustment Invoice for Data/Web/Github + MwSt, no. 107 | datamap | <strike>CHF 205.95</strike> |
+| November 7, 2021 | Rechnung: Posmo Commons, Posmo-Anteil, 50% + MwSt, no. 109  | datamap | <strike>CHF 40’387.50</strike> |
+| November 8, 2021 | Spesen DinaCon, Anreise, Meeting | roger | <strike>CHF 43.00</strike> |
 
 
 ## Upcoming Github Seats for Posmo bei Datamap
@@ -47,9 +49,9 @@ Jeweils am 16. des Monats, ab September, $4 per Seat.
 
 | date  | what  | who  | usd  | chf | 
 |---|---|---|---|---|
-| August 23, 2021  | Github, 2 Seats, pro Rata | Datamap | $ 6.71  | CHF 6.25 |
-| September 16, 2021  | Github, 2 Seats | Datamap | $ 8  | CHF 7.50 |
-| Oktober 19, 2021  | Github, 3 Seats | Datamap | $ 12  | CHF 11.20 |
+| August 23, 2021  | Github, 2 Seats, pro Rata | Datamap (107) | $ 6.71  | <strike>CHF 6.25</strike> |
+| September 16, 2021  | Github, 2 Seats | Datamap | $ 8 (107) | <strike>CHF 7.50</strike> |
+| Oktober 19, 2021  | Github, 3 Seats | Datamap | $ 12 (107) | <strike>CHF 11.20</strike> |
 
 2 Seats = $ 8; 3 Seats = $ 12
 
@@ -63,7 +65,7 @@ Bis Ende August waren die Kosten bei $ 0. Mit Strapi müssen wir aber mit ca. $ 
 | November 1, 2021  | velobserver.ch / community.posmo.coop | Datamap | 96.80 <strike>CHF 95.41</strike> (Oktober 2021) | <strike>$ 103.12</strike> |
 
 
-## Hosting 2020
+## Hosting 2020 (Rechung 108, siehe unten)
 
 | date  | what  | who  | cost usd | chf |
 |---|---|---|---|---|
@@ -131,7 +133,9 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Spesen Felix: CHF 72.50 (ausbezahlt am 8. November 2021)</strike> 
 - <strike>Spesen Roger: CHF 179.00 (ausbezahlt am 8. November 2021)</strike> 
 - <strike>Rechnung Datamap: CHF 205.95 (ausbezahlt am 8. November 2021)</strike> 
+- <strike>Rechnung Datamap: CHF 40’387.50 (ausbezahlt am 8. November 2021)</strike> 
+- <strike>Spesen Roger: CHF 43.00 (ausbezahlt am 8. November 2021)</strike> 
      
-- Darlehen Datamap für Hosting: 
-  2020: $8669.82 bzw. CHF 7935.70 + CHF 611.05 MwSt =  CHF 8546.75      
+- Offenes Darlehen von Datamap für Hosting 2020/2021: 
+  2020: $8669.82 bzw. CHF 7935.70 + CHF 611.05 MwSt =  CHF 8546.75  (Rechnung no. 108, 5.11.2021, zahlbar wenn möglich)
   2021: bis un mit August ~ USD 8000                    
