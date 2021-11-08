@@ -136,6 +136,6 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Rechnung Datamap: CHF 40’387.50 (ausbezahlt am 8. November 2021)</strike> 
 - <strike>Spesen Roger: CHF 43.00 (ausbezahlt am 8. November 2021)</strike> 
      
-- Offenes Darlehen von Datamap für Hosting 2020/2021: 
+- Offenes Darlehen von Datamap für Hosting 2020/2021:                  
   2020: $8669.82 bzw. CHF 7935.70 + CHF 611.05 MwSt =  CHF 8546.75  (Rechnung no. 108, 5.11.2021, zahlbar wenn möglich)
   2021: bis un mit August ~ USD 8000                    
