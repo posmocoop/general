@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 38 | November 9, 2021 | Simon M. | ? | 0.?00 |
 | 37 | Oktober 21, 2021 | Ilya B. | 2 | 0.100 |
 | 15 | Oktober 11, 2021 | Lars K. | 3 | 0.150 |
 | 36 | September 18, 2021 | Siro F. | 2 | 0.100 |
