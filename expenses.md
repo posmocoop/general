@@ -84,14 +84,14 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 
 | date  | what  | who  | cost  | chf |
 |---|---|---|---|---|
-| February 3, 2021 | Hosting Amazon | Datamap | $ 1,039.69 (1. Januar – 31. Januar 2021)  | (0.897852)|
-| March 3, 2021 | Hosting Amazon | Datamap | $ 948.93 (1. Februar – 28. Februar 2021)  ||
-| April 5, 2021 | Hosting Amazon | Datamap | $ 1,047.86 (1. März – 31. März 2021)  ||
-| May 3, 2021 | Hosting Amazon | Datamap | $ 1,026.20 (1. April – 30. April 2021)  ||
-| June 3, 2021 | Hosting Amazon | Datamap | $ 1,045.19 (1. Mai – 31. Mai 2021)  ||
-| July 3, 2021 | Hosting Amazon | Datamap | $ 1,036.19 (1. Juni – 30. Juni 2021)  ||
-| August 3, 2021 | Hosting Amazon | Datamap | $ 1,063.50 (1. Juli – 31. Juli 2021)  ||
-| September 7, 2021 | Hosting Amazon | Datamap | $ 1,056.49 (1. August – 31. August 2021)  ||
+| February 3, 2021 | Hosting Amazon | Datamap | $ 1,039.69 (1. Januar – 31. Januar 2021)  | 933.50 (0.897852)|
+| March 3, 2021 | Hosting Amazon | Datamap | $ 948.93 (1. Februar – 28. Februar 2021)  | 868.50 (0.915248)|
+| April 5, 2021 | Hosting Amazon | Datamap | $ 1,047.86 (1. März – 31. März 2021)  | 987.30 (0.942213) |
+| May 3, 2021 | Hosting Amazon | Datamap | $ 1,026.20 (1. April – 30. April 2021)  | 936.85 (0.912908)|
+| June 3, 2021 | Hosting Amazon | Datamap | $ 1,045.19 (1. Mai – 31. Mai 2021)  | 938.85 (0.898245)|
+| July 3, 2021 | Hosting Amazon | Datamap | $ 1,036.19 (1. Juni – 30. Juni 2021)  | 954.00 (0.920683)|
+| August 3, 2021 | Hosting Amazon | Datamap | $ 1,063.50 (1. Juli – 31. Juli 2021)  | 962.90 (0.905387)|
+| September 7, 2021 | Hosting Amazon | Datamap | $ 1,056.49 (1. August – 31. August 2021)  | 966.60 (0.914936)|
 | October 4, 2021 | Hosting Amazon | Datamap | $ 1,035.32 (1. September – 30. September 2021)  | <strike>965.05 (0.932)</strike>|
 | November 1, 2021 | Hosting Amazon | Datamap | $ 1071.81 (1. Oktober – 31. Oktober 2021)/ <strike>$ 1,063.67 </strike> | <strike>984.15 (0.9252)</strike>|
 
@@ -138,4 +138,4 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
      
 - Offenes Darlehen von Datamap für Hosting 2020/2021:                  
   2020: $8669.82 bzw. CHF 7935.70 + CHF 611.05 MwSt =  CHF 8546.75  (Rechnung no. 108, 5.11.2021, zahlbar wenn möglich)            
-  1.1.2021 - 31.8.2021: $8264.05 bzw.                      
+  1.1.2021 - 31.8.2021: $8264.05 bzw. CHF 7548.50 + 581.25 =  CHF 8129.75 (Rechnung no. 110, 10.11.2021, zahlbar wenn möglich)                       
