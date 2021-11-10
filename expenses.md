@@ -80,11 +80,11 @@ Bis Ende August waren die Kosten bei $ 0. Mit Strapi müssen wir aber mit ca. $ 
 
 Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&view=2Y        
 
-## Upcoming Hosting 2021
+## Hosting 2021
 
 | date  | what  | who  | cost  | chf |
 |---|---|---|---|---|
-| February 3, 2021 | Hosting Amazon | Datamap | $ 1,039.69 (1. Januar – 31. Januar 2021)  ||
+| February 3, 2021 | Hosting Amazon | Datamap | $ 1,039.69 (1. Januar – 31. Januar 2021)  | (0.897852)|
 | March 3, 2021 | Hosting Amazon | Datamap | $ 948.93 (1. Februar – 28. Februar 2021)  ||
 | April 5, 2021 | Hosting Amazon | Datamap | $ 1,047.86 (1. März – 31. März 2021)  ||
 | May 3, 2021 | Hosting Amazon | Datamap | $ 1,026.20 (1. April – 30. April 2021)  ||
