@@ -2,7 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
-| 38 | November 9, 2021 | Simon M. | ? | 0.?00 |
+| 38 | November 9, 2021 | Simon M. | 2 | 0.100 |
 | 37 | Oktober 21, 2021 | Ilya B. | 2 | 0.100 |
 | 15 | Oktober 11, 2021 | Lars K. | 3 | 0.150 |
 | 36 | September 18, 2021 | Siro F. | 2 | 0.100 |
@@ -51,7 +51,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  142 | 7.100 | 
+| Total |   |  |  144 | 7.200 | 
 
 \* Shares = Anteilscheine             
                
@@ -61,6 +61,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
+| 12 | November 9, 2021  | Simon M. (38) | Thomas H. (10) | 0.010 | 
 | 11 | September 16, 2021  | Ralph St. (35) | Roger F. (1) | 0.010 | 
 | 10 | June 28, 2021  | Thorben W. (32) | Viktoria M. (4) | 0.010 | 
 | 9 | May 26, 2021  | Julia R. (28) | Roberta F. (16) | 0.010 | 
