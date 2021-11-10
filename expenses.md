@@ -138,4 +138,4 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
      
 - Offenes Darlehen von Datamap für Hosting 2020/2021:                  
   2020: $8669.82 bzw. CHF 7935.70 + CHF 611.05 MwSt =  CHF 8546.75  (Rechnung no. 108, 5.11.2021, zahlbar wenn möglich)            
-  2021: bis und mit August ~ USD 8000                         
+  1.1.2021 - 31.8.2021: $8264.05 bzw.                      
