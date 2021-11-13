@@ -109,7 +109,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Darlehen Datamap: CHF 11.95 (ausbezahlt am 3. Mai 2021)</strike>
 - <strike>Darlehen Datamap: CHF 329.10 (ausbezahlt am 19. Mai 2021)</strike>
 - <strike>Darlehen Felix: CHF 135 (ausbezahlt am 9. Juli 2021)</strike>
-- <strike>Darlehen Datamap: 60.25 (5.30 (Restbetrag, war Euro 69, nicht CHF)+27.45+27.50) (ausbezahlt am 9. Juli 2021)</strike>
+- <strike>Darlehen Datamap: 60.25 (5.30 (Restbetrag Vimeo, war Euro 69, nicht CHF)+27.45+27.50) (ausbezahlt am 9. Juli 2021)</strike>
 - <strike>Darlehen Roger: CHF 187.70 (93.50+94.20) (ausbezahlt am 14. Juli 2021)</strike>
 - <strike>Darlehen Felix: CHF 108.00  (ausbezahlt am 15. Juli 2021)</strike>
 - <strike>Darlehen Lea: CHF 41.45  (ausbezahlt am 16. Juli 2021)</strike>
