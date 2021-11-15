@@ -41,6 +41,8 @@
 | November 5, 2021 | Adjustment Invoice for Data/Web/Github + MwSt, no. 107 | datamap | <strike>CHF 205.95</strike> |
 | November 7, 2021 | Rechnung: Posmo Commons, Posmo-Anteil, 50% + MwSt, no. 109  | datamap | <strike>CHF 40’387.50</strike> |
 | November 8, 2021 | Spesen DinaCon, Anreise, Meeting | roger | <strike>CHF 43.00</strike> |
+| November 9, 2021 | Spesen DinaCon, Anreise, 17.00+17.00 | thomas | <strike>CHF 34.00</strike> |
+| November 9, 2021 | Spesen DinaCon, Anreise, 13.80+17.00 | thomas | <strike>CHF 30.80</strike> |
 
 
 ## Upcoming Github Seats for Posmo bei Datamap
@@ -135,6 +137,8 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Rechnung Datamap: CHF 205.95 (ausbezahlt am 8. November 2021)</strike> 
 - <strike>Rechnung Datamap: CHF 40’387.50 (ausbezahlt am 8. November 2021)</strike> 
 - <strike>Spesen Roger: CHF 43.00 (ausbezahlt am 8. November 2021)</strike> 
+- <strike>Spesen Thoams: CHF 34.00 (ausbezahlt am 15. November 2021)</strike> 
+- <strike>Spesen Roberta: CHF 30.80 (ausbezahlt am 15. November 2021)</strike> 
      
 - Offenes Darlehen von Datamap für Hosting 2020/2021:                  
   2020: $8669.82 bzw. CHF 7935.70 + CHF 611.05 MwSt =  CHF 8546.75  (Rechnung no. 108, 5.11.2021, zahlbar wenn möglich)            
