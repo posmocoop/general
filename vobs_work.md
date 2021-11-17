@@ -96,7 +96,7 @@
 | 2021-09-24 | Web-App Meeting | res, roger, 9:00-11:30 | 2.5h |
 | 2021-10-22 | Meeting | roger, thomas, res, felix, peter, 9:00-10:15 | 1.25h |
 | 2021-10-27 | User Interview | peter | 0.5h |
-| 2021-11-12 | VelObserver Meeting | peter | 1h |
+| 2021-11-12 | VelObserver Meeting | peter, lea, thomas, felix, yvonne, roger | 1h |
 
 
 Arbeit Yvonne, Thomas, Felix?          
