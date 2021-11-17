@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 39 | November 17, 2021 | Annette S. | 5 | 0.250 |
 | 38 | November 9, 2021 | Simon M. | 2 | 0.100 |
 | 37 | Oktober 21, 2021 | Ilya B. | 2 | 0.100 |
 | 15 | Oktober 11, 2021 | Lars K. | 3 | 0.150 |
@@ -51,7 +52,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  144 | 7.200 | 
+| Total |   |  |  149 | 7.450 | 
 
 \* Shares = Anteilscheine             
                
