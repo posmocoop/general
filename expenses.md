@@ -44,6 +44,8 @@
 | November 9, 2021 | Spesen DinaCon, Anreise, 17.00+17.00 | thomas | <strike>CHF 34.00</strike> |
 | November 9, 2021 | Spesen DinaCon, Anreise, 13.80+17.00 | thomas | <strike>CHF 30.80</strike> |
 | November 13, 2021 | VelObserver, März-Mai, no. 111 | datamap | <strike>CHF 8616.00</strike> |
+| November 15, 2021 | VelObserver, UX, bis 15.11 | peter g. | <strike>CHF 1298.60</strike> |
+
 
 ## Upcoming Github Seats for Posmo bei Datamap
 Github 6 seats (3 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
@@ -140,6 +142,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Spesen Thoams: CHF 34.00 (ausbezahlt am 15. November 2021)</strike> 
 - <strike>Spesen Roberta: CHF 30.80 (ausbezahlt am 15. November 2021)</strike> 
 - <strike>Rechnung Datamap: CHF 8616.00 (ausbezahlt am 15. November 2021)</strike> 
+- <strike>Rechnung Peter Gassner: CHF 1298.60 (ausbezahlt am 17. November 2021)</strike> 
      
 - Offenes Darlehen von Datamap für Hosting 2020/2021:                  
   2020: $8669.82 bzw. CHF 7935.70 + CHF 611.05 MwSt =  CHF 8546.75  (Rechnung no. 108, 5.11.2021, zahlbar wenn möglich)            
