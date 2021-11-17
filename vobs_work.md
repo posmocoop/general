@@ -91,18 +91,12 @@
 | 2021-08-20 | VelObserver Präsentation für Freitag 27 | roger | 3h |
 | 2021-08-23 | VelObserver Präsentation für Freitag 27 | roger | 4h |
 | 2021-08-27 | VelObserver Meeting | lea, peter, res, felix, roger, thomas, yvonne, 08:30-10:45 | 2.25h |
-| 2021-08-29 | VelObserver App Wireframes | peter | 2h |
 | 2021-09-16 | Meeting with Michael Liebi, Sara Hofmann + Debrief, 14:30-16:00| felix, roger, thomas | 1.5h |
-| 2021-09-17 | Future-App Meeting | lea, peter, res, felix, roger, thomas, 8:30-11:30 | 3h |
-| 2021-09-19 | Future-App Meeting Notes | peter | 2h |
+| 2021-09-17 | Future-App Meeting | lea, res, felix, roger, thomas, 8:30-11:30 | 3h |
 | 2021-09-24 | Web-App Meeting | res, roger, 9:00-11:30 | 2.5h |
-| 2021-10-01 | Admin-UI Meeting | peter, roger, 16:30-18:00 | 1.5h |
-| 2021-10-07 | Admin-UI Flow | peter | 5.25h |
-| 2021-10-10 | Admin App Design | peter | 1.75h |
-| 2021-10-12 | Admin App Design | peter | 1.75h |
 | 2021-10-22 | Meeting | roger, thomas, res, felix, peter, 9:00-10:15 | 1.25h |
-| 2021-10-23 | Admin App Design | peter | 4.25h |
-| 2021-10-24 | Admin App Design | peter | 0.75h |
+| 2021-10-27 | User Interview | peter | 0.5h |
+| 2021-11-12 | VelObserver Meeting | peter | 1h |
 
 
 Arbeit Yvonne, Thomas, Felix?          
