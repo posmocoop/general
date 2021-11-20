@@ -42,7 +42,7 @@
 | November 7, 2021 | Rechnung: Posmo Commons, Posmo-Anteil, 50% + MwSt, no. 109  | datamap | <strike>CHF 40’387.50</strike> |
 | November 8, 2021 | Spesen DinaCon, Anreise, Meeting | roger | <strike>CHF 43.00</strike> |
 | November 9, 2021 | Spesen DinaCon, Anreise, 17.00+17.00 | thomas | <strike>CHF 34.00</strike> |
-| November 9, 2021 | Spesen DinaCon, Anreise, 13.80+17.00 | thomas | <strike>CHF 30.80</strike> |
+| November 9, 2021 | Spesen DinaCon, Anreise, 13.80+17.00 | roberta | <strike>CHF 30.80</strike> |
 | November 13, 2021 | VelObserver, März-Mai, no. 111 | datamap | <strike>CHF 8616.00</strike> |
 | November 15, 2021 | VelObserver, UX, bis 15.11 | peter g. | <strike>CHF 1298.60</strike> |
 
@@ -139,7 +139,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 - <strike>Rechnung Datamap: CHF 205.95 (ausbezahlt am 8. November 2021)</strike> 
 - <strike>Rechnung Datamap: CHF 40’387.50 (ausbezahlt am 8. November 2021)</strike> 
 - <strike>Spesen Roger: CHF 43.00 (ausbezahlt am 8. November 2021)</strike> 
-- <strike>Spesen Thoams: CHF 34.00 (ausbezahlt am 15. November 2021)</strike> 
+- <strike>Spesen Thomas: CHF 34.00 (ausbezahlt am 15. November 2021)</strike> 
 - <strike>Spesen Roberta: CHF 30.80 (ausbezahlt am 15. November 2021)</strike> 
 - <strike>Rechnung Datamap: CHF 8616.00 (ausbezahlt am 15. November 2021)</strike> 
 - <strike>Rechnung Peter Gassner: CHF 1298.60 (ausbezahlt am 17. November 2021)</strike> 
