@@ -49,7 +49,7 @@
 | November 22, 2021 | VelObserver, Komm, 27.9 - bis 6.11 | felix | <strike>CHF 1191.50</strike> |
 | November 22, 2021 | VelObserver, v.4.1/3.2, 25.10,16h - bis 21.11 | datamap | <strike>CHF 9154.50</strike> |
 | November 22, 2021 | VelObserver, Design, bis 22.11 | chragi | <strike>CHF 1700.00</strike> |
-| November 23, 2021 | VelObserver, Komm, bis 22.11 | thomas | <strike>CHF 1326.60</strike> |
+| November 23, 2021 | VelObserver, Komm, bis 22.11 | thomas | <strike>CHF 1326.50</strike> |
 
 ## Upcoming Github Seats for Posmo bei Datamap
 Github 6 seats (3 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
