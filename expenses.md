@@ -57,11 +57,13 @@ Jeweils am 16. des Monats, ab September, $4 per Seat.
 
 | date  | what  | who  | usd  | chf | 
 |---|---|---|---|---|
-| August 23, 2021  | Github, 2 Seats, pro Rata | Datamap (107) | $ 6.71  | <strike>CHF 6.25</strike> |
+| August 23, 2021  | Github, 2 Seats, pro Rata | Datamap (no. 107) | $ 6.71  | <strike>CHF 6.25</strike> |
 | September 16, 2021  | Github, 2 Seats | Datamap | $ 8 (107) | <strike>CHF 7.50</strike> |
 | Oktober 19, 2021  | Github, 3 Seats | Datamap | $ 12 (107) | <strike>CHF 11.20</strike> |
+| November 11, 2021  | Github, 3 Seats | Datamap | $ 12  | CHF 11.55 (64 USD = CHF 61.55) |
 
 2 Seats = $ 8; 3 Seats = $ 12
+
 
 
 ## Hosting VelObserver (+ später auch Posmo.coop) - eigenes AWS-Konto 
