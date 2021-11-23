@@ -45,7 +45,7 @@
 | November 9, 2021 | Spesen DinaCon, Anreise, 13.80+17.00 | roberta | <strike>CHF 30.80</strike> |
 | November 13, 2021 | VelObserver, März-Mai, no. 111 | datamap | <strike>CHF 8616.00</strike> |
 | November 15, 2021 | VelObserver, UX, bis 15.11 | peter g. | <strike>CHF 1298.60</strike> |
-| November 21, 2021 | VelObserver, Projmgmt, 1.9 - bis 21.11 | felix | <strike>CHF 7504.45</strike> |
+| November 21, 2021 | VelObserver, Projmgmt, 1.9 - bis 21.11 | datamap| <strike>CHF 7504.45</strike> |
 | November 22, 2021 | VelObserver, Komm, 27.9 - bis 6.11 | felix | <strike>CHF 1191.50</strike> |
 | November 22, 2021 | VelObserver, v.4.1/3.2, 25.10,16h - bis 21.11 | datamap | <strike>CHF 9154.50</strike> |
 | November 22, 2021 | VelObserver, Design, bis 22.11 | chragi | <strike>CHF 1700.00</strike> |
