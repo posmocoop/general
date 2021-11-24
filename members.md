@@ -63,7 +63,8 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
-| 13 | November 9, 2021  | Annette S. (39) | Felix S. (21) | 0.025 | 
+| 14 | November 23, 2021  | Stefan Schr. (40) | Felix S. (21) | 0.0?? | 
+| 13 | November 17, 2021  | Annette S. (39) | Felix S. (21) | 0.025 | 
 | 12 | November 9, 2021  | Simon M. (38) | Thomas H. (10) | 0.010 | 
 | 11 | September 16, 2021  | Ralph St. (35) | Roger F. (1) | 0.010 | 
 | 10 | June 28, 2021  | Thorben W. (32) | Viktoria M. (4) | 0.010 | 
