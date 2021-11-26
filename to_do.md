@@ -12,7 +12,6 @@
 
 ### Website
 - Wer ist die Genossenschaft Posmo Schweiz?
-- Community (Slack ersetzen, weil das alles wieder verschwindet, wenn man nicht zahlt)
 - Dokumentenablage für Förderanträge
 - Textbausteine zur Wiederverwendung (Anwerbung Neumitglieder etc.)
 - Zusammenarbeit Datamap AG und Genossenschaft Posmo Schweiz? Alle Daten von Posmo One / Posmo B werden von der 
