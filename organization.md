@@ -43,8 +43,7 @@ Marius Zumwald (AIDOC)
 
 ## E. Arbeitsgruppen
 - VelObserver, siehe: [Projektseite](https://github.com/posmocoop/spatial_future/blob/master/vobs.md)
-- Kommunikation
-- Fundraising
+- Verkehrsnetz, siehe:  [Projektseite](https://github.com/posmocoop/verkehrsnetz), official since 2021-11-26
 - Spatial Future
 
 
