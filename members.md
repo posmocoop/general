@@ -2,7 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
-| 40 | November 23, 2021 | Stefan Schr. | ? | 0.??0 |
+| 40 | November 25, 2021 | Stefan Schr. | ? | 0.??0 |
 | 39 | November 17, 2021 | Annette S. | 5 | 0.250 |
 | 38 | November 9, 2021 | Simon M. | 2 | 0.100 |
 | 37 | Oktober 21, 2021 | Ilya B. | 2 | 0.100 |
