@@ -100,6 +100,7 @@
 | 2021-10-29 | VelObserver Meeting | peter, thomas, felix, yvonne, roger, res | 1.25h |
 | 2021-11-12 | VelObserver Meeting | peter, lea, thomas, felix, yvonne, roger | 1h |
 | 2021-11-24 | VelObserver Meeting | peter, lea, thomas, felix, yvonne, roger, res | 3.5 h |
+| 2021-11-26 | VelObserver Meeting, 9-10:15 | peter, lea, thomas, felix, roger | 1.25 h |
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
