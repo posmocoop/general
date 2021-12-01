@@ -51,7 +51,7 @@
 | November 22, 2021 | VelObserver, Design, bis 22.11 | chragi | <strike>CHF 1700.00</strike> |
 | November 23, 2021 | VelObserver, Komm, bis 22.11 | thomas | <strike>CHF 1326.50</strike> |
 
-## Upcoming Github Seats for Posmo bei Datamap
+## Upcoming Github Seats for Posmo bei Datamap (Posmo Commons)
 Github 6 seats (3 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
 Jeweils am 16. des Monats, ab September, $4 per Seat.      
 
@@ -64,6 +64,11 @@ Jeweils am 16. des Monats, ab September, $4 per Seat.
 
 2 Seats = $ 8; 3 Seats = $ 12
 
+
+## IP-Check VelObserver / apilayer basic plan
+| date  | what  | who  | usd  | chf | 
+|---|---|---|---|---|
+| November 29, 2021  | apilayer (29.11.2021-1.1.2022 | Datamap | $ 8.40  | CHF 8.20 |
 
 
 ## Hosting VelObserver (+ später auch Posmo.coop) - eigenes AWS-Konto 
