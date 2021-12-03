@@ -51,6 +51,7 @@
 | November 22, 2021 | VelObserver, Design, bis 22.11 | chragi | <strike>CHF 1700.00</strike> |
 | November 23, 2021 | VelObserver, Komm, bis 22.11 | thomas | <strike>CHF 1326.50</strike> |
 | December 2, 2021 | Zoom License, 1 Jahr | datamap | EUR 150.67  |
+| Nov 29 / Dec 1, 2021 | ÖV-Tickets | roger | CHF 108.20 |
 
 ## Upcoming Github Seats for Posmo bei Datamap (Posmo Commons)
 Github 6 seats (3 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
