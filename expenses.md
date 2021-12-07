@@ -80,7 +80,7 @@ Bis Ende August waren die Kosten bei $ 0. Mit Strapi müssen wir aber mit ca. $ 
 |---|---|---|---|---|
 | Oktober 2, 2021  | velobserver.ch | Datamap | <strike>CHF 50.95</strike> (September 2021) | <strike>$ 54.66</strike> |
 | November 1, 2021  | velobserver.ch / community.posmo.coop | Datamap | 96.80 <strike>CHF 95.41</strike> (Oktober 2021) | <strike>$ 103.12</strike> |
-| Dezember 3, 2021  | velobserver.ch / community.posmo.coop (114) | Datamap | CHF: 94.06 (November 2021) | CHF 94.05 |
+| Dezember 3, 2021  | velobserver.ch / community.posmo.coop (114) | Datamap | CHF: 94.06 (November 2021) | <strike>CHF 94.05</strike> |
 
 
 
@@ -113,7 +113,7 @@ Umrechnung $/CHF, siehe Bsp. https://www.xe.com/currencycharts/?from=USD&to=CHF&
 | September 7, 2021 | Hosting Amazon | Datamap | $ 1,056.49 (1. August – 31. August 2021)  | 966.60 (0.914936)|
 | October 4, 2021 | Hosting Amazon | Datamap | $ 1,035.32 (1. September – 30. September 2021)  | <strike>965.05 (0.932)</strike>|
 | November 1, 2021 | Hosting Amazon | Datamap | $ 1071.81 (1. Oktober – 31. Oktober 2021)/ <strike>$ 1,063.67 </strike> | <strike>984.15 (0.9252)</strike>|
-| December 3, 2021 | Hosting Amazon | Datamap (114) | $ 1136.22 / € 1006.09 (1. Nov – 30. Nove 2021) | CHF 1092.95 |
+| December 3, 2021 | Hosting Amazon | Datamap (114) | $ 1136.22 / € 1006.09 (1. Nov – 30. Nove 2021) | <strike>CHF 1092.95</strike> |
 
 
 
