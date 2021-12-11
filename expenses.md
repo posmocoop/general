@@ -53,7 +53,7 @@
 | December 2, 2021 | Zoom License, 1 Jahr (114) | datamap | <strike>CHF 163.85 (EUR 150.67)</strike> |
 | Nov 29 / Dec 1, 2021 | ÖV-Tickets | roger | <strike>CHF 108.20</strike> |
 | Nov 29 / Dec 1, 2021 | ÖV-Tickets | lea | <strike>CHF 102.00</strike> |
-| Dec 11, 2021 | Korrektur MwSt, Rechnung 103, VelObserver, Sept | datamap | <strike>CHF 55.65</strike> |
+| Dec 11, 2021 | Korrektur MwSt, Rechnung 103, VelObserver, Sept | datamap | CHF 55.65 |
 
 ## Upcoming Github Seats for Posmo bei Datamap (Posmo Commons)
 Github 6 seats (3 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
