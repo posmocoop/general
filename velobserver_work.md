@@ -101,6 +101,11 @@
 | 2021-11-12 | VelObserver Meeting | peter, lea, thomas, felix, yvonne, roger | 1h |
 | 2021-11-24 | VelObserver Meeting | peter, lea, thomas, felix, yvonne, roger, res | 3.5 h |
 | 2021-11-26 | VelObserver Meeting, 9-10:15 | peter, lea, thomas, felix, roger | 1.25 h |
+| 2021-12-03 | VelObserver Meeting, 12:30-14:30 | peter, lea, thomas, felix, roger | 2 h |
+| 2021-12-08 | Stadt Zürich Meeting, 9:00-11:15 | yvonne, thomas, felix, roger | 2.25 h |
+| 2021-12-10 | VelObserver Meeting, 9:00-11:30 | lea, thomas, felix, roger, peter | 2.5 h |
+| 2021-12-17 | VelObserver Meeting, 9:00-12:00 | lea, thomas, felix, roger, peter | 3 h |
+
 
 Arbeit Yvonne, Thomas, Felix?          
 Arbeit Lea für Prototypefund?        
