@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 41 | January 3, 2022 | Joseph G. G. | 2 | 0.100 |
 | 40 | November 25, 2021 | Stefan Schr. | ? | 0.??0 |
 | 39 | November 17, 2021 | Annette S. | 5 | 0.250 |
 | 38 | November 9, 2021 | Simon M. | 2 | 0.100 |
@@ -53,7 +54,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  149 | 7.450 | 
+| Total |   |  |  151 | 7.550 | 
 
 \* Shares = Anteilscheine             
                
