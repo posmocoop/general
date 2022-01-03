@@ -53,7 +53,7 @@
 | December 2, 2021 | Zoom License, 1 Jahr (114) | datamap | <strike>CHF 163.85 (EUR 150.67)</strike> |
 | Nov 29 / Dec 1, 2021 | ÖV-Tickets | roger | <strike>CHF 108.20</strike> |
 | Nov 29 / Dec 1, 2021 | ÖV-Tickets | lea | <strike>CHF 102.00</strike> |
-| Dec 11, 2021 | Korrektur MwSt, Rechnung 103, VelObserver, Sept | datamap | CHF 55.65 |
+| Dec 11, 2021 | Korrektur MwSt, Rechnung 103, VelObserver, Sept | datamap | <strike>CHF 55.65</strike> |
 
 ## Upcoming Github Seats for Posmo bei Datamap (Posmo Commons)
 Github 6 seats (3 x BFH + Lea, Marius, Marcel), 50% Datamap, 50% Posmo        
@@ -64,7 +64,7 @@ Jeweils am 16. des Monats, ab September, $4 per Seat.
 | August 23, 2021  | Github, 2 Seats, pro Rata | Datamap (no. 107) | $ 6.71  | <strike>CHF 6.25</strike> |
 | September 16, 2021  | Github, 2 Seats | Datamap | $ 8 (107) | <strike>CHF 7.50</strike> |
 | Oktober 19, 2021  | Github, 3 Seats | Datamap | $ 12 (107) | <strike>CHF 11.20</strike> |
-| November 11, 2021  | Github, 3 Seats | Datamap | $ 12  | CHF 11.55 (64 USD = CHF 61.55) |
+| November 11, 2021  | Github, 3 Seats | Datamap | $ 12  | <strike>CHF 11.55</strike> (64 USD = CHF 61.55) |
 
 2 Seats = $ 8; 3 Seats = $ 12
 
@@ -72,7 +72,7 @@ Jeweils am 16. des Monats, ab September, $4 per Seat.
 ## IP-Check VelObserver / apilayer basic plan
 | date  | what  | who  | usd  | chf | 
 |---|---|---|---|---|
-| November 29, 2021  | apilayer (29.11.2021-1.1.2022 | Datamap | $ 8.40  | CHF 8.20 |
+| November 29, 2021  | apilayer (29.11.2021-1.1.2022 | Datamap | $ 8.40  | <strike>CHF 8.20</strike> |
 
 
 ## Hosting VelObserver (+ später auch Posmo.coop) - eigenes AWS-Konto 
