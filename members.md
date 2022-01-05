@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 42 | January 4, 2022 | Lu D. | ? | 0.??0 |
 | 41 | January 3, 2022 | Joseph G. G. | 2 | 0.100 |
 | 40 | November 25, 2021 | Stefan Schr. | ? | 0.??0 |
 | 39 | November 17, 2021 | Annette S. | 5 | 0.250 |
