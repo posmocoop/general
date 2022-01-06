@@ -2,7 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
-| 42 | January 4, 2022 | Lu D. | ? | 0.??0 |
+| 42 | January 4, 2022 | Lu D. | 2 | 0.100 |
 | 41 | January 3, 2022 | Joseph G. G. | 2 | 0.100 |
 | 40 | November 25, 2021 | Stefan Schr. | ? | 0.??0 |
 | 39 | November 17, 2021 | Annette S. | 5 | 0.250 |
@@ -55,7 +55,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  151 | 7.550 | 
+| Total |   |  |  153 | 7.650 | 
 
 \* Shares = Anteilscheine             
                
@@ -65,6 +65,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
+| 15 | November 23, 2021  | Lu D. (42) | Felix S. (21) | 0.010 | 
 | 14 | November 23, 2021  | Stefan Schr. (40) | Felix S. (21) | 0.0?? | 
 | 13 | November 17, 2021  | Annette S. (39) | Felix S. (21) | 0.025 | 
 | 12 | November 9, 2021  | Simon M. (38) | Thomas H. (10) | 0.010 | 
