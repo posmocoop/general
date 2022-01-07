@@ -1,4 +1,4 @@
-# VelObserver WORK
+# VelObserver WORK (Ø Work)
 
 | date | topic | participants | duration |
 | --- | --- | --- | --- |
@@ -106,6 +106,5 @@
 | 2021-12-10 | VelObserver Meeting, 9:00-11:30 | lea, thomas, felix, roger, peter | 2.5 h |
 | 2021-12-17 | VelObserver Meeting, 9:00-12:00 | lea, thomas, felix, roger, peter | 3 h |
 | 2022-01-07 | VelObserver Meeting, 9:00-10:45 | lea, thomas, felix, roger, yvonne | 1.75 h |
-
-Arbeit Yvonne, Thomas, Felix?          
-Arbeit Lea für Prototypefund?        
+         
+    
