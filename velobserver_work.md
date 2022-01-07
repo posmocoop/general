@@ -1,6 +1,6 @@
 # VelObserver WORK
 
-| date          | topic | participants | duration |
+| date | topic | participants | duration |
 | --- | --- | --- | --- |
 | 2021-02-11 | vobs design 10-10:30| roger, chragi | 0.5 h |
 | 2021-02-11 | vobs meet 14-15| roger, dave, thomas, felix | 1 h |
