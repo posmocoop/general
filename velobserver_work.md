@@ -1,4 +1,15 @@
-# VelObserver WORK (Ø Work)
+# VelObserver Ø Work
+
+## 2022
+
+| date | topic | participants | duration |
+| 2022-01-07 | VelObserver Meeting, 9:00-10:45 | lea, thomas, felix, roger, yvonne | 1.75 h |
+
+## 2021 Stunden
+| roger | thomas | felix | lea |res | yvonne |peter|chragi|laura|dave|tom|
+| --- | --- | --- | --- | --- | --- |--- | --- |--- | --- | --- |
+| 131.84 | 68.17 | 63.17 | 57.5| 45.75 | 45.5|18.5|5.75|5.5|5.25|3.5|
+
 
 | date | topic | participants | duration |
 | --- | --- | --- | --- |
@@ -105,6 +116,6 @@
 | 2021-12-08 | Stadt Zürich Meeting, 9:00-11:15 | yvonne, thomas, felix, roger | 2.25 h |
 | 2021-12-10 | VelObserver Meeting, 9:00-11:30 | lea, thomas, felix, roger, peter | 2.5 h |
 | 2021-12-17 | VelObserver Meeting, 9:00-12:00 | lea, thomas, felix, roger, peter | 3 h |
-| 2022-01-07 | VelObserver Meeting, 9:00-10:45 | lea, thomas, felix, roger, yvonne | 1.75 h |
+
          
     
