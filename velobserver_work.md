@@ -3,6 +3,7 @@
 ## 2022
 
 | date | topic | participants | duration |
+| --- | --- | --- | --- | 
 | 2022-01-07 | VelObserver Meeting, 9:00-10:45 | lea, thomas, felix, roger, yvonne | 1.75 h |
 
 ## 2021 Stunden
