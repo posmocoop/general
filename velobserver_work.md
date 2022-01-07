@@ -7,7 +7,7 @@
 | 2022-01-07 | VelObserver Meeting, 9:00-10:45 | lea, thomas, felix, roger, yvonne | 1.75 h |
 
 
-## 2021 Ostrom
+## 2021 Ostrom (0.025 pro Std.)
 | roger | thomas | felix | lea |res | yvonne |peter|chragi|laura|dave|tom|
 | --- | --- | --- | --- | --- | --- |--- | --- |--- | --- | --- |
 | 3.296 | 1.70425 | 1.57925 | 1.4375 | 1.14375 | 1.1375 |0.4625|0.14375|0.1375|0.13125|0.0875|
