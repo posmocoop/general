@@ -33,7 +33,7 @@
 | 2021-03-17 | vobs meet 14:00-16:00 | yvonne, thomas, felix, roger,  | 2 h |
 | 2021-03-17 | vobs meet 16:00-16:30 | yvonne, thomas, roger,  | 0.5 h |
 | 2021-03-18 | vobs meet 15:20-15:50 | roger, (nikola: tech. implementation) | 0.5 h |
-| 2021-03-18 | pressemitteilung | thomas, felix, yvonne, roger | ???? |
+| 2021-03-18 | pressemitteilung | thomas, felix, yvonne, roger | 1h (?) |
 | 2021-03-26 | velobserver meet 10:30-11:30 | yvonne, thomas, felix, djordje, roger | 1 h |
 | 2021-03-31 | velobserver meet 11:00-12:00 | yvonne, thomas, res, felix, tom, roger, lea | 1 h |
 | 2021-03-31 | velobserver 12:00-12:45 | yvonne, thomas, res, felix, tom, roger | 0.75 h |
