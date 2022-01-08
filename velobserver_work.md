@@ -8,15 +8,15 @@
 
 
 ## 2021 Ostrom (0.025 pro Std.)
-| roger | thomas | felix | lea |res | yvonne |peter|chragi|laura|dave|tom|
-| --- | --- | --- | --- | --- | --- |--- | --- |--- | --- | --- |
-| 3.296 | 1.70425 | 1.57925 | 1.4375 | 1.14375 | 1.1375 |0.4625|0.14375|0.1375|0.13125|0.0875|
+|**total** | roger | thomas | felix | lea |res | yvonne |peter|chragi|laura|dave|tom|
+| ---| --- | --- | --- | --- | --- | --- |--- | --- |--- | --- | --- |
+| **11.26075** | 3.296 | 1.70425 | 1.57925 | 1.4375 | 1.14375 | 1.1375 |0.4625|0.14375|0.1375|0.13125|0.0875|
 
 
 ## 2021 Stunden
-| roger | thomas | felix | lea |res | yvonne |peter|chragi|laura|dave|tom|
-| --- | --- | --- | --- | --- | --- |--- | --- |--- | --- | --- |
-| 131.84 | 68.17 | 63.17 | 57.5| 45.75 | 45.5|18.5|5.75|5.5|5.25|3.5|
+|**total** | roger | thomas | felix | lea |res | yvonne |peter|chragi|laura|dave|tom|
+| ---| --- | --- | --- | --- | --- | --- |--- | --- |--- | --- | --- |
+| **450.43**| 131.84 | 68.17 | 63.17 | 57.5| 45.75 | 45.5|18.5|5.75|5.5|5.25|3.5|
 
 
 | date | topic | participants | duration |
