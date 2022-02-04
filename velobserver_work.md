@@ -4,6 +4,9 @@
 
 | date | topic | participants | duration |
 | --- | --- | --- | --- | 
+| 2022-02-04 | VelObserver Meeting, 9:00-10:25 | lea, thomas, roger, felix, res, yvonne | 1.42 h |
+| 2022-01-28 | VelObserver Meeting, 11:00-11:25 | lea, roger, felix | 0.42 h |
+| 2022-01-28 | VelObserver Meeting, 9:00-11:00 | lea, thomas, roger, felix, peter | 2 h |
 | 2022-01-21 | VelObserver Meeting, 9:00-11:00 | lea, thomas, roger, yvonne, peter | 2 h |
 | 2022-01-14 | VelObserver Meeting, 9:00-10:30 | lea, thomas, felix, roger, yvonne, peter | 1.5 h |
 | 2022-01-07 | VelObserver Meeting, 9:00-10:45 | lea, thomas, felix, roger, yvonne | 1.75 h |
