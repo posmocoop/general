@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | 
 |---|---|---|---|---|
+| 43 | April 8, 2022 | Iwan S. | ? | 0.?00 |
 | 42 | January 4, 2022 | Lu D. | 2 | 0.100 |
 | 41 | January 3, 2022 | Joseph G. G. | 2 | 0.100 |
 | 40 | November 25, 2021 | Stefan Schr. | 2 | 0.100 |
@@ -85,6 +86,8 @@ For every referral where your name comes up, you'll get 10% Ø.
 ## Donations VelObserver: No Bike, No Business!
 | no. | date  | who  | purpose | CHF | 
 |---|---|---|---|---|
+| 10 | März 25, 2022 | Datamap | VelObserver | 500.- | 
+| 9 | März 2, 2022 | Gasostra | VelObserver | 500.- | 
 | 8 | August 26, 2021 | Pro Velo Kanton Zürich | VelObserver | 3000.- | 
 | 7 | July 16, 2021 | Freitag | VelObserver | 500.- | 
 | 6 | July 2, 2021 | Minimum Bouldering | VelObserver | 500.- | 
@@ -94,7 +97,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 | 2 | March 12, 2021 | Kaywa AG | VelObserver | 500.- |      
 | 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VelObserver | 500.- | 
      
-Total bisher: 6500.-             
+Total bisher: 7500.-             
               
             
 ## TWINT VelObserver
