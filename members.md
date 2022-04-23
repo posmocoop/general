@@ -1,62 +1,62 @@
 # Members
 
-| no. | date  | who  | shares\* | Ø  | 
+| no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|
-| 43 | April 8, 2022 | Iwan S. | 2 | 0.100 |
-| 42 | January 4, 2022 | Lu D. | 2 | 0.100 |
-| 41 | January 3, 2022 | Joseph G. G. | 2 | 0.100 |
-| 40 | November 25, 2021 | Stefan Schr. | 2 | 0.100 |
-| 39 | November 17, 2021 | Annette S. | 5 | 0.250 |
-| 38 | November 9, 2021 | Simon M. | 2 | 0.100 |
-| 37 | Oktober 21, 2021 | Ilya B. | 2 | 0.100 |
-| 15 | Oktober 11, 2021 | Lars K. | 3 | 0.150 |
-| 36 | September 18, 2021 | Siro F. | 2 | 0.100 |
-| 35 | September 16, 2021 | Ralph St. | 2 | 0.100 |
-| 14 | September 6, 2021 | Dominik B. | 1 | 0.050 |
-| 34 | August 9, 2021 | Peter G. | 2 | 0.100 |
-| 6 | August 2, 2021 | Jürg W. | 2 | 0.100 |
-| 5 | August 2, 2021 | Nadia F. | 2 | 0.100 |
-| 8 | August 2, 2021 | Miriam F. | 2 | 0.100 |
-| 9 | July 27, 2021 | Marius Z. | 4 | 0.200 |
-| 4 | July 27, 2021 | Viktoria M. | 5 | 0.250 |
-| 12 | July 15, 2021 | Oleg L. | 1 | 0.050 |
-| 33 | July 6, 2021 | Laura R. | 4 | 0.200 |
-| 3 | June 28, 2021 | Lea S. | 5 | 0.250 |
-| 32 | June 28, 2021 | Thorben W. | 2 | 0.100 |
-| 31 | June 18, 2021 | Marcel B. | 2 | 0.100 |
-| 30 | June 17, 2021 | Tobias B. | 2 | 0.100 |
-| 29 | June 1, 2021 | Peter M. | 2 | 0.100 |
-| 2 | May 28, 2021 | Valery F. | 5 | 0.250 |
-| 28 | May 26, 2021 | Julia R. | 2 | 0.100 |
-| 27 | May 25, 2021 | Rahel E. | 2 | 0.100 |
-| 26 | May 25, 2021 | Alberto D. | 2 | 0.100 |
-| 25 | April 23, 2021 | Dorothea B. | 2 | 0.100 |
-| 24 | April 1, 2021 | Marco S. | 4 | 0.200 |
-| 23 | April 1, 2021 | Christoph F. | 2 | 0.100 |
-| 22 | March 31, 2021 | Stefan B. | 5 | 0.250 |
-| 1 | March 3, 2021 | Roger F. | 5 | 0.250 |
-| 21 | Februar 18, 2021 | Felix S. | 5 | 0.250 |
-| 20 | Februar 15, 2021 | Tom M. | 2 | 0.100 |
-| 19 | Februar 12, 2021 | Andres M. | 3 | 0.150 |
-| 18 | Februar 12, 2021 | Yvonne E. | 4 | 0.200 |
-| 17 | Februar 10, 2021 | David D. | 5 | 0.250 |
-| 16 | November 13, 2020 | Roberta F. | 2 | 0.100 |
-| 15 | September 23, 2020 | Lars K. | 2 | 0.100 |
-| 14 | July 6, 2020  | Dominik B. | 2 | 0.100 |
-| 13 | July 2, 2020  | Daniel S. | 3 | 0.150 |
-| 12 | June 26, 2020  | Oleg L. | 2 | 0.100 |
-| 11 | June 25, 2020  | Stefan K. | 2 | 0.100 |
-| 10 | June 24, 2020 / Feb 23, 2021 | Thomas H. | 5 | 0.250 |
-| 9 | June 16, 2020  | Marius Z. | 5 | 0.250 |
-| 8 | June 12, 2020  | Miriam F. | 5 | 0.250 |
-| 7 | June 12, 2020  | Alex E. | 2 | 0.100 |
-| 6 | June 4, 2020  | Jürg W. | 2 | 0.100 |
-| 5 | June 4, 2020  | Nadia F. W. | 2 | 0.100 |
-| 4 | June 3, 2020  | Viktoria M. | 4 | 0.200 |
-| 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 
-| 2 | May 29, 2020  | Valery F. | 2 | 0.100 |
-| 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 
-| Total |   |  |  157 | 7.850 | 
+| 43 | April 8, 2022 | Iwan S. | 2 | 0.100 | 1 | 
+| 42 | January 4, 2022 | Lu D. | 2 | 0.100 | 1 |
+| 41 | January 3, 2022 | Joseph G. G. | 2 | 0.100 | 1 |
+| 40 | November 25, 2021 | Stefan Schr. | 2 | 0.100 | 1 |
+| 39 | November 17, 2021 | Annette S. | 5 | 0.250 | 1 | 
+| 38 | November 9, 2021 | Simon M. | 2 | 0.100 | 1 | 
+| 37 | Oktober 21, 2021 | Ilya B. | 2 | 0.100 | 1 | 
+| 15 | Oktober 11, 2021 | Lars K. | 3 | 0.150 | 2 | 
+| 36 | September 18, 2021 | Siro F. | 2 | 0.100 | 1 | 
+| 35 | September 16, 2021 | Ralph St. | 2 | 0.100 | 1 | 
+| 14 | September 6, 2021 | Dominik B. | 1 | 0.050 | 2 | 
+| 34 | August 9, 2021 | Peter G. | 2 | 0.100 | 1 | 
+| 6 | August 2, 2021 | Jürg W. | 2 | 0.100 | 2 | 
+| 5 | August 2, 2021 | Nadia F. | 2 | 0.100 | 2 | 
+| 8 | August 2, 2021 | Miriam F. | 2 | 0.100 | 2 | 
+| 9 | July 27, 2021 | Marius Z. | 4 | 0.200 | 2 | 
+| 4 | July 27, 2021 | Viktoria M. | 5 | 0.250 | 2 | 
+| 12 | July 15, 2021 | Oleg L. | 1 | 0.050 | 2 | 
+| 33 | July 6, 2021 | Laura R. | 4 | 0.200 | 1 | 
+| 3 | June 28, 2021 | Lea S. | 5 | 0.250 | 2 | 
+| 32 | June 28, 2021 | Thorben W. | 2 | 0.100 | 1 | 
+| 31 | June 18, 2021 | Marcel B. | 2 | 0.100 | 1 | 
+| 30 | June 17, 2021 | Tobias B. | 2 | 0.100 | 1 | 
+| 29 | June 1, 2021 | Peter M. | 2 | 0.100 | 1 | 
+| 2 | May 28, 2021 | Valery F. | 5 | 0.250 | 2 | 
+| 28 | May 26, 2021 | Julia R. | 2 | 0.100 | 1 |
+| 27 | May 25, 2021 | Rahel E. | 2 | 0.100 | 1 | 
+| 26 | May 25, 2021 | Alberto D. | 2 | 0.100 | 1 | 
+| 25 | April 23, 2021 | Dorothea B. | 2 | 0.100 | 1 | 
+| 24 | April 1, 2021 | Marco S. | 4 | 0.200 | 1 | 
+| 23 | April 1, 2021 | Christoph F. | 2 | 0.100 | 1 | 
+| 22 | March 31, 2021 | Stefan B. | 5 | 0.250 | 1 | 
+| 1 | March 3, 2021 | Roger F. | 5 | 0.250 | 2 |
+| 21 | Februar 18, 2021 | Felix S. | 5 | 0.250 | 1 | 
+| 20 | Februar 15, 2021 | Tom M. | 2 | 0.100 | 1 | 
+| 19 | Februar 12, 2021 | Andres M. | 3 | 0.150 | 1 |
+| 18 | Februar 12, 2021 | Yvonne E. | 4 | 0.200 | 1 | 
+| 17 | Februar 10, 2021 | David D. | 5 | 0.250 | 1 |
+| 16 | November 13, 2020 | Roberta F. | 2 | 0.100 | 1 |
+| 15 | September 23, 2020 | Lars K. | 2 | 0.100 | 1 |
+| 14 | July 6, 2020  | Dominik B. | 2 | 0.100 | 1 |
+| 13 | July 2, 2020  | Daniel S. | 3 | 0.150 | 1 | 
+| 12 | June 26, 2020  | Oleg L. | 2 | 0.100 | 1 |
+| 11 | June 25, 2020  | Stefan K. | 2 | 0.100 | 1 |
+| 10 | June 24, 2020 / Feb 23, 2021 | Thomas H. | 5 | 0.250 | 1 |
+| 9 | June 16, 2020  | Marius Z. | 5 | 0.250 | 1 |
+| 8 | June 12, 2020  | Miriam F. | 5 | 0.250 | 1 |
+| 7 | June 12, 2020  | Alex E. | 2 | 0.100 | 1 |
+| 6 | June 4, 2020  | Jürg W. | 2 | 0.100 | 1 |
+| 5 | June 4, 2020  | Nadia F. W. | 2 | 0.100 | 1 |
+| 4 | June 3, 2020  | Viktoria M. | 4 | 0.200 | 1 |
+| 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
+| 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
+| 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
+| Total |   |  |  157 | 7.850 | |
 
 \* Shares = Anteilscheine             
                
