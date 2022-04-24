@@ -10,7 +10,7 @@ https://www.thecommonsjournal.org/articles/10.18352/ijc.252/
 - [Ausgaben](https://github.com/posmocoop/general/blob/master/expenses.md)
 - [Statuten](https://github.com/posmocoop/general/blob/master/statutes.md)
 - [Sitzungen](https://github.com/posmocoop/general/blob/master/meetings.md)
-- **Erste GV am 26. Mai 2021, 18:00-20:00 CEST**
+- **Zweite Generalversammlung: Mittwoch, 29. Juni, 18-19 Uhr CEST** (Erste GV am 26. Mai 2021, 18:00-20:00 CEST)
 
 
 ## Nächste Schritte – Next Steps
