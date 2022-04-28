@@ -432,7 +432,7 @@ Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der 
 
                
 -----                              
-Zum Herunterladen als [PDF](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf). 
+Zum Herunterladen als [PDF](https://github.com/posmocoop/general/raw/master/Statuten_Genossenschaft_Posmo_Schweiz.pdf). 
 
 
 
