@@ -2,6 +2,10 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 29 | Mai 2, 2022 | Peter M. | 2 | 0.100 | 1 | 
+| 43 | April 25, 2022 | Roger F. | 5 | 0.250 | 3 | 
+| 34 | April 21, 2022 | Peter G. | 2 | 0.100 | 2 | 
+| 19 | April 21, 2022 | Andreas M. | 5 | 0.250 | 2 | 
 | 43 | April 8, 2022 | Iwan S. | 2 | 0.100 | 1 | 
 | 42 | January 4, 2022 | Lu D. | 2 | 0.100 | 1 |
 | 41 | January 3, 2022 | Joseph G. G. | 2 | 0.100 | 1 |
@@ -56,7 +60,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  157 | 7.850 | |
+| Total |   |  |  171 | 8.550 | |
 
 \* Shares = Anteilscheine             
                
