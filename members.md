@@ -71,7 +71,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 | no. | date  | by  | for | Ø  | 
 |---|---|---|---|---|
 | 15 | November 23, 2021  | Lu D. (42) | Felix S. (21) | 0.010 | 
-| 14 | November 23, 2021  | Stefan Schr. (40) | Felix S. (21) | 0.0?? | 
+| 14 | November 23, 2021  | Stefan Schr. (40) | Felix S. (21) | 0.010 | 
 | 13 | November 17, 2021  | Annette S. (39) | Felix S. (21) | 0.025 | 
 | 12 | November 9, 2021  | Simon M. (38) | Thomas H. (10) | 0.010 | 
 | 11 | September 16, 2021  | Ralph St. (35) | Roger F. (1) | 0.010 | 
@@ -107,6 +107,12 @@ Total bisher: 7500.-
 ## TWINT VelObserver
 | no. | date  | purpose | CHF | 
 |---|---|---|---|
+| 13 | April 20, 2021 | VelObserver | 9.87 |
+| 12 | April 19, 2021 | VelObserver | 14.80 |
+| 11 | April 12, 2021 | VelObserver | 49.35 |
+| 10 | April 11, 2021 | VelObserver | 49.35 |
+| 9 | April 8, 2021 | VelObserver | 4.93 |
+| 8 | Januar 7, 2021 | VelObserver | 98.70 |
 | 7 | August 10, 2021 | VelObserver | 49.35 |
 | 6 | July 29, 2021 | VelObserver | 167.79 |
 | 5 | July 19, 2021 | VelObserver | 24.67 |  
@@ -115,5 +121,5 @@ Total bisher: 7500.-
 | 2 | May 14, 2021 | VelObserver | 29.60 |   
 | 1 | May 11, 2021 | VelObserver | 14.80 |    
     
-Total bisher: 340.49   
+Total bisher: 567.39    
 
