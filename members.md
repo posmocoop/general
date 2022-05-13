@@ -2,6 +2,12 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 21 | Mai 12, 2022 | Felix Sch. | 4 | 0.200 | 2 | 
+| 17 | Mai 12, 2022 | David D. | 3 | 0.150 | 2 | 
+| 22 | Mai 9, 2022 | Stefan B. | 3 | 0.150 | 2 | 
+| 16 | Mai 9, 2022 | Roberta F. | 1 | 0.050 | 2 | 
+
+
 | 29 | Mai 2, 2022 | Peter M. | 2 | 0.100 | 2 | 
 | 43 | April 25, 2022 | Roger F. | 5 | 0.250 | 3 | 
 | 34 | April 21, 2022 | Peter G. | 2 | 0.100 | 2 | 
@@ -60,7 +66,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  171 | 8.550 | |
+| Total |   |  |  182 | 9.100 | |
 
 \* Shares = Anteilscheine             
                
