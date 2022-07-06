@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 2 | Juli 6, 2022 | Valery F. | 2 | 0.100 | 3 | 
 | 1 | Juli 5, 2022 | Roger F. | 5 | 0.250 | 4 | 
 | 18 | Juli 4, 2022 | Yvonne E. | 2 | 0.100 | 2 | 
 | 27 | Mai 16, 2022 | Rahel E. | 1 | 0.050 | 2 | 
@@ -67,7 +68,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  190 | 9.500 | |
+| Total |   |  |  192 | 9.600 | |
 
 \* Shares = Anteilscheine             
                
