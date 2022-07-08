@@ -49,6 +49,7 @@
 | 23 | April 1, 2021 | Christoph F. | 2 | 0.100 | 1 | 
 | 22 | March 31, 2021 | Stefan B. | 5 | 0.250 | 1 | 
 | 1 | March 3, 2021 | Roger F. | 5 | 0.250 | 2 |
+| 10 | Feb 23, 2021 | Thomas H. | 2 | 0.100 | 2 |
 | 21 | Februar 18, 2021 | Felix S. | 5 | 0.250 | 1 | 
 | 20 | Februar 15, 2021 | Tom M. | 2 | 0.100 | 1 | 
 | 19 | Februar 12, 2021 | Andres M. | 3 | 0.150 | 1 |
@@ -60,7 +61,7 @@
 | 13 | July 2, 2020  | Daniel S. | 3 | 0.150 | 1 | 
 | 12 | June 26, 2020  | Oleg L. | 2 | 0.100 | 1 |
 | 11 | June 25, 2020  | Stefan K. | 2 | 0.100 | 1 |
-| 10 | June 24, 2020 / Feb 23, 2021 | Thomas H. | 5 | 0.250 | 1 |
+| 10 | June 24, 2020 | Thomas H. | 3 | 0.150 | 1 |
 | 9 | June 16, 2020  | Marius Z. | 5 | 0.250 | 1 |
 | 8 | June 12, 2020  | Miriam F. | 5 | 0.250 | 1 |
 | 7 | June 12, 2020  | Alex E. | 2 | 0.100 | 1 |
