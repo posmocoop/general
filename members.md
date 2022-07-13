@@ -2,6 +2,8 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 9 | Juli 12, 2022 | Marius Z. | 2 | 0.100 | 3 |
+| 15 | Juli 12, 2022 | Lars K. | 2 | 0.100 | 3 |
 | 19 | Juli 9, 2022 | Andres M. | 5 | 0.250 | 3 |
 | 10 | Juli 8, 2022 | Thomas H. | 2 | 0.100 | 3 |
 | 8 | Juli 8, 2022  | Miriam F. | 2 | 0.100 | 3 |
@@ -73,7 +75,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  203 | 10.150 | |
+| Total |   |  |  207 | 10.350 | |
 
 \* Shares = Anteilscheine             
                
