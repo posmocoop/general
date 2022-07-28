@@ -2,6 +2,9 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+
+vidonne@hestia.ai
+| 44 | Juli 28, 2022 | Marie-Pierre V. | 3 | 0.150 | 1 |
 | 9 | Juli 12, 2022 | Marius Z. | 2 | 0.100 | 3 |
 | 15 | Juli 12, 2022 | Lars K. | 2 | 0.100 | 3 |
 | 19 | Juli 9, 2022 | Andres M. | 5 | 0.250 | 3 |
@@ -75,7 +78,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  207 | 10.350 | |
+| Total |   |  |  210 | 10.500 | |
 
 \* Shares = Anteilscheine             
                
