@@ -2,8 +2,6 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
-
-vidonne@hestia.ai
 | 44 | Juli 28, 2022 | Marie-Pierre V. | 3 | 0.150 | 1 |
 | 9 | Juli 12, 2022 | Marius Z. | 2 | 0.100 | 3 |
 | 15 | Juli 12, 2022 | Lars K. | 2 | 0.100 | 3 |
