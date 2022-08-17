@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 46 | August 17, 2022 | Ernst H. | 2 | 0.100 | 1 |
 | 45 | August 16, 2022 | Hayal O. | 5 | 0.250 | 1 |
 | 44 | Juli 28, 2022 | Marie-Pierre V. | 3 | 0.150 | 1 |
 | 9 | Juli 12, 2022 | Marius Z. | 2 | 0.100 | 3 |
@@ -77,7 +78,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  215 | 10.750 | |
+| Total |   |  |  217 | 10.850 | |
 
 \* Shares = Anteilscheine             
                
