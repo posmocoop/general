@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 48 | September 4, 2022 | Marlon G. | ? | 0.??0 | 1 |
 | 47 | August 31, 2022 | Markus S. | 5 | 0.250 | 1 |
 | 46 | August 17, 2022 | Ernst H. | 2 | 0.100 | 1 |
 | 45 | August 16, 2022 | Hayal O. | 5 | 0.250 | 1 |
