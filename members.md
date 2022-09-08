@@ -2,7 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
-| 48 | September 4, 2022 | Marlon G. | ? | 0.??0 | 1 |
+| 48 | September 4, 2022 | Marlon G. | 2 | 0.100 | 1 |
 | 47 | August 31, 2022 | Markus S. | 5 | 0.250 | 1 |
 | 46 | August 17, 2022 | Ernst H. | 2 | 0.100 | 1 |
 | 45 | August 16, 2022 | Hayal O. | 5 | 0.250 | 1 |
@@ -80,7 +80,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  222 | 11.100 | |
+| Total |   |  |  224 | 11.200 | |
 
 \* Shares = Anteilscheine             
                
