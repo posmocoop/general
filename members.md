@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 51 | Oktober 16, 2022 | Michi E. | 2 | 0.100 | 1 |
 | 50 | Oktober 13, 2022 | Benedict R. | 3 | 0.150 | 1 |
 | 49 | September 18, 2022 | Mark L. | 2 | 0.100 | 1 |
 | 48 | September 4, 2022 | Marlon G. | 2 | 0.100 | 1 |
@@ -82,7 +83,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  229 | 11.450 | |
+| Total |   |  |  231 | 11.550 | |
 
 \* Shares = Anteilscheine             
                
