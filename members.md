@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 53 | November 2, 2022 | Nader T. | 2 | 0.100 | 1 |
 | 52 | Oktober 27, 2022 | Noël S. | 3 | 0.150 | 1 |
 | 51 | Oktober 16, 2022 | Michi E. | 2 | 0.100 | 1 |
 | 50 | Oktober 13, 2022 | Benedict R. | 3 | 0.150 | 1 |
@@ -84,7 +85,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  234 | 11.700 | |
+| Total |   |  |  236 | 11.800 | |
 
 \* Shares = Anteilscheine             
                
