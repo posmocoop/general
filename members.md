@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 55 | December 17, 2022 | Julia M. St. | 4 | 0.200 | 1 |
 | 54 | November 25, 2022 | Dana St. | 2 | 0.100 | 1 |
 | 53 | November 2, 2022 | Nader T. | 2 | 0.100 | 1 |
 | 52 | Oktober 27, 2022 | Noël S. | 3 | 0.150 | 1 |
@@ -86,7 +87,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  238 | 11.900 | |
+| Total |   |  |  242 | 12.100 | |
 
 \* Shares = Anteilscheine             
                
