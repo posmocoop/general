@@ -117,6 +117,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 ## Donations VelObserver: No Bike, No Business!
 | no. | date  | who  | purpose | CHF | 
 |---|---|---|---|---|
+| 11 | Dezember 30, 2022 | Datamap AG | VelObserver | 1000.- | 
 | 10 | März 25, 2022 | Datamap AG | VelObserver | 500.- | 
 | 9 | März 2, 2022 | Gasostra | VelObserver | 500.- | 
 | 8 | August 26, 2021 | Pro Velo Kanton Zürich | VelObserver | 3000.- | 
