@@ -130,7 +130,7 @@ For every referral where your name comes up, you'll get 10% Ø.
 | 2 | March 12, 2021 | Kaywa AG | VelObserver | 500.- |      
 | 1 | Februar 19, 2021 | Pro Velo Kanton Zurich | VelObserver | 500.- | 
      
-Total bisher: 7500.-             
+Total bisher: 8500.-             
               
             
 ## TWINT VelObserver
