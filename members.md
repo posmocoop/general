@@ -2,6 +2,7 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 58 | January 18, 2023 | Kimon A. | 2 | 0.100 | 1 |
 | 57 | January 11, 2023 | Jérôme O. | 5 | 0.250 | 1 |
 | 56 | January 2, 2023 | Katharina L. | 2 | 0.100 | 1 |
 | 55 | December 17, 2022 | Julia M. St. | 4 | 0.200 | 1 |
@@ -89,7 +90,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  249 | 12.450 | |
+| Total |   |  |  251 | 12.550 | |
 
 \* Shares = Anteilscheine             
                
