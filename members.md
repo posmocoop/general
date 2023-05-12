@@ -2,6 +2,8 @@
 
 | no. | date  | who  | shares\* | Ø  | year |
 |---|---|---|---|---|---|
+| 17 | Mai 8, 2023 | David D. | 2 | 0.100 | 3 |
+| 16 | April 25, 2023 | Roberta F. | 2 | 0.100 | 3 |
 | 61 | March 10, 2023 | Adrian Oe. | 2 | 0.100 | 1 |
 | 60 | February 20, 2023 | Tom R. | 2 | 0.100 | 1 |
 | 59 | February 5, 2023 | Rouven B. | 4 | 0.200 | 1 |
@@ -93,7 +95,7 @@
 | 3 | June 2, 2020  | Lea S. | 4 | 0.200 | 1 |
 | 2 | May 29, 2020  | Valery F. | 2 | 0.100 | 1 |
 | 1 | May 29, 2020  | Roger F. | 5 | 0.250 | 1 |
-| Total |   |  |  259 | 12.950 | |
+| Total |   |  |  263 | 13.150 | |
 
 \* Shares = Anteilscheine             
                
