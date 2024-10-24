@@ -183,13 +183,13 @@ Mitglieder ist ausgeschlossen.
 <ol type="a" start="a">       
 <li>persönlich unterzeichnetes Eintrittsgesuch (auch als PDF), in welchem die Anerkennung der Statuten enthalten sein muss;</li>
           
-<li>die Bezahlung von zwei Anteilscheinen im Nennwert von CHF 50.00 (Schweizer Franken fünfzig), d.h. total CHF 100.00 (Schweizer Franken hundert);</li>
+<li>die Bezahlung von zwei Anteilscheinen im Nennwert von CHF 50.00 (Schweizer Franken fünfzig), d.h. total CHF 100.00 (Schweizer Franken hundert). In anderen Währungen muss der Betrag dem Schweizer Betrag entsprechen;</li>
               
 <li>mind. sieben validierte Tage Mobilitätsdaten im Kalenderjahr. Diese Tage müssen Bewegungsdaten ausserhalb des Wohn- oder Arbeitsortes beinhalten.</li> 
             
-<li>Wohnsitz in der Schweiz.</li></ol>
+</ol>
 
-2. Über die Aufnahme als Mitglied entscheidet die Verwaltung endgültig. Die Verwaltung kann ein Gesuch ohne Begründung ablehnen. Die Verwaltung kann in Ausnahmefällen die Aufnahme von Mitgliedern mit Wohnsitz ausserhalb der Schweiz gewähren.
+2. Über die Aufnahme als Mitglied entscheidet die Verwaltung endgültig. 
 
 3. Die Genossenschaft Posmo Schweiz kann auch virtuelle Genossenschaften für andere Länder aufbauen. Diese können ab einer gewissen Grösse in Länder-Genossenschaften überführt werden.
 
@@ -206,7 +206,6 @@ Mitglieder ist ausgeschlossen.
 <ol type="a" start="a">       
 <li>freiwilligen Austritt;</li>
 <li>Ausschluss;</li>
-<li>Wohnsitznahme im Ausland;</li>
 <li>Tod des Mitglieds.</li></ol>
 
 2. Freiwilliger Austritt
@@ -429,6 +428,11 @@ Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der 
 1. Mitteilungen an die Genossenschafter erfolgen per Brief (ohne Einschreiben) oder E-Mail, jeweils an die letzte bekannte Adresse.	
 				 			
 2. Publikationsorgan der Genossenschaft ist das Schweizerische Handelsamtsblatt.
+
+--
+## Änderungen
+Änderungen bei Art. 10 und Art 12, gemäss GV-Protokoll vom 17. Oktober 2024. Der Wohnsitz muss nicht mehr in der Schweiz sein. 
+
 
                
 -----                              
