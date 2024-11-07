@@ -434,9 +434,8 @@ Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der 
 Änderungen bei Art. 10 und Art 12, gemäss GV-Protokoll vom 17. Oktober 2024. Der Wohnsitz muss nicht mehr in der Schweiz sein. 
 
 
-               
------                              
-Zum Herunterladen als [PDF](https://github.com/posmocoop/general/raw/master/Statuten_Genossenschaft_Posmo_Schweiz.pdf). 
+Letzte Aktualisierung am 7. November 2024                                 
+
 
 
 
