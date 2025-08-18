@@ -217,7 +217,7 @@ Der Austritt kann per Ende eines Jahres erklärt werden, unter Einhaltung einer
 
 <li>Über den Ausschluss von Mitgliedern entscheidet die Verwaltung, gegen deren Entscheid ein ausgeschlossenes Mitglied innerhalb 30 Tagen ein Rekursrecht an die nächste Generalversammlung zusteht. Der Ausschluss erfolgt mit sofortiger Wirkung.</li></ol>
 
-4. Ansprüche ausgetretener und ausgeschlossener Mitglieder
+4. Ansprüche ausgetretener und ausgeschlossener Mitglieder<br/> 
 Ausgetretene und ausgeschlossene Mitglieder haben keinen Anspruch auf Vergütung des Wertes ihrer einbezahlten Anteilscheine oder eine anderweitige Abfindung.
 
 ## IV. Organe
