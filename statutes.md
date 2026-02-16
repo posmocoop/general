@@ -96,8 +96,9 @@ fünfzig) heraus.
 
 2. Jedes Mitglied der Genossenschaft ist zur Übernahme von 2 Anteilscheinen im ersten
 Jahr und je eines weiteren Anteilscheins in den Folgejahren verpflichtet.         
-Ein Mitglied kann pro Jahr maximal 5 Anteilscheine erwerben.          
-Die Anteilscheine sind unverzinslich.       
+Ein Mitglied kann pro Jahr maximal 20 Anteilscheine erwerben.          
+Die Anteilscheine sind unverzinslich.    
+
 
 ### Art. 8 – Shapley/Ostrom
 
@@ -431,10 +432,12 @@ Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der 
 
 --
 ## Änderungen
-Änderungen bei Art. 10 und Art 12, gemäss GV-Protokoll vom 17. Oktober 2024. Der Wohnsitz muss nicht mehr in der Schweiz sein. 
+1. Änderungen bei Art. 10 und Art 12, gemäss GV-Protokoll vom 17. Oktober 2024. Der Wohnsitz muss nicht mehr in der Schweiz sein.
+2. Änderungen bei Art. 7, Absatz 2, gemäss GV-Protokoll vom 11. Oktober 2025. Der mögliche jährliche Mitgliederbeitrag wird von CHF 250.–auf CHF 1000.– erhöht
 
 
-Letzte Aktualisierung am 7. November 2024                                 
+
+Letzte Aktualisierung am 16. Februar 2026                                 
 
 
 
